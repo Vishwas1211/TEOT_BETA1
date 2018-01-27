@@ -1,0 +1,880 @@
+fileFormatVersion: 2
+guid: e41119d85c841924d8a26fb361fefccc
+timeCreated: 1516066667
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Jaycee_Head
+    100002: Jaycee_Hips
+    100004: Jaycee_LeftArm
+    100006: Jaycee_LeftFoot
+    100008: Jaycee_LeftForeArm
+    100010: Jaycee_LeftHand
+    100012: Jaycee_LeftHandIndex1
+    100014: Jaycee_LeftHandIndex2
+    100016: Jaycee_LeftHandIndex3
+    100018: Jaycee_LeftHandMiddle1
+    100020: Jaycee_LeftHandMiddle2
+    100022: Jaycee_LeftHandMiddle3
+    100024: Jaycee_LeftHandPinky1
+    100026: Jaycee_LeftHandPinky2
+    100028: Jaycee_LeftHandPinky3
+    100030: Jaycee_LeftHandRing1
+    100032: Jaycee_LeftHandRing2
+    100034: Jaycee_LeftHandRing3
+    100036: Jaycee_LeftHandThumb1
+    100038: Jaycee_LeftHandThumb2
+    100040: Jaycee_LeftHandThumb3
+    100042: Jaycee_LeftLeg
+    100044: Jaycee_LeftShoulder
+    100046: Jaycee_LeftToeBase
+    100048: Jaycee_LeftUpLeg
+    100050: Jaycee_Neck
+    100052: Jaycee_RightArm
+    100054: Jaycee_RightFoot
+    100056: Jaycee_RightForeArm
+    100058: Jaycee_RightHand
+    100060: Jaycee_RightHandIndex1
+    100062: Jaycee_RightHandIndex2
+    100064: Jaycee_RightHandIndex3
+    100066: Jaycee_RightHandMiddle1
+    100068: Jaycee_RightHandMiddle2
+    100070: Jaycee_RightHandMiddle3
+    100072: Jaycee_RightHandPinky1
+    100074: Jaycee_RightHandPinky2
+    100076: Jaycee_RightHandPinky3
+    100078: Jaycee_RightHandRing1
+    100080: Jaycee_RightHandRing2
+    100082: Jaycee_RightHandRing3
+    100084: Jaycee_RightHandThumb1
+    100086: Jaycee_RightHandThumb2
+    100088: Jaycee_RightHandThumb3
+    100090: Jaycee_RightLeg
+    100092: Jaycee_RightShoulder
+    100094: Jaycee_RightToeBase
+    100096: Jaycee_RightUpLeg
+    100098: Jaycee_Spine
+    100100: Jaycee_Spine1
+    100102: Jaycee_Spine2
+    100104: Jaycee_Spine3
+    100106: Jaycee_Spine4
+    100108: //RootNode
+    100110: JayceeA 1
+    400000: Jaycee_Head
+    400002: Jaycee_Hips
+    400004: Jaycee_LeftArm
+    400006: Jaycee_LeftFoot
+    400008: Jaycee_LeftForeArm
+    400010: Jaycee_LeftHand
+    400012: Jaycee_LeftHandIndex1
+    400014: Jaycee_LeftHandIndex2
+    400016: Jaycee_LeftHandIndex3
+    400018: Jaycee_LeftHandMiddle1
+    400020: Jaycee_LeftHandMiddle2
+    400022: Jaycee_LeftHandMiddle3
+    400024: Jaycee_LeftHandPinky1
+    400026: Jaycee_LeftHandPinky2
+    400028: Jaycee_LeftHandPinky3
+    400030: Jaycee_LeftHandRing1
+    400032: Jaycee_LeftHandRing2
+    400034: Jaycee_LeftHandRing3
+    400036: Jaycee_LeftHandThumb1
+    400038: Jaycee_LeftHandThumb2
+    400040: Jaycee_LeftHandThumb3
+    400042: Jaycee_LeftLeg
+    400044: Jaycee_LeftShoulder
+    400046: Jaycee_LeftToeBase
+    400048: Jaycee_LeftUpLeg
+    400050: Jaycee_Neck
+    400052: Jaycee_RightArm
+    400054: Jaycee_RightFoot
+    400056: Jaycee_RightForeArm
+    400058: Jaycee_RightHand
+    400060: Jaycee_RightHandIndex1
+    400062: Jaycee_RightHandIndex2
+    400064: Jaycee_RightHandIndex3
+    400066: Jaycee_RightHandMiddle1
+    400068: Jaycee_RightHandMiddle2
+    400070: Jaycee_RightHandMiddle3
+    400072: Jaycee_RightHandPinky1
+    400074: Jaycee_RightHandPinky2
+    400076: Jaycee_RightHandPinky3
+    400078: Jaycee_RightHandRing1
+    400080: Jaycee_RightHandRing2
+    400082: Jaycee_RightHandRing3
+    400084: Jaycee_RightHandThumb1
+    400086: Jaycee_RightHandThumb2
+    400088: Jaycee_RightHandThumb3
+    400090: Jaycee_RightLeg
+    400092: Jaycee_RightShoulder
+    400094: Jaycee_RightToeBase
+    400096: Jaycee_RightUpLeg
+    400098: Jaycee_Spine
+    400100: Jaycee_Spine1
+    400102: Jaycee_Spine2
+    400104: Jaycee_Spine3
+    400106: Jaycee_Spine4
+    400108: //RootNode
+    400110: JayceeA 1
+    4300000: JayceeA
+    9500000: //RootNode
+    13700000: JayceeA 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Jaycee_Spine1
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_Spine2
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_Spine3
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaycee_Spine4
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: JayceeA(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JayceeA 1
+      parentName: JayceeA(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jaycee_Hips
+      parentName: JayceeA(Clone)
+      position: {x: -0, y: 0.92316, z: -0.009041}
+      rotation: {x: -0.50000036, y: 0.49999967, z: 0.49999967, w: 0.50000036}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Jaycee_Spine
+      parentName: Jaycee_Hips
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.49999967, y: 0.50000036, z: 0.49999967, w: 0.50000036}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jaycee_Spine1
+      parentName: Jaycee_Spine
+      position: {x: -0.0008932382, y: -0.00001849167, z: 0.0000000012643864}
+      rotation: {x: -0.0000020958084, y: 0.00000070938535, z: -0.02332559, w: 0.99972796}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jaycee_Spine2
+      parentName: Jaycee_Spine1
+      position: {x: -0.0010460042, y: -0.0000008217618, z: -2.279279e-12}
+      rotation: {x: 3.883031e-14, y: -0.00000022760749, z: 0.08206211, w: 0.9966272}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jaycee_Spine3
+      parentName: Jaycee_Spine2
+      position: {x: -0.0010461342, y: -0.0000008330494, z: -2.3104008e-12}
+      rotation: {x: 0, y: 0, z: 0.0033590016, w: 0.9999944}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jaycee_Spine4
+      parentName: Jaycee_Spine3
+      position: {x: -0.0010461687, y: -0.00000083252786, z: -2.3092639e-12}
+      rotation: {x: 8.923289e-10, y: 0.00000004973701, z: -0.017938055, w: 0.9998391}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Jaycee_Neck
+      parentName: Jaycee_Spine4
+      position: {x: -0.0011528503, y: -0.00006395787, z: -1.7739353e-10}
+      rotation: {x: -1.21511704e-14, y: 0.0000005445595, z: -0.1963367, w: 0.9805365}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jaycee_Head
+      parentName: Jaycee_Neck
+      position: {x: -0.0007414949, y: 0.000030443072, z: -0.0000000099155635}
+      rotation: {x: 0.0000000090569925, y: -0.00000015810448, z: 0.057191093, w: 0.99836326}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jaycee_LeftShoulder
+      parentName: Jaycee_Neck
+      position: {x: 0.00023922561, y: -0.000074802934, z: 0.00027962978}
+      rotation: {x: -0.6451357, y: -0.17653431, z: 0.73589563, w: -0.10532399}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jaycee_LeftArm
+      parentName: Jaycee_LeftShoulder
+      position: {x: -0.00116032, y: 0, z: -0.0000000011920929}
+      rotation: {x: -0.21214037, y: 0.017923005, z: 0.063874364, w: 0.9749848}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Jaycee_LeftForeArm
+      parentName: Jaycee_LeftArm
+      position: {x: -0.0025672507, y: 0, z: 0}
+      rotation: {x: -0.002106979, y: 0.013568307, z: 0.04851561, w: 0.9987281}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Jaycee_LeftHand
+      parentName: Jaycee_LeftForeArm
+      position: {x: -0.00240219, y: -5.9604643e-10, z: 0.0000000011920929}
+      rotation: {x: -0.63502777, y: 0.016934115, z: -0.13023642, w: 0.76124334}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Jaycee_LeftHandThumb1
+      parentName: Jaycee_LeftHand
+      position: {x: -0.00013629973, y: 0.00006677985, z: -0.00020191312}
+      rotation: {x: 0.6794876, y: -0.2988128, z: 0.1256934, w: 0.65818596}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.000001}
+    - name: Jaycee_LeftHandThumb2
+      parentName: Jaycee_LeftHandThumb1
+      position: {x: -0.00040363966, y: -5.9604643e-10, z: 0}
+      rotation: {x: 0.000000089406946, y: 0.00000068545324, z: -0.035121135, w: 0.99938315}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Jaycee_LeftHandThumb3
+      parentName: Jaycee_LeftHandThumb2
+      position: {x: -0.00032998918, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.06536281, w: 0.99786156}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Jaycee_LeftHandIndex1
+      parentName: Jaycee_LeftHand
+      position: {x: -0.00072888966, y: -0.000045410394, z: -0.00020047366}
+      rotation: {x: 0.04056505, y: -0.022798901, z: -0.039506804, w: 0.99813527}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000011}
+    - name: Jaycee_LeftHandIndex2
+      parentName: Jaycee_LeftHandIndex1
+      position: {x: -0.00036145985, y: 0, z: 0}
+      rotation: {x: 0.00000023469315, y: -0.0000025387837, z: -0.03361391, w: 0.99943495}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Jaycee_LeftHandIndex3
+      parentName: Jaycee_LeftHandIndex2
+      position: {x: -0.00020853996, y: 0, z: 2.9802322e-10}
+      rotation: {x: 2.9262523e-10, y: 0.000000014898289, z: -0.019637745, w: 0.9998072}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: Jaycee_LeftHandMiddle1
+      parentName: Jaycee_LeftHand
+      position: {x: -0.0007263398, y: -0.00005601704, z: -0.000008915365}
+      rotation: {x: -0.07258793, y: -0.0020173164, z: -0.040506933, w: 0.99653715}
+      scale: {x: 0.99999964, y: 1.0000012, z: 1.0000002}
+    - name: Jaycee_LeftHandMiddle2
+      parentName: Jaycee_LeftHandMiddle1
+      position: {x: -0.00047197938, y: -5.9604643e-10, z: -2.9802322e-10}
+      rotation: {x: 0.00000016391266, y: -0.0000012866212, z: -0.031738795, w: 0.9994963}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Jaycee_LeftHandMiddle3
+      parentName: Jaycee_LeftHandMiddle2
+      position: {x: -0.00027584968, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: -0.011174751, w: 0.9999376}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: Jaycee_LeftHandRing1
+      parentName: Jaycee_LeftHand
+      position: {x: -0.0007578295, y: -0.000014131069, z: 0.00016218126}
+      rotation: {x: -0.04811455, y: 0.010770612, z: -0.039901197, w: 0.9979865}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1.0000002}
+    - name: Jaycee_LeftHandRing2
+      parentName: Jaycee_LeftHandRing1
+      position: {x: -0.0004216504, y: 0, z: 0}
+      rotation: {x: -0.0000002756713, y: 0.00000058580156, z: -0.03104775, w: 0.999518}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Jaycee_LeftHandRing3
+      parentName: Jaycee_LeftHandRing2
+      position: {x: -0.00026243032, y: -2.9802322e-10, z: 0}
+      rotation: {x: -0.000000020488603, y: 1.4226507e-10, z: -0.0069434526, w: 0.9999759}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Jaycee_LeftHandPinky1
+      parentName: Jaycee_LeftHand
+      position: {x: -0.00067837, y: 0.000078104735, z: 0.0003192681}
+      rotation: {x: -0.08600808, y: 0.049259305, z: -0.018341571, w: 0.9949069}
+      scale: {x: 0.9999999, y: 0.99999976, z: 1.0000002}
+    - name: Jaycee_LeftHandPinky2
+      parentName: Jaycee_LeftHandPinky1
+      position: {x: -0.00029971002, y: 0, z: 0}
+      rotation: {x: -0.00000043958406, y: -0.000002026557, z: -0.033298776, w: 0.9994455}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Jaycee_LeftHandPinky3
+      parentName: Jaycee_LeftHandPinky2
+      position: {x: -0.00022292018, y: 0, z: -2.9802322e-10}
+      rotation: {x: -0.000000027556538, y: 0.000000004611163, z: -0.16503996, w: 0.9862869}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jaycee_RightShoulder
+      parentName: Jaycee_Neck
+      position: {x: 0.00023922561, y: -0.00007480144, z: -0.00027963019}
+      rotation: {x: 0.6451354, y: 0.17653224, z: 0.73589617, w: -0.10532572}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Jaycee_RightArm
+      parentName: Jaycee_RightShoulder
+      position: {x: -0.00116032, y: 0, z: 0}
+      rotation: {x: 0.21502818, y: -0.017413523, z: 0.06422289, w: 0.97433835}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Jaycee_RightForeArm
+      parentName: Jaycee_RightArm
+      position: {x: -0.0025672507, y: 2.9802322e-10, z: 5.9604643e-10}
+      rotation: {x: 0.0018692904, y: -0.013213505, z: 0.04899239, w: 0.99871}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Jaycee_RightHand
+      parentName: Jaycee_RightForeArm
+      position: {x: -0.0024021906, y: 0, z: 0.0000000011920929}
+      rotation: {x: 0.63502383, y: -0.016653545, z: -0.12974109, w: 0.76133734}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Jaycee_RightHandThumb1
+      parentName: Jaycee_RightHand
+      position: {x: -0.00013629973, y: 0.000066779256, z: 0.00020191312}
+      rotation: {x: -0.6794875, y: 0.29881284, z: 0.12569338, w: 0.65818596}
+      scale: {x: 0.99999964, y: 1.0000004, z: 1.0000008}
+    - name: Jaycee_RightHandThumb2
+      parentName: Jaycee_RightHandThumb1
+      position: {x: -0.00040364027, y: -5.9604643e-10, z: 0}
+      rotation: {x: -0.00000044703472, y: 0.0000038146964, z: -0.035120837, w: 0.99938315}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: Jaycee_RightHandThumb3
+      parentName: Jaycee_RightHandThumb2
+      position: {x: -0.0003299898, y: 0, z: -5.9604643e-10}
+      rotation: {x: 0, y: 0, z: 0.065362856, w: 0.99786156}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jaycee_RightHandIndex1
+      parentName: Jaycee_RightHand
+      position: {x: -0.0007340997, y: -0.00007226109, z: 0.00020291239}
+      rotation: {x: -0.05563148, y: 0.023393271, z: -0.03915718, w: 0.997409}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.000001}
+    - name: Jaycee_RightHandIndex2
+      parentName: Jaycee_RightHandIndex1
+      position: {x: -0.00036145985, y: 5.9604643e-10, z: 0}
+      rotation: {x: -0.000000085681656, y: -0.0000006835906, z: -0.03197605, w: 0.9994887}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: Jaycee_RightHandIndex3
+      parentName: Jaycee_RightHandIndex2
+      position: {x: -0.00020854056, y: 2.9802322e-10, z: 0}
+      rotation: {x: 0, y: 0, z: -0.019637743, w: 0.9998072}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Jaycee_RightHandMiddle1
+      parentName: Jaycee_RightHand
+      position: {x: -0.0007263404, y: -0.000056016444, z: 0.000008915365}
+      rotation: {x: 0.07258796, y: 0.002018245, z: -0.0405063, w: 0.99653715}
+      scale: {x: 0.99999946, y: 1.0000011, z: 1.0000001}
+    - name: Jaycee_RightHandMiddle2
+      parentName: Jaycee_RightHandMiddle1
+      position: {x: -0.00044690966, y: -5.9604643e-10, z: 0}
+      rotation: {x: -0.00000023841847, y: 0.000001671956, z: -0.03290345, w: 0.99945855}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: Jaycee_RightHandMiddle3
+      parentName: Jaycee_RightHandMiddle2
+      position: {x: -0.00027585088, y: -2.9802322e-10, z: 0}
+      rotation: {x: -0.000000022183832, y: 0.00000001515001, z: -0.011174782, w: 0.9999376}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Jaycee_RightHandRing1
+      parentName: Jaycee_RightHand
+      position: {x: -0.0007578301, y: -0.000014130473, z: -0.00016218126}
+      rotation: {x: 0.046345636, y: -0.018566579, z: -0.037343822, w: 0.99805456}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000001}
+    - name: Jaycee_RightHandRing2
+      parentName: Jaycee_RightHandRing1
+      position: {x: -0.00039925933, y: -5.9604643e-10, z: 0}
+      rotation: {x: 0.00000023841847, y: -0.00000018440178, z: -0.032057427, w: 0.9994861}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Jaycee_RightHandRing3
+      parentName: Jaycee_RightHandRing2
+      position: {x: -0.00026242912, y: 5.9604643e-10, z: 0}
+      rotation: {x: 0.000000018626002, y: -1.2933245e-10, z: -0.006943483, w: 0.9999759}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jaycee_RightHandPinky1
+      parentName: Jaycee_RightHand
+      position: {x: -0.00067837, y: 0.000078104735, z: -0.0003192678}
+      rotation: {x: 0.08600783, y: -0.04925662, z: -0.018338952, w: 0.9949071}
+      scale: {x: 0.9999998, y: 0.99999976, z: 1.0000001}
+    - name: Jaycee_RightHandPinky2
+      parentName: Jaycee_RightHandPinky1
+      position: {x: -0.00029970944, y: 0, z: 0}
+      rotation: {x: -0.00000017881392, y: 0.00000032410023, z: -0.033302005, w: 0.9994453}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: Jaycee_RightHandPinky3
+      parentName: Jaycee_RightHandPinky2
+      position: {x: -0.00022292077, y: 2.9802322e-10, z: 0}
+      rotation: {x: 0.000000013481903, y: 0.000000012852355, z: -0.16503993, w: 0.9862869}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Jaycee_LeftUpLeg
+      parentName: Jaycee_Spine1
+      position: {x: 0.00089140295, y: 0.000060128383, z: 0.0010183601}
+      rotation: {x: 0.008943444, y: 0.9994163, z: -0.028079135, w: 0.017280571}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Jaycee_LeftLeg
+      parentName: Jaycee_LeftUpLeg
+      position: {x: -0.004224889, y: -7.4505804e-11, z: 0}
+      rotation: {x: 0, y: 0, z: 0.032997355, w: 0.99945545}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Jaycee_LeftFoot
+      parentName: Jaycee_LeftLeg
+      position: {x: -0.0034951498, y: 7.4505804e-11, z: 0}
+      rotation: {x: -0.0875203, y: 0.027231274, z: 0.18427588, w: 0.9785914}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: Jaycee_LeftToeBase
+      parentName: Jaycee_LeftFoot
+      position: {x: -0.0010146599, y: 0.0013693499, z: 0}
+      rotation: {x: -0.012011469, y: 0.01575538, z: -0.8622577, w: 0.50608224}
+      scale: {x: 1.0000004, y: 1.0000002, z: 0.99999994}
+    - name: Jaycee_RightUpLeg
+      parentName: Jaycee_Spine1
+      position: {x: 0.00089140295, y: 0.000060134043, z: -0.0010183599}
+      rotation: {x: 0.008943367, y: 0.99941623, z: 0.028081931, w: -0.017280817}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Jaycee_RightLeg
+      parentName: Jaycee_RightUpLeg
+      position: {x: -0.004224889, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.032997336, w: 0.99945545}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+    - name: Jaycee_RightFoot
+      parentName: Jaycee_RightLeg
+      position: {x: -0.0034951495, y: -7.4505804e-11, z: 1.4901161e-10}
+      rotation: {x: 0.08752028, y: -0.027231362, z: 0.18427585, w: 0.9785914}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: Jaycee_RightToeBase
+      parentName: Jaycee_RightFoot
+      position: {x: -0.0010146599, y: 0.0013693499, z: 0}
+      rotation: {x: 0.01201147, y: -0.015755381, z: -0.8622577, w: 0.50608224}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1393 @@
+fileFormatVersion: 2
+guid: 784c901e5236b974481b73ce69981ee0
+timeCreated: 1503664078
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SOD_HeadJ_1
+    100004: SOD_HeadJ_2
+    100006: SOD_LAnkleJ_1
+    100008: SOD_LBendJ_1
+    100010: SOD_LForeArmJ_1
+    100012: SOD_LForeArmJ_2
+    100014: SOD_LHeelJ_1
+    100016: SOD_LKneeJ_1
+    100018: SOD_LKneeJ_2
+    100020: SOD_LMidFinBaseJ_1_ctrl
+    100022: SOD_LMidFinBaseJ_1_sd
+    100024: SOD_LMidFinJ_1_ctrl
+    100026: SOD_LMidFinJ_1_sd
+    100028: SOD_LMidFinJ_2_ctrl
+    100030: SOD_LMidFinJ_2_sd
+    100032: SOD_LMidFinJ_3_ctrl
+    100034: SOD_LMidFinJ_3_sd
+    100036: SOD_LMidFinJ_4
+    100038: SOD_LPointyFinBaseJ_1_ctrl
+    100040: SOD_LPointyFinBaseJ_1_sd
+    100042: SOD_LPointyFinJ_1_ctrl
+    100044: SOD_LPointyFinJ_1_sd
+    100046: SOD_LPointyFinJ_2_ctrl
+    100048: SOD_LPointyFinJ_2_sd
+    100050: SOD_LPointyFinJ_3_ctrl
+    100052: SOD_LPointyFinJ_3_sd
+    100054: SOD_LPointyFinJ_4
+    100056: SOD_LShoulderJ_1
+    100058: SOD_LShoulderPlateJ_1
+    100060: SOD_LThumbBaseJ_1_ctrl
+    100062: SOD_LThumbBaseJ_1_sd
+    100064: SOD_LThumbJ_1_ctrl
+    100066: SOD_LThumbJ_1_sd
+    100068: SOD_LThumbJ_2_ctrl
+    100070: SOD_LThumbJ_2_sd
+    100072: SOD_LThumbJ_3
+    100074: SOD_LTightJ_1
+    100076: SOD_LTinyFinBaseJ_1_ctrl
+    100078: SOD_LTinyFinBaseJ_1_sd
+    100080: SOD_LTinyFinJ_1_ctrl
+    100082: SOD_LTinyFinJ_1_sd
+    100084: SOD_LTinyFinJ_2_ctrl
+    100086: SOD_LTinyFinJ_2_sd
+    100088: SOD_LTinyFinJ_3_ctrl
+    100090: SOD_LTinyFinJ_3_sd
+    100092: SOD_LTinyFinJ_4
+    100094: SOD_LToesJ_1
+    100096: SOD_LWedFinBaseJ_1_ctrl
+    100098: SOD_LWedFinBaseJ_1_sd
+    100100: SOD_LWedFinJ_1_ctrl
+    100102: SOD_LWedFinJ_1_sd
+    100104: SOD_LWedFinJ_2_ctrl
+    100106: SOD_LWedFinJ_2_sd
+    100108: SOD_LWedFinJ_3_ctrl
+    100110: SOD_LWedFinJ_3_sd
+    100112: SOD_LWedFinJ_4
+    100114: SOD_LWristJ_1
+    100116: SOD_LWristJ_1_ctrl
+    100118: SOD_NeckJ_1
+    100120: SOD_NeckJ_2
+    100122: SOD_NoseJ_1
+    100124: SOD_RAnkleJ_1
+    100126: SOD_RBendJ_1
+    100128: SOD_RForeArmJ_1
+    100130: SOD_RForeArmJ_2
+    100132: SOD_RHeelJ_1
+    100134: SOD_RKneeJ_1
+    100136: SOD_RKneeJ_2
+    100138: SOD_RMidFinBaseJ_1_ctrl
+    100140: SOD_RMidFinBaseJ_1_sd
+    100142: SOD_RMidFinJ_1_ctrl
+    100144: SOD_RMidFinJ_1_sd
+    100146: SOD_RMidFinJ_2_ctrl
+    100148: SOD_RMidFinJ_2_sd
+    100150: SOD_RMidFinJ_3_ctrl
+    100152: SOD_RMidFinJ_3_sd
+    100154: SOD_RMidFinJ_4
+    100156: SOD_RPointyFinBaseJ_1_ctrl
+    100158: SOD_RPointyFinBaseJ_1_sd
+    100160: SOD_RPointyFinJ_1_ctrl
+    100162: SOD_RPointyFinJ_1_sd
+    100164: SOD_RPointyFinJ_2_ctrl
+    100166: SOD_RPointyFinJ_2_sd
+    100168: SOD_RPointyFinJ_3_ctrl
+    100170: SOD_RPointyFinJ_3_sd
+    100172: SOD_RPointyFinJ_4
+    100174: SOD_RShoulderJ_1
+    100176: SOD_RShoulderPlateJ_1
+    100178: SOD_RThumbBaseJ_1_ctrl
+    100180: SOD_RThumbBaseJ_1_sd
+    100182: SOD_RThumbJ_1_ctrl
+    100184: SOD_RThumbJ_1_sd
+    100186: SOD_RThumbJ_2_ctrl
+    100188: SOD_RThumbJ_2_sd
+    100190: SOD_RThumbJ_3
+    100192: SOD_RTightJ_1
+    100194: SOD_RTinyFinBaseJ_1_ctrl
+    100196: SOD_RTinyFinBaseJ_1_sd
+    100198: SOD_RTinyFinJ_1_ctrl
+    100200: SOD_RTinyFinJ_1_sd
+    100202: SOD_RTinyFinJ_2_ctrl
+    100204: SOD_RTinyFinJ_2_sd
+    100206: SOD_RTinyFinJ_3_ctrl
+    100208: SOD_RTinyFinJ_3_sd
+    100210: SOD_RTinyFinJ_4
+    100212: SOD_RToesJ_1
+    100214: SOD_RWedFinBaseJ_1_ctrl
+    100216: SOD_RWedFinBaseJ_1_sd
+    100218: SOD_RWedFinJ_1_ctrl
+    100220: SOD_RWedFinJ_1_sd
+    100222: SOD_RWedFinJ_2_ctrl
+    100224: SOD_RWedFinJ_2_sd
+    100226: SOD_RWedFinJ_3_ctrl
+    100228: SOD_RWedFinJ_3_sd
+    100230: SOD_RWedFinJ_4
+    100232: SOD_RWristJ_1
+    100234: SOD_RWristJ_1_ctrl
+    100236: SOD_SpineJ_1
+    100238: SOD_SpineJ_2
+    100240: SOD_SpineJ_3
+    100242: SOD_SpineJ_4
+    100244: SOD_SpineJ_5
+    100246: SOD_SpineJ_6
+    100248: SOD_SpineJ_7
+    100250: SOD_SpineJ_8
+    400000: //RootNode
+    400002: SOD_HeadJ_1
+    400004: SOD_HeadJ_2
+    400006: SOD_LAnkleJ_1
+    400008: SOD_LBendJ_1
+    400010: SOD_LForeArmJ_1
+    400012: SOD_LForeArmJ_2
+    400014: SOD_LHeelJ_1
+    400016: SOD_LKneeJ_1
+    400018: SOD_LKneeJ_2
+    400020: SOD_LMidFinBaseJ_1_ctrl
+    400022: SOD_LMidFinBaseJ_1_sd
+    400024: SOD_LMidFinJ_1_ctrl
+    400026: SOD_LMidFinJ_1_sd
+    400028: SOD_LMidFinJ_2_ctrl
+    400030: SOD_LMidFinJ_2_sd
+    400032: SOD_LMidFinJ_3_ctrl
+    400034: SOD_LMidFinJ_3_sd
+    400036: SOD_LMidFinJ_4
+    400038: SOD_LPointyFinBaseJ_1_ctrl
+    400040: SOD_LPointyFinBaseJ_1_sd
+    400042: SOD_LPointyFinJ_1_ctrl
+    400044: SOD_LPointyFinJ_1_sd
+    400046: SOD_LPointyFinJ_2_ctrl
+    400048: SOD_LPointyFinJ_2_sd
+    400050: SOD_LPointyFinJ_3_ctrl
+    400052: SOD_LPointyFinJ_3_sd
+    400054: SOD_LPointyFinJ_4
+    400056: SOD_LShoulderJ_1
+    400058: SOD_LShoulderPlateJ_1
+    400060: SOD_LThumbBaseJ_1_ctrl
+    400062: SOD_LThumbBaseJ_1_sd
+    400064: SOD_LThumbJ_1_ctrl
+    400066: SOD_LThumbJ_1_sd
+    400068: SOD_LThumbJ_2_ctrl
+    400070: SOD_LThumbJ_2_sd
+    400072: SOD_LThumbJ_3
+    400074: SOD_LTightJ_1
+    400076: SOD_LTinyFinBaseJ_1_ctrl
+    400078: SOD_LTinyFinBaseJ_1_sd
+    400080: SOD_LTinyFinJ_1_ctrl
+    400082: SOD_LTinyFinJ_1_sd
+    400084: SOD_LTinyFinJ_2_ctrl
+    400086: SOD_LTinyFinJ_2_sd
+    400088: SOD_LTinyFinJ_3_ctrl
+    400090: SOD_LTinyFinJ_3_sd
+    400092: SOD_LTinyFinJ_4
+    400094: SOD_LToesJ_1
+    400096: SOD_LWedFinBaseJ_1_ctrl
+    400098: SOD_LWedFinBaseJ_1_sd
+    400100: SOD_LWedFinJ_1_ctrl
+    400102: SOD_LWedFinJ_1_sd
+    400104: SOD_LWedFinJ_2_ctrl
+    400106: SOD_LWedFinJ_2_sd
+    400108: SOD_LWedFinJ_3_ctrl
+    400110: SOD_LWedFinJ_3_sd
+    400112: SOD_LWedFinJ_4
+    400114: SOD_LWristJ_1
+    400116: SOD_LWristJ_1_ctrl
+    400118: SOD_NeckJ_1
+    400120: SOD_NeckJ_2
+    400122: SOD_NoseJ_1
+    400124: SOD_RAnkleJ_1
+    400126: SOD_RBendJ_1
+    400128: SOD_RForeArmJ_1
+    400130: SOD_RForeArmJ_2
+    400132: SOD_RHeelJ_1
+    400134: SOD_RKneeJ_1
+    400136: SOD_RKneeJ_2
+    400138: SOD_RMidFinBaseJ_1_ctrl
+    400140: SOD_RMidFinBaseJ_1_sd
+    400142: SOD_RMidFinJ_1_ctrl
+    400144: SOD_RMidFinJ_1_sd
+    400146: SOD_RMidFinJ_2_ctrl
+    400148: SOD_RMidFinJ_2_sd
+    400150: SOD_RMidFinJ_3_ctrl
+    400152: SOD_RMidFinJ_3_sd
+    400154: SOD_RMidFinJ_4
+    400156: SOD_RPointyFinBaseJ_1_ctrl
+    400158: SOD_RPointyFinBaseJ_1_sd
+    400160: SOD_RPointyFinJ_1_ctrl
+    400162: SOD_RPointyFinJ_1_sd
+    400164: SOD_RPointyFinJ_2_ctrl
+    400166: SOD_RPointyFinJ_2_sd
+    400168: SOD_RPointyFinJ_3_ctrl
+    400170: SOD_RPointyFinJ_3_sd
+    400172: SOD_RPointyFinJ_4
+    400174: SOD_RShoulderJ_1
+    400176: SOD_RShoulderPlateJ_1
+    400178: SOD_RThumbBaseJ_1_ctrl
+    400180: SOD_RThumbBaseJ_1_sd
+    400182: SOD_RThumbJ_1_ctrl
+    400184: SOD_RThumbJ_1_sd
+    400186: SOD_RThumbJ_2_ctrl
+    400188: SOD_RThumbJ_2_sd
+    400190: SOD_RThumbJ_3
+    400192: SOD_RTightJ_1
+    400194: SOD_RTinyFinBaseJ_1_ctrl
+    400196: SOD_RTinyFinBaseJ_1_sd
+    400198: SOD_RTinyFinJ_1_ctrl
+    400200: SOD_RTinyFinJ_1_sd
+    400202: SOD_RTinyFinJ_2_ctrl
+    400204: SOD_RTinyFinJ_2_sd
+    400206: SOD_RTinyFinJ_3_ctrl
+    400208: SOD_RTinyFinJ_3_sd
+    400210: SOD_RTinyFinJ_4
+    400212: SOD_RToesJ_1
+    400214: SOD_RWedFinBaseJ_1_ctrl
+    400216: SOD_RWedFinBaseJ_1_sd
+    400218: SOD_RWedFinJ_1_ctrl
+    400220: SOD_RWedFinJ_1_sd
+    400222: SOD_RWedFinJ_2_ctrl
+    400224: SOD_RWedFinJ_2_sd
+    400226: SOD_RWedFinJ_3_ctrl
+    400228: SOD_RWedFinJ_3_sd
+    400230: SOD_RWedFinJ_4
+    400232: SOD_RWristJ_1
+    400234: SOD_RWristJ_1_ctrl
+    400236: SOD_SpineJ_1
+    400238: SOD_SpineJ_2
+    400240: SOD_SpineJ_3
+    400242: SOD_SpineJ_4
+    400244: SOD_SpineJ_5
+    400246: SOD_SpineJ_6
+    400248: SOD_SpineJ_7
+    400250: SOD_SpineJ_8
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: SOD_SpineJ_1
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RTightJ_1
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LTightJ_1
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RKneeJ_1
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LKneeJ_1
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RAnkleJ_1
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LAnkleJ_1
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_SpineJ_2
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_SpineJ_3
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_NeckJ_1
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_HeadJ_1
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RShoulderPlateJ_1
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LShoulderPlateJ_1
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RShoulderJ_1
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LShoulderJ_1
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RForeArmJ_1
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LForeArmJ_1
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RWristJ_1
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LWristJ_1
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RToesJ_1
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LToesJ_1
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_HeadJ_2
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_NoseJ_1
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RThumbBaseJ_1_sd
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RThumbBaseJ_1_ctrl
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RThumbJ_1_sd
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RPointyFinBaseJ_1_sd
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RPointyFinBaseJ_1_ctrl
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RPointyFinJ_1_sd
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RMidFinBaseJ_1_sd
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RMidFinBaseJ_1_ctrl
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RMidFinJ_1_sd
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RWedFinBaseJ_1_ctrl
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RWedFinJ_1_sd
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RWedFinJ_1_ctrl
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RTinyFinBaseJ_1_ctrl
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RTinyFinJ_1_sd
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_RTinyFinJ_1_ctrl
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LThumbBaseJ_1_sd
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LThumbBaseJ_1_ctrl
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LThumbJ_1_sd
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LPointyFinBaseJ_1_sd
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LPointyFinBaseJ_1_ctrl
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LPointyFinJ_1_sd
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LMidFinBaseJ_1_sd
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LMidFinBaseJ_1_ctrl
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LMidFinJ_1_sd
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LWedFinBaseJ_1_ctrl
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LWedFinJ_1_sd
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LWedFinJ_1_ctrl
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LTinyFinBaseJ_1_ctrl
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LTinyFinJ_1_sd
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_LTinyFinJ_1_ctrl
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SOD_SpineJ_6
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: SOD@death2_front_FIST(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SOD_SpineJ_1
+      parentName: SOD@death2_front_FIST(Clone)
+      position: {x: 0, y: 0.05698054, z: -0.0040620686}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LTightJ_1
+      parentName: SOD_SpineJ_1
+      position: {x: 0.017963005, y: -0.007242282, z: 0.0065806713}
+      rotation: {x: 0.009044569, y: -0.009044569, z: 0.70704895, w: 0.70704895}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LKneeJ_1
+      parentName: SOD_LTightJ_1
+      position: {x: -0.07253451, y: 0, z: 0}
+      rotation: {x: 2.1451672e-18, y: -0.013050528, z: 5.5554807e-17, w: 0.9999149}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LKneeJ_2
+      parentName: SOD_LKneeJ_1
+      position: {x: -0.0050931657, y: 0, z: 0}
+      rotation: {x: 6.401974e-18, y: -0.0060065053, z: 1.1092834e-16, w: 0.999982}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LAnkleJ_1
+      parentName: SOD_LKneeJ_2
+      position: {x: -0.060445547, y: 0, z: -0.00056688866}
+      rotation: {x: 0.6907023, y: 0.3064846, z: -0.15142775, w: 0.637234}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LBendJ_1
+      parentName: SOD_LAnkleJ_1
+      position: {x: -0.01639246, y: 0, z: -0.0038810556}
+      rotation: {x: 0.043456264, y: -0.10752812, z: -0.37216762, w: 0.92089117}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LToesJ_1
+      parentName: SOD_LBendJ_1
+      position: {x: -0.025190582, y: 0, z: 0}
+      rotation: {x: -0.7035903, y: 0.070432335, z: -0.070432335, w: 0.7035903}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LHeelJ_1
+      parentName: SOD_LAnkleJ_1
+      position: {x: -0.0056440854, y: -0.024767006, z: -0.0013362857}
+      rotation: {x: -0.37642372, y: 0.49575913, z: -0.59858596, w: 0.5042053}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RTightJ_1
+      parentName: SOD_SpineJ_1
+      position: {x: -0.017963, y: -0.007242723, z: 0.0065806713}
+      rotation: {x: 0.70704895, y: 0.70704895, z: 0.009044659, w: -0.009044659}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RKneeJ_1
+      parentName: SOD_RTightJ_1
+      position: {x: -0.07253403, y: 0, z: 0}
+      rotation: {x: -2.9874256e-17, y: 0.01305025, z: 8.321012e-16, w: 0.9999149}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RKneeJ_2
+      parentName: SOD_RKneeJ_1
+      position: {x: -0.0050932006, y: 0, z: 0}
+      rotation: {x: 5.3291954e-19, y: 0.006006687, z: 5.548711e-17, w: 0.999982}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RAnkleJ_1
+      parentName: SOD_RKneeJ_2
+      position: {x: -0.060445506, y: 0, z: 0.00056688866}
+      rotation: {x: -0.6907024, y: -0.30648428, z: -0.15142736, w: 0.6372342}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RBendJ_1
+      parentName: SOD_RAnkleJ_1
+      position: {x: -0.01639249, y: 0, z: 0.0038810628}
+      rotation: {x: -0.043456342, y: 0.1075281, z: -0.3721683, w: 0.9208909}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RToesJ_1
+      parentName: SOD_RBendJ_1
+      position: {x: -0.025190605, y: 0, z: 0}
+      rotation: {x: 0.7035903, y: -0.07043227, z: -0.07043227, w: 0.7035903}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RHeelJ_1
+      parentName: SOD_RAnkleJ_1
+      position: {x: -0.005644164, y: -0.024766985, z: 0.0013363042}
+      rotation: {x: 0.3841442, y: -0.4891878, z: -0.5936609, w: 0.5105833}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_SpineJ_2
+      parentName: SOD_SpineJ_1
+      position: {x: -0, y: 0.0038656034, z: 0.0013329347}
+      rotation: {x: 0.059811402, y: 0.059811402, z: -0.7045726, w: 0.7045726}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_SpineJ_3
+      parentName: SOD_SpineJ_2
+      position: {x: -0.00901286, y: 0, z: 0}
+      rotation: {x: -3.6757483e-18, y: -0.11732869, z: -5.672592e-17, w: 0.9930932}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_SpineJ_4
+      parentName: SOD_SpineJ_3
+      position: {x: -0.008516235, y: 0, z: 0}
+      rotation: {x: 6.9151534e-19, y: -0.05153733, z: 5.5198924e-17, w: 0.99867105}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_SpineJ_5
+      parentName: SOD_SpineJ_4
+      position: {x: -0.009035887, y: 0, z: 0}
+      rotation: {x: -4.2060324e-17, y: 0.019427711, z: -2.751495e-16, w: 0.9998113}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_SpineJ_6
+      parentName: SOD_SpineJ_5
+      position: {x: -0.0075027486, y: 0, z: 0}
+      rotation: {x: -1.3694878e-17, y: 0.034502383, z: -5.5210752e-17, w: 0.9994046}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_SpineJ_7
+      parentName: SOD_SpineJ_6
+      position: {x: -0.0076849507, y: 0, z: 0}
+      rotation: {x: 0, y: 0.04228456, z: -0, w: 0.99910563}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_SpineJ_8
+      parentName: SOD_SpineJ_7
+      position: {x: -0.009342672, y: 0, z: 0}
+      rotation: {x: -1.7323597e-18, y: 0.07974629, z: -5.7351496e-17, w: 0.9968152}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LShoulderPlateJ_1
+      parentName: SOD_SpineJ_8
+      position: {x: 0.0033710243, y: 0.012882162, z: -0.0030154972}
+      rotation: {x: 0.103570744, y: -0.016977346, z: -0.62169045, w: 0.7761997}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LShoulderJ_1
+      parentName: SOD_LShoulderPlateJ_1
+      position: {x: -0.017406246, y: 0, z: 0}
+      rotation: {x: 0.9781099, y: -0.13215242, z: 0.048735008, w: 0.153172}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LForeArmJ_1
+      parentName: SOD_LShoulderJ_1
+      position: {x: -0.038022134, y: 0, z: 0}
+      rotation: {x: 0.99928737, y: -0.01745915, z: 0.03342469, w: 0.0016916192}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LForeArmJ_2
+      parentName: SOD_LForeArmJ_1
+      position: {x: -0.0051746015, y: 0, z: 0}
+      rotation: {x: -0.00000026867718, y: -0.00000032432504, z: 0.0000016869816, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LWristJ_1
+      parentName: SOD_LForeArmJ_2
+      position: {x: -0.032883383, y: 0, z: 0}
+      rotation: {x: 0.17722555, y: -0.0023601684, z: 0.008348664, w: 0.98413205}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LWristJ_1_ctrl
+      parentName: SOD_LWristJ_1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LMidFinBaseJ_1_sd
+      parentName: SOD_LWristJ_1_ctrl
+      position: {x: -0.015638841, y: 0.0019308921, z: 0.0014192454}
+      rotation: {x: 0.02535659, y: -0.0040461677, z: -0.16892403, w: 0.9852946}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LMidFinBaseJ_1_ctrl
+      parentName: SOD_LMidFinBaseJ_1_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 1.3877788e-17, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LMidFinJ_1_sd
+      parentName: SOD_LMidFinBaseJ_1_ctrl
+      position: {x: -0.0045184474, y: 0, z: 0}
+      rotation: {x: -0.00011790402, y: -0.0020789371, z: 0.0008199885, w: 0.9999975}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LMidFinJ_1_ctrl
+      parentName: SOD_LMidFinJ_1_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 1.3877788e-17, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LMidFinJ_2_sd
+      parentName: SOD_LMidFinJ_1_ctrl
+      position: {x: -0.007424815, y: 0, z: 0}
+      rotation: {x: -0.0009763165, y: 0.006857426, z: 0.0065670796, w: 0.99995446}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LMidFinJ_2_ctrl
+      parentName: SOD_LMidFinJ_2_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 1.3877788e-17, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LMidFinJ_3_sd
+      parentName: SOD_LMidFinJ_2_ctrl
+      position: {x: -0.005450894, y: 0, z: 0}
+      rotation: {x: 0.00078496797, y: -0.018719507, z: -0.0057480037, w: 0.99980795}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LMidFinJ_3_ctrl
+      parentName: SOD_LMidFinJ_3_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 1.3877788e-17, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LMidFinJ_4
+      parentName: SOD_LMidFinJ_3_ctrl
+      position: {x: -0.005508338, y: 0, z: 0}
+      rotation: {x: 1.3877788e-17, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LPointyFinBaseJ_1_sd
+      parentName: SOD_LWristJ_1_ctrl
+      position: {x: -0.014526104, y: 0.0026332191, z: 0.0050667226}
+      rotation: {x: 0.03379009, y: 0.1010646, z: -0.12948747, w: 0.9858383}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LPointyFinBaseJ_1_ctrl
+      parentName: SOD_LPointyFinBaseJ_1_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000022031356, y: -0.11061428, z: 0.11680562, w: 0.98697567}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LPointyFinJ_1_sd
+      parentName: SOD_LPointyFinBaseJ_1_ctrl
+      position: {x: -0.005352966, y: 0, z: 0}
+      rotation: {x: 0.006906628, y: -0.015778637, z: -0.019423567, w: 0.999663}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LPointyFinJ_1_ctrl
+      parentName: SOD_LPointyFinJ_1_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LPointyFinJ_2_sd
+      parentName: SOD_LPointyFinJ_1_ctrl
+      position: {x: -0.00587409, y: 0, z: 0}
+      rotation: {x: 0.008014614, y: 0.0030288522, z: -0.02348408, w: 0.9996875}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LPointyFinJ_2_ctrl
+      parentName: SOD_LPointyFinJ_2_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LPointyFinJ_3_sd
+      parentName: SOD_LPointyFinJ_2_ctrl
+      position: {x: -0.0056182113, y: 0, z: 0}
+      rotation: {x: 0.0004900623, y: -0.009914651, z: -0.0014689696, w: 0.9999497}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LPointyFinJ_3_ctrl
+      parentName: SOD_LPointyFinJ_3_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LPointyFinJ_4
+      parentName: SOD_LPointyFinJ_3_ctrl
+      position: {x: -0.0038054236, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LThumbBaseJ_1_sd
+      parentName: SOD_LWristJ_1_ctrl
+      position: {x: -0.0057452456, y: 0.0047405823, z: 0.006273907}
+      rotation: {x: 0.15785028, y: 0.2390075, z: -0.35752514, w: 0.8888951}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LThumbBaseJ_1_ctrl
+      parentName: SOD_LThumbBaseJ_1_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000283122, y: 0.1428514, z: 0.21649532, w: 0.96577597}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LThumbJ_1_sd
+      parentName: SOD_LThumbBaseJ_1_ctrl
+      position: {x: -0.007378655, y: 0, z: 0}
+      rotation: {x: -0.010406219, y: -0.11723738, z: 0.016564714, w: 0.9929113}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LThumbJ_1_ctrl
+      parentName: SOD_LThumbJ_1_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LThumbJ_2_sd
+      parentName: SOD_LThumbJ_1_ctrl
+      position: {x: -0.0059625157, y: 0, z: 0}
+      rotation: {x: -0.0018528459, y: -0.1419083, z: 0.0059688794, w: 0.9898601}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LThumbJ_2_ctrl
+      parentName: SOD_LThumbJ_2_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LThumbJ_3
+      parentName: SOD_LThumbJ_2_ctrl
+      position: {x: -0.004191483, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LTinyFinBaseJ_1_sd
+      parentName: SOD_LWristJ_1_ctrl
+      position: {x: -0.013517576, y: 0.0038088576, z: -0.006113837}
+      rotation: {x: 0.000021821956, y: -0.1498366, z: -0.18211052, w: 0.9717946}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LTinyFinBaseJ_1_ctrl
+      parentName: SOD_LTinyFinBaseJ_1_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -5.551115e-17, y: 0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LTinyFinJ_1_sd
+      parentName: SOD_LTinyFinBaseJ_1_ctrl
+      position: {x: -0.0032339336, y: 0, z: 0}
+      rotation: {x: -0.008829464, y: 0.0647583, z: -0.10039073, w: 0.99279916}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LTinyFinJ_1_ctrl
+      parentName: SOD_LTinyFinJ_1_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -5.551115e-17, y: 0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LTinyFinJ_2_sd
+      parentName: SOD_LTinyFinJ_1_ctrl
+      position: {x: -0.0058125732, y: 0, z: 0}
+      rotation: {x: 0.0006849648, y: -0.0070081064, z: 0.023134282, w: 0.9997076}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LTinyFinJ_2_ctrl
+      parentName: SOD_LTinyFinJ_2_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -5.551115e-17, y: 0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LTinyFinJ_3_sd
+      parentName: SOD_LTinyFinJ_2_ctrl
+      position: {x: -0.004793066, y: 0, z: 0}
+      rotation: {x: -0.00005530454, y: 0.03520699, z: -0.0404728, w: 0.9985602}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LTinyFinJ_3_ctrl
+      parentName: SOD_LTinyFinJ_3_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -5.551115e-17, y: 0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LTinyFinJ_4
+      parentName: SOD_LTinyFinJ_3_ctrl
+      position: {x: -0.004127572, y: 0, z: 0}
+      rotation: {x: -5.551115e-17, y: 0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LWedFinBaseJ_1_sd
+      parentName: SOD_LWristJ_1_ctrl
+      position: {x: -0.015086967, y: 0.0025621313, z: -0.0024351152}
+      rotation: {x: 0.97798884, y: -0.17976515, z: 0.105618745, w: -0.008188913}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LWedFinBaseJ_1_ctrl
+      parentName: SOD_LWedFinBaseJ_1_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LWedFinJ_1_sd
+      parentName: SOD_LWedFinBaseJ_1_ctrl
+      position: {x: -0.0042840037, y: 0, z: 0}
+      rotation: {x: -0.00037794263, y: -0.027350586, z: 0.010886846, w: 0.99956656}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LWedFinJ_1_ctrl
+      parentName: SOD_LWedFinJ_1_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LWedFinJ_2_sd
+      parentName: SOD_LWedFinJ_1_ctrl
+      position: {x: -0.006287525, y: 0, z: 0}
+      rotation: {x: 0.9998236, y: 0.00050496875, z: 0.018778352, w: -0.0000057577017}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LWedFinJ_2_ctrl
+      parentName: SOD_LWedFinJ_2_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LWedFinJ_3_sd
+      parentName: SOD_LWedFinJ_2_ctrl
+      position: {x: -0.004996495, y: 0, z: 0}
+      rotation: {x: 0.00021154353, y: -0.006929242, z: -0.009083966, w: 0.99993473}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LWedFinJ_3_ctrl
+      parentName: SOD_LWedFinJ_3_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_LWedFinJ_4
+      parentName: SOD_LWedFinJ_3_ctrl
+      position: {x: -0.004906671, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_NeckJ_1
+      parentName: SOD_SpineJ_8
+      position: {x: -0.01038027, y: 0, z: 0}
+      rotation: {x: -6.784187e-18, y: 0.011952999, z: -2.8686063e-18, w: 0.9999286}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_NeckJ_2
+      parentName: SOD_NeckJ_1
+      position: {x: -0.008285005, y: 0, z: 0}
+      rotation: {x: 3.9220942e-18, y: -0.032948572, z: -5.721127e-17, w: 0.99945706}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_HeadJ_1
+      parentName: SOD_NeckJ_2
+      position: {x: -0.008578115, y: 0, z: 0}
+      rotation: {x: -1.3791654e-18, y: -0.07850781, z: -5.7039013e-17, w: 0.9969135}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_HeadJ_2
+      parentName: SOD_HeadJ_1
+      position: {x: -0.028129568, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_NoseJ_1
+      parentName: SOD_HeadJ_1
+      position: {x: 0.0118753, y: 0, z: 0.018868186}
+      rotation: {x: 8.320227e-17, y: 0.8754037, z: -8.320227e-17, w: 0.48339257}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RShoulderPlateJ_1
+      parentName: SOD_SpineJ_8
+      position: {x: 0.0033710806, y: -0.0128822, z: -0.0030155291}
+      rotation: {x: 0.7761965, y: 0.62169415, z: 0.016975835, w: 0.10357251}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RShoulderJ_1
+      parentName: SOD_RShoulderPlateJ_1
+      position: {x: -0.01740613, y: 0, z: 0}
+      rotation: {x: 0.15317684, y: 0.048737206, z: -0.13214856, w: 0.9781096}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RForeArmJ_1
+      parentName: SOD_RShoulderJ_1
+      position: {x: -0.03802222, y: 0, z: 0}
+      rotation: {x: 0.0016953049, y: -0.033435374, z: 0.01748562, w: 0.99928653}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RForeArmJ_2
+      parentName: SOD_RForeArmJ_1
+      position: {x: -0.0051742312, y: 0, z: 0}
+      rotation: {x: -0.0000051785855, y: 0.0000062003046, z: -0.000032841464, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RWristJ_1
+      parentName: SOD_RForeArmJ_2
+      position: {x: -0.032883875, y: 0, z: 0}
+      rotation: {x: -0.1772302, y: 0.0023586424, z: 0.008348449, w: 0.9841312}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RWristJ_1_ctrl
+      parentName: SOD_RWristJ_1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RMidFinBaseJ_1_sd
+      parentName: SOD_RWristJ_1_ctrl
+      position: {x: -0.01563877, y: 0.0019306581, z: -0.0014192901}
+      rotation: {x: -0.025355892, y: 0.004035107, z: -0.16890906, w: 0.9852972}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RMidFinBaseJ_1_ctrl
+      parentName: SOD_RMidFinBaseJ_1_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -1.3877788e-17, y: 0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RMidFinJ_1_sd
+      parentName: SOD_RMidFinBaseJ_1_ctrl
+      position: {x: -0.004517831, y: 0, z: 0}
+      rotation: {x: 0.00011646671, y: 0.0020899258, z: 0.0008099393, w: 0.9999975}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RMidFinJ_1_ctrl
+      parentName: SOD_RMidFinJ_1_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -1.3877788e-17, y: 0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RMidFinJ_2_sd
+      parentName: SOD_RMidFinJ_1_ctrl
+      position: {x: -0.007424935, y: 0, z: 0}
+      rotation: {x: 0.0009755925, y: -0.006853604, z: 0.0065624616, w: 0.9999545}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RMidFinJ_2_ctrl
+      parentName: SOD_RMidFinJ_2_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -1.3877788e-17, y: 0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RMidFinJ_3_sd
+      parentName: SOD_RMidFinJ_2_ctrl
+      position: {x: -0.0054512233, y: 0, z: 0}
+      rotation: {x: -0.00078510883, y: 0.018715665, z: -0.005749273, w: 0.999808}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RMidFinJ_3_ctrl
+      parentName: SOD_RMidFinJ_3_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -1.3877788e-17, y: 0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RMidFinJ_4
+      parentName: SOD_RMidFinJ_3_ctrl
+      position: {x: -0.005508392, y: 0, z: 0}
+      rotation: {x: -1.3877788e-17, y: 0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RPointyFinBaseJ_1_sd
+      parentName: SOD_RWristJ_1_ctrl
+      position: {x: -0.014525953, y: 0.002633065, z: -0.005066779}
+      rotation: {x: -0.0337835, y: -0.101086244, z: -0.12945205, w: 0.985841}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RPointyFinBaseJ_1_ctrl
+      parentName: SOD_RPointyFinBaseJ_1_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000028371811, y: 0.11064342, z: 0.11681574, w: 0.98697126}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RPointyFinJ_1_sd
+      parentName: SOD_RPointyFinBaseJ_1_ctrl
+      position: {x: -0.005352387, y: 0, z: 0}
+      rotation: {x: -0.006917775, y: 0.015792731, z: -0.019453283, w: 0.9996621}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RPointyFinJ_1_ctrl
+      parentName: SOD_RPointyFinJ_1_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RPointyFinJ_2_sd
+      parentName: SOD_RPointyFinJ_1_ctrl
+      position: {x: -0.0058740187, y: 0, z: 0}
+      rotation: {x: -0.008016717, y: -0.0030084767, z: -0.023490855, w: 0.9996874}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RPointyFinJ_2_ctrl
+      parentName: SOD_RPointyFinJ_2_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RPointyFinJ_3_sd
+      parentName: SOD_RPointyFinJ_2_ctrl
+      position: {x: -0.005618638, y: 0, z: 0}
+      rotation: {x: -0.00048941694, y: 0.009903917, z: -0.0014671214, w: 0.99994975}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RPointyFinJ_3_ctrl
+      parentName: SOD_RPointyFinJ_3_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RPointyFinJ_4
+      parentName: SOD_RPointyFinJ_3_ctrl
+      position: {x: -0.0038054122, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RThumbBaseJ_1_sd
+      parentName: SOD_RWristJ_1_ctrl
+      position: {x: -0.005745032, y: 0.0047404114, z: -0.0062739486}
+      rotation: {x: -0.15785791, y: -0.23902719, z: -0.35752308, w: 0.8888893}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RThumbBaseJ_1_ctrl
+      parentName: SOD_RThumbBaseJ_1_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.0000005662439, y: -0.14284764, z: 0.21652344, w: 0.9657703}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RThumbJ_1_sd
+      parentName: SOD_RThumbBaseJ_1_ctrl
+      position: {x: -0.007378261, y: 0, z: 0}
+      rotation: {x: 0.010407062, y: 0.11725611, z: 0.016565194, w: 0.992909}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RThumbJ_1_ctrl
+      parentName: SOD_RThumbJ_1_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RThumbJ_2_sd
+      parentName: SOD_RThumbJ_1_ctrl
+      position: {x: -0.0059625017, y: 0, z: 0}
+      rotation: {x: 0.00186118, y: 0.14192095, z: 0.005995903, w: 0.9898581}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RThumbJ_2_ctrl
+      parentName: SOD_RThumbJ_2_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RThumbJ_3
+      parentName: SOD_RThumbJ_2_ctrl
+      position: {x: -0.004192258, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RTinyFinBaseJ_1_sd
+      parentName: SOD_RWristJ_1_ctrl
+      position: {x: -0.0135169225, y: 0.0038082446, z: 0.0061137066}
+      rotation: {x: -0.000022939394, y: 0.14982837, z: -0.18211326, w: 0.9717954}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RTinyFinBaseJ_1_ctrl
+      parentName: SOD_RTinyFinBaseJ_1_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RTinyFinJ_1_sd
+      parentName: SOD_RTinyFinBaseJ_1_ctrl
+      position: {x: -0.0032342437, y: 0, z: 0}
+      rotation: {x: 0.008828008, y: -0.06475165, z: -0.10038316, w: 0.99280035}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RTinyFinJ_1_ctrl
+      parentName: SOD_RTinyFinJ_1_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RTinyFinJ_2_sd
+      parentName: SOD_RTinyFinJ_1_ctrl
+      position: {x: -0.00581275, y: 0, z: 0}
+      rotation: {x: -0.00068477326, y: 0.0070087137, z: 0.023128161, w: 0.99970776}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RTinyFinJ_2_ctrl
+      parentName: SOD_RTinyFinJ_2_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RTinyFinJ_3_sd
+      parentName: SOD_RTinyFinJ_2_ctrl
+      position: {x: -0.004792961, y: 0, z: 0}
+      rotation: {x: 0.00005531997, y: -0.035206605, z: -0.040467963, w: 0.99856037}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RTinyFinJ_3_ctrl
+      parentName: SOD_RTinyFinJ_3_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RTinyFinJ_4
+      parentName: SOD_RTinyFinJ_3_ctrl
+      position: {x: -0.004127634, y: 0, z: 0}
+      rotation: {x: 5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RWedFinBaseJ_1_sd
+      parentName: SOD_RWristJ_1_ctrl
+      position: {x: -0.0150869, y: 0.0025619443, z: 0.00243507}
+      rotation: {x: -0.008186847, y: 0.10562259, z: -0.17974348, w: 0.9779924}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RWedFinBaseJ_1_ctrl
+      parentName: SOD_RWedFinBaseJ_1_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RWedFinJ_1_sd
+      parentName: SOD_RWedFinBaseJ_1_ctrl
+      position: {x: -0.004283353, y: 0, z: 0}
+      rotation: {x: 0.00037905265, y: -0.027355637, z: -0.010917499, w: 0.9995661}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RWedFinJ_1_ctrl
+      parentName: SOD_RWedFinJ_1_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RWedFinJ_2_sd
+      parentName: SOD_RWedFinJ_1_ctrl
+      position: {x: -0.0062883217, y: 0, z: 0}
+      rotation: {x: -0.0000054982697, y: -0.018779572, z: -0.00048078332, w: 0.9998235}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RWedFinJ_2_ctrl
+      parentName: SOD_RWedFinJ_2_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RWedFinJ_3_sd
+      parentName: SOD_RWedFinJ_2_ctrl
+      position: {x: -0.0049959538, y: 0, z: 0}
+      rotation: {x: -0.00021196454, y: 0.006931549, z: -0.009101656, w: 0.99993455}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RWedFinJ_3_ctrl
+      parentName: SOD_RWedFinJ_3_sd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    - name: SOD_RWedFinJ_4
+      parentName: SOD_RWedFinJ_3_ctrl
+      position: {x: -0.004907063, y: 0, z: 0}
+      rotation: {x: 5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 0.68, y: 0.68, z: 0.68}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

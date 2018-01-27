@@ -1,0 +1,982 @@
+fileFormatVersion: 2
+guid: 443b01013eba4dd42a037ba352cb412b
+timeCreated: 1516066666
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Emily 1
+    100004: Emily_Footsteps
+    100006: Emily_Head
+    100008: Emily_HeadNub
+    100010: Emily_Hips
+    100012: Emily_LeftArm
+    100014: Emily_LeftFoot
+    100016: Emily_LeftForeArm
+    100018: Emily_LeftHand
+    100020: Emily_LeftHandIndex1
+    100022: Emily_LeftHandIndex2
+    100024: Emily_LeftHandIndex3
+    100026: Emily_LeftHandIndexNub
+    100028: Emily_LeftHandMiddle1
+    100030: Emily_LeftHandMiddle2
+    100032: Emily_LeftHandMiddle3
+    100034: Emily_LeftHandMiddleNub
+    100036: Emily_LeftHandPinky1
+    100038: Emily_LeftHandPinky2
+    100040: Emily_LeftHandPinky3
+    100042: Emily_LeftHandPinkyNub
+    100044: Emily_LeftHandRing1
+    100046: Emily_LeftHandRing2
+    100048: Emily_LeftHandRing3
+    100050: Emily_LeftHandRingNub
+    100052: Emily_LeftHandThumb1
+    100054: Emily_LeftHandThumb2
+    100056: Emily_LeftHandThumb3
+    100058: Emily_LeftHandThumbNub
+    100060: Emily_LeftLeg
+    100062: Emily_LeftShoulder
+    100064: Emily_LeftToeBase
+    100066: Emily_LeftToeBaseNub
+    100068: Emily_LeftUpLeg
+    100070: Emily_Neck
+    100072: Emily_RightArm
+    100074: Emily_RightFoot
+    100076: Emily_RightForeArm
+    100078: Emily_RightHand
+    100080: Emily_RightHandIndex1
+    100082: Emily_RightHandIndex2
+    100084: Emily_RightHandIndex3
+    100086: Emily_RightHandIndexNub
+    100088: Emily_RightHandMiddle1
+    100090: Emily_RightHandMiddle2
+    100092: Emily_RightHandMiddle3
+    100094: Emily_RightHandMiddleNub
+    100096: Emily_RightHandPinky1
+    100098: Emily_RightHandPinky2
+    100100: Emily_RightHandPinky3
+    100102: Emily_RightHandPinkyNub
+    100104: Emily_RightHandRing1
+    100106: Emily_RightHandRing2
+    100108: Emily_RightHandRing3
+    100110: Emily_RightHandRingNub
+    100112: Emily_RightHandThumb1
+    100114: Emily_RightHandThumb2
+    100116: Emily_RightHandThumb3
+    100118: Emily_RightHandThumbNub
+    100120: Emily_RightLeg
+    100122: Emily_RightShoulder
+    100124: Emily_RightToeBase
+    100126: Emily_RightToeBaseNub
+    100128: Emily_RightUpLeg
+    100130: Emily_Spine
+    100132: Emily_Spine1
+    100134: Emily_Spine2
+    100136: Emily_Spine3
+    100138: Emily_Spine4
+    400000: //RootNode
+    400002: Emily 1
+    400004: Emily_Footsteps
+    400006: Emily_Head
+    400008: Emily_HeadNub
+    400010: Emily_Hips
+    400012: Emily_LeftArm
+    400014: Emily_LeftFoot
+    400016: Emily_LeftForeArm
+    400018: Emily_LeftHand
+    400020: Emily_LeftHandIndex1
+    400022: Emily_LeftHandIndex2
+    400024: Emily_LeftHandIndex3
+    400026: Emily_LeftHandIndexNub
+    400028: Emily_LeftHandMiddle1
+    400030: Emily_LeftHandMiddle2
+    400032: Emily_LeftHandMiddle3
+    400034: Emily_LeftHandMiddleNub
+    400036: Emily_LeftHandPinky1
+    400038: Emily_LeftHandPinky2
+    400040: Emily_LeftHandPinky3
+    400042: Emily_LeftHandPinkyNub
+    400044: Emily_LeftHandRing1
+    400046: Emily_LeftHandRing2
+    400048: Emily_LeftHandRing3
+    400050: Emily_LeftHandRingNub
+    400052: Emily_LeftHandThumb1
+    400054: Emily_LeftHandThumb2
+    400056: Emily_LeftHandThumb3
+    400058: Emily_LeftHandThumbNub
+    400060: Emily_LeftLeg
+    400062: Emily_LeftShoulder
+    400064: Emily_LeftToeBase
+    400066: Emily_LeftToeBaseNub
+    400068: Emily_LeftUpLeg
+    400070: Emily_Neck
+    400072: Emily_RightArm
+    400074: Emily_RightFoot
+    400076: Emily_RightForeArm
+    400078: Emily_RightHand
+    400080: Emily_RightHandIndex1
+    400082: Emily_RightHandIndex2
+    400084: Emily_RightHandIndex3
+    400086: Emily_RightHandIndexNub
+    400088: Emily_RightHandMiddle1
+    400090: Emily_RightHandMiddle2
+    400092: Emily_RightHandMiddle3
+    400094: Emily_RightHandMiddleNub
+    400096: Emily_RightHandPinky1
+    400098: Emily_RightHandPinky2
+    400100: Emily_RightHandPinky3
+    400102: Emily_RightHandPinkyNub
+    400104: Emily_RightHandRing1
+    400106: Emily_RightHandRing2
+    400108: Emily_RightHandRing3
+    400110: Emily_RightHandRingNub
+    400112: Emily_RightHandThumb1
+    400114: Emily_RightHandThumb2
+    400116: Emily_RightHandThumb3
+    400118: Emily_RightHandThumbNub
+    400120: Emily_RightLeg
+    400122: Emily_RightShoulder
+    400124: Emily_RightToeBase
+    400126: Emily_RightToeBaseNub
+    400128: Emily_RightUpLeg
+    400130: Emily_Spine
+    400132: Emily_Spine1
+    400134: Emily_Spine2
+    400136: Emily_Spine3
+    400138: Emily_Spine4
+    4300000: Emily
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Emily 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Emily_Spine
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_Spine2
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_Spine3
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emily_Spine4
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Emily(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Emily 1
+      parentName: Emily(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Emily_Hips
+      parentName: Emily(Clone)
+      position: {x: -0, y: 0.937, z: -0.009}
+      rotation: {x: -0.50000036, y: 0.49999967, z: 0.49999967, w: 0.50000036}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Emily_Footsteps
+      parentName: Emily_Hips
+      position: {x: -0, y: 0, z: -0.0086206915}
+      rotation: {x: 0, y: -0, z: -0.7071063, w: 0.70710725}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Emily_Spine
+      parentName: Emily_Hips
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.49999967, y: 0.50000036, z: 0.49999967, w: 0.50000036}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Emily_Spine1
+      parentName: Emily_Spine
+      position: {x: -0.0008932382, y: -0.000015191677, z: 0.0000000012598105}
+      rotation: {x: -0.0000020958084, y: 0.0000007093854, z: -0.023325624, w: 0.99972796}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Emily_LeftUpLeg
+      parentName: Emily_Spine1
+      position: {x: 0.00089155853, y: 0.000056831723, z: 0.0011421002}
+      rotation: {x: 0.013913364, y: 0.99981856, z: -0.006394123, w: 0.011329204}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: Emily_LeftLeg
+      parentName: Emily_LeftUpLeg
+      position: {x: -0.0042248885, y: 0, z: -1.4901161e-10}
+      rotation: {x: -2.3276452e-10, y: -5.5494264e-12, z: 0.023834603, w: 0.9997159}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: Emily_LeftFoot
+      parentName: Emily_LeftLeg
+      position: {x: -0.0034951498, y: 1.4901161e-10, z: 1.4901161e-10}
+      rotation: {x: -0.046702955, y: 0.022473684, z: 0.20848612, w: 0.9766511}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Emily_LeftToeBase
+      parentName: Emily_LeftFoot
+      position: {x: -0.0009403597, y: 0.0015006897, z: 0}
+      rotation: {x: 7.8692936e-10, y: -0.0000000011557229, z: -0.849295, w: 0.5279185}
+      scale: {x: 0.9999998, y: 0.99999964, z: 1}
+    - name: Emily_LeftToeBaseNub
+      parentName: Emily_LeftToeBase
+      position: {x: -0.00074341, y: -9.3132255e-12, z: 0}
+      rotation: {x: 0.0000000039290167, y: -2.4058288e-25, z: 1, w: 6.123234e-17}
+      scale: {x: -1.0000001, y: -1.0000001, z: -1}
+    - name: Emily_RightUpLeg
+      parentName: Emily_Spine1
+      position: {x: 0.00089155853, y: 0.000056838056, z: -0.0011420998}
+      rotation: {x: 0.013913397, y: 0.99981856, z: 0.006396921, w: -0.011329299}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Emily_RightLeg
+      parentName: Emily_RightUpLeg
+      position: {x: -0.0042248885, y: -7.4505804e-11, z: 0}
+      rotation: {x: 0.0000000010252426, y: 9.560306e-10, z: 0.023834603, w: 0.9997159}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999994}
+    - name: Emily_RightFoot
+      parentName: Emily_RightLeg
+      position: {x: -0.0034951495, y: 1.4901161e-10, z: 1.4901161e-10}
+      rotation: {x: 0.04670292, y: -0.02247377, z: 0.20848612, w: 0.9766511}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Emily_RightToeBase
+      parentName: Emily_RightFoot
+      position: {x: -0.00094035984, y: 0.0015006898, z: 0}
+      rotation: {x: -0.0000000030650005, y: -0.0000000019051924, z: -0.849295, w: 0.5279185}
+      scale: {x: 0.99999976, y: 0.99999976, z: 1}
+    - name: Emily_RightToeBaseNub
+      parentName: Emily_RightToeBase
+      position: {x: -0.00074340997, y: -9.3132255e-12, z: 0}
+      rotation: {x: 4.656613e-10, y: 0.0000000038417056, z: -0.0000000037252903, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Emily_Spine2
+      parentName: Emily_Spine1
+      position: {x: -0.0010460031, y: -0.00000082172454, z: -2.279279e-12}
+      rotation: {x: -2.0625642e-14, y: -0.00000022760753, z: 0.08206212, w: 0.9966272}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: Emily_Spine3
+      parentName: Emily_Spine2
+      position: {x: -0.0010461342, y: -0.0000008329749, z: -2.3106848e-12}
+      rotation: {x: 2.0115203e-15, y: -0.000000009316532, z: 0.003359009, w: 0.9999944}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Emily_Spine4
+      parentName: Emily_Spine3
+      position: {x: -0.0010461687, y: -0.00000083252786, z: -2.3092639e-12}
+      rotation: {x: -6.4254523e-14, y: 0.000000049753034, z: -0.01793807, w: 0.9998391}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Emily_Neck
+      parentName: Emily_Spine4
+      position: {x: -0.0011529672, y: -0.00006408826, z: -0.0000000031129974}
+      rotation: {x: 0.0026487599, y: -0.00019101682, z: -0.24637364, w: 0.9691713}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Emily_Head
+      parentName: Emily_Neck
+      position: {x: -0.00072686194, y: -0.000046347974, z: 0.000019169873}
+      rotation: {x: -0.0026495229, y: -0.00018114677, z: 0.10832611, w: 0.9941119}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: Emily_HeadNub
+      parentName: Emily_Head
+      position: {x: -0.0018826401, y: 0, z: 2.3283064e-12}
+      rotation: {x: 7.1054274e-15, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Emily_RightShoulder
+      parentName: Emily_Neck
+      position: {x: 0.00024593115, y: -0.00005118966, z: -0.0002791339}
+      rotation: {x: 0.6423448, y: 0.14860389, z: 0.7253921, w: -0.197779}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Emily_RightArm
+      parentName: Emily_RightShoulder
+      position: {x: -0.0012871497, y: 0, z: -0.0000000011920929}
+      rotation: {x: 0.22130045, y: -0.05096284, z: -0.015949097, w: 0.9737426}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Emily_RightForeArm
+      parentName: Emily_RightArm
+      position: {x: -0.0024655228, y: 2.9802322e-10, z: 0}
+      rotation: {x: 0.0026624042, y: -0.01309954, z: 0.047241885, w: 0.998794}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Emily_RightHand
+      parentName: Emily_RightForeArm
+      position: {x: -0.0025833487, y: 0, z: -5.9604643e-10}
+      rotation: {x: 0.6821519, y: -0.026612772, z: -0.1364865, w: 0.7178663}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Emily_RightHandThumb1
+      parentName: Emily_RightHand
+      position: {x: -0.00015785455, y: 0.00009791434, z: 0.00014823675}
+      rotation: {x: -0.67745596, y: 0.29554644, z: 0.14118041, w: 0.6586152}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000014}
+    - name: Emily_RightHandThumb2
+      parentName: Emily_RightHandThumb1
+      position: {x: -0.00039333015, y: -5.9604643e-10, z: 0}
+      rotation: {x: 0.00000038742988, y: 0.00000087916777, z: -0.031817723, w: 0.9994938}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1}
+    - name: Emily_RightHandThumb3
+      parentName: Emily_RightHandThumb2
+      position: {x: -0.00036511064, y: 0, z: 0}
+      rotation: {x: -0.00000012077405, y: -0.0000018973078, z: 0.036775142, w: 0.99932355}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: Emily_RightHandThumbNub
+      parentName: Emily_RightHandThumb3
+      position: {x: -0.00029649018, y: 0, z: 0}
+      rotation: {x: -0.000000014901163, y: 0.0000000037252907, z: 1, w: 1.1674351e-16}
+      scale: {x: -0.9999999, y: -0.9999999, z: -1}
+    - name: Emily_RightHandRing1
+      parentName: Emily_RightHand
+      position: {x: -0.00079339324, y: -0.00007632971, z: -0.00015942096}
+      rotation: {x: 0.009484642, y: -0.035249557, z: -0.018620983, w: 0.9991601}
+      scale: {x: 1.0000005, y: 0.99999976, z: 1.0000001}
+    - name: Emily_RightHandRing2
+      parentName: Emily_RightHandRing1
+      position: {x: -0.00041823386, y: 0, z: 0}
+      rotation: {x: -0.000000115483914, y: -0.0000005327161, z: -0.032854896, w: 0.9994601}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+    - name: Emily_RightHandRing3
+      parentName: Emily_RightHandRing2
+      position: {x: -0.00023388743, y: 0, z: 2.9802322e-10}
+      rotation: {x: 0.000000032263152, y: 0.00000022524013, z: -0.040781967, w: 0.9991681}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Emily_RightHandRingNub
+      parentName: Emily_RightHandRing3
+      position: {x: -0.00018825888, y: 0, z: 0}
+      rotation: {x: -0.000000007450581, y: 0.000000013038516, z: 1, w: 3.591218e-17}
+      scale: {x: -1, y: -1, z: -0.99999994}
+    - name: Emily_RightHandPinky1
+      parentName: Emily_RightHand
+      position: {x: -0.00071944355, y: -0.000001425147, z: -0.00033326267}
+      rotation: {x: 0.0849843, y: -0.06358843, z: 0.0108346045, w: 0.9942921}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: Emily_RightHandPinky2
+      parentName: Emily_RightHandPinky1
+      position: {x: -0.00032705246, y: -5.9604643e-10, z: 2.9802322e-10}
+      rotation: {x: -0.00000023841838, y: 0.000002361832, z: -0.03473783, w: 0.9993965}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Emily_RightHandPinky3
+      parentName: Emily_RightHandPinky2
+      position: {x: -0.00018657983, y: 0, z: -5.9604643e-10}
+      rotation: {x: -0.00000019030823, y: -0.0000032844193, z: -0.035265572, w: 0.99937797}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Emily_RightHandPinkyNub
+      parentName: Emily_RightHandPinky3
+      position: {x: -0.000195899, y: 0, z: 2.9802322e-10}
+      rotation: {x: 0.000000011175871, y: -0.000000022351742, z: 1, w: 1.8856785e-16}
+      scale: {x: -1, y: -1, z: -1}
+    - name: Emily_RightHandMiddle1
+      parentName: Emily_RightHand
+      position: {x: -0.000811544, y: -0.000087358356, z: -0.00000065147873}
+      rotation: {x: 0.008735829, y: -0.008530905, z: -0.025053252, w: 0.99961156}
+      scale: {x: 0.9999994, y: 1.0000002, z: 1.0000002}
+    - name: Emily_RightHandMiddle2
+      parentName: Emily_RightHandMiddle1
+      position: {x: -0.00039910077, y: 0, z: -2.9802322e-10}
+      rotation: {x: 0.0000003678722, y: -0.0000010374928, z: -0.033177093, w: 0.99944955}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: Emily_RightHandMiddle3
+      parentName: Emily_RightHandMiddle2
+      position: {x: -0.00022727966, y: 0, z: 2.9802322e-10}
+      rotation: {x: -0.0000000073668573, y: 0.000000007533374, z: -0.011174765, w: 0.9999376}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Emily_RightHandMiddleNub
+      parentName: Emily_RightHandMiddle3
+      position: {x: -0.00027280033, y: 0, z: -2.9802322e-10}
+      rotation: {x: 2.2810825e-25, y: 0.0000000037252903, z: 1, w: 6.123234e-17}
+      scale: {x: -0.99999994, y: -1, z: -0.99999994}
+    - name: Emily_RightHandIndex1
+      parentName: Emily_RightHand
+      position: {x: -0.0007752931, y: -0.00008447289, z: 0.00018110871}
+      rotation: {x: -0.11851666, y: 0.018010153, z: -0.024133915, w: 0.99249536}
+      scale: {x: 1.0000008, y: 0.99999934, z: 1.0000004}
+    - name: Emily_RightHandIndex2
+      parentName: Emily_RightHandIndex1
+      position: {x: -0.0003794801, y: -5.9604643e-10, z: 0}
+      rotation: {x: -0.000000059604602, y: -0.00000014342358, z: -0.030301262, w: 0.9995408}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+    - name: Emily_RightHandIndex3
+      parentName: Emily_RightHandIndex2
+      position: {x: -0.00020854115, y: 0, z: 2.9802322e-10}
+      rotation: {x: 0.000000014605665, y: -0.000000015190913, z: -0.019637758, w: 0.9998072}
+      scale: {x: 1, y: 0.9999998, z: 0.9999999}
+    - name: Emily_RightHandIndexNub
+      parentName: Emily_RightHandIndex3
+      position: {x: -0.00023679018, y: 0, z: -2.9802322e-10}
+      rotation: {x: 0, y: 0, z: 1, w: 6.123234e-17}
+      scale: {x: -1.0000001, y: -1, z: -0.99999994}
+    - name: Emily_LeftShoulder
+      parentName: Emily_Neck
+      position: {x: 0.000245409, y: -0.000048267244, z: 0.00028011826}
+      rotation: {x: -0.64197934, y: -0.14462629, z: 0.7255588, w: -0.20127171}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Emily_LeftArm
+      parentName: Emily_LeftShoulder
+      position: {x: -0.00128715, y: -1.4901161e-10, z: 0}
+      rotation: {x: -0.22361879, y: 0.05068143, z: -0.015720028, w: 0.97323114}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: Emily_LeftForeArm
+      parentName: Emily_LeftArm
+      position: {x: -0.0024655228, y: 0, z: 5.9604643e-10}
+      rotation: {x: -0.0024520447, y: 0.01301398, z: 0.047984596, w: 0.99876034}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Emily_LeftHand
+      parentName: Emily_LeftForeArm
+      position: {x: -0.0025833475, y: 0, z: 0}
+      rotation: {x: -0.68388057, y: 0.029906461, z: -0.12271961, w: 0.7185771}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Emily_LeftHandThumb1
+      parentName: Emily_LeftHand
+      position: {x: -0.00013906896, y: 0.00012964546, z: -0.00016192853}
+      rotation: {x: 0.6774559, y: -0.29554644, z: 0.14118041, w: 0.6586152}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000015}
+    - name: Emily_LeftHandThumb2
+      parentName: Emily_LeftHandThumb1
+      position: {x: -0.00039333044, y: 0, z: 0}
+      rotation: {x: -0.00000041723217, y: 0.0000026524044, z: -0.031818856, w: 0.99949366}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Emily_LeftHandThumb3
+      parentName: Emily_LeftHandThumb2
+      position: {x: -0.00036510944, y: -5.9604643e-10, z: -5.9604643e-10}
+      rotation: {x: 0.00000029559163, y: -0.00000018304928, z: 0.036770485, w: 0.9993237}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Emily_LeftHandThumbNub
+      parentName: Emily_LeftHandThumb3
+      position: {x: -0.00029649018, y: 0, z: 0}
+      rotation: {x: -0.0000000037252903, y: 0.0000000074505797, z: 2.7755572e-17,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Emily_LeftHandRing1
+      parentName: Emily_LeftHand
+      position: {x: -0.0007568091, y: -0.000042117237, z: 0.00015449703}
+      rotation: {x: -0.010043019, y: 0.03896854, z: -0.032266453, w: 0.9986689}
+      scale: {x: 1.0000005, y: 0.9999999, z: 1.0000002}
+    - name: Emily_LeftHandRing2
+      parentName: Emily_LeftHandRing1
+      position: {x: -0.00041823505, y: -5.9604643e-10, z: 0}
+      rotation: {x: -0.00000027660258, y: 0.0000005625184, z: -0.032855798, w: 0.9994601}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Emily_LeftHandRing3
+      parentName: Emily_LeftHandRing2
+      position: {x: -0.00023388863, y: 0, z: 2.9802322e-10}
+      rotation: {x: 0.000000028927598, y: 0.00000023634212, z: -0.040776417, w: 0.99916834}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Emily_LeftHandRingNub
+      parentName: Emily_LeftHandRing3
+      position: {x: -0.00018826008, y: 0, z: 0}
+      rotation: {x: 0.000000011175871, y: 0.0000000037252899, z: -4.163336e-17, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Emily_LeftHandPinky1
+      parentName: Emily_LeftHand
+      position: {x: -0.0006887352, y: 0.000034084318, z: 0.00031936765}
+      rotation: {x: -0.084586985, y: 0.07069822, z: 0.00744092, w: 0.993877}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Emily_LeftHandPinky2
+      parentName: Emily_LeftHandPinky1
+      position: {x: -0.00029970944, y: 5.9604643e-10, z: 2.9802322e-10}
+      rotation: {x: -0.000000059604588, y: 0.0000035688247, z: -0.0347417, w: 0.9993963}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Emily_LeftHandPinky3
+      parentName: Emily_LeftHandPinky2
+      position: {x: -0.00018657983, y: -2.9802322e-10, z: 0}
+      rotation: {x: -0.000000244038, y: -0.0000013684377, z: -0.035260014, w: 0.9993782}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Emily_LeftHandPinkyNub
+      parentName: Emily_LeftHandPinky3
+      position: {x: -0.0001959002, y: 2.9802322e-10, z: 2.9802322e-10}
+      rotation: {x: 0.000000019557776, y: 0.0000000055879354, z: -1.09287586e-16,
+        w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Emily_LeftHandMiddle1
+      parentName: Emily_LeftHand
+      position: {x: -0.0007802397, y: -0.000059871672, z: -0.0000008976459}
+      rotation: {x: -0.00894972, y: 0.009100768, z: -0.04098342, w: 0.9990783}
+      scale: {x: 0.9999995, y: 1.0000002, z: 1.0000002}
+    - name: Emily_LeftHandMiddle2
+      parentName: Emily_LeftHandMiddle1
+      position: {x: -0.0003991002, y: -5.9604643e-10, z: -5.9604643e-10}
+      rotation: {x: -0.00000036228417, y: -0.0000000018626436, z: -0.0331763, w: 0.9994495}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Emily_LeftHandMiddle3
+      parentName: Emily_LeftHandMiddle2
+      position: {x: -0.00022727966, y: 2.9802322e-10, z: 0}
+      rotation: {x: 0.000000007533374, y: 0.0000000073668565, z: -0.0111747645, w: 0.9999376}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Emily_LeftHandMiddleNub
+      parentName: Emily_LeftHandMiddle3
+      position: {x: -0.0002728009, y: -2.9802322e-10, z: 0}
+      rotation: {x: 0.000000011175873, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.9999999}
+    - name: Emily_LeftHandIndex1
+      parentName: Emily_LeftHand
+      position: {x: -0.000760749, y: -0.0000649482, z: -0.0001929453}
+      rotation: {x: 0.11863569, y: -0.022426862, z: -0.039477162, w: 0.9918993}
+      scale: {x: 1.0000008, y: 0.99999934, z: 1.0000005}
+    - name: Emily_LeftHandIndex2
+      parentName: Emily_LeftHandIndex1
+      position: {x: -0.0003794801, y: -5.9604643e-10, z: 0}
+      rotation: {x: 0.00000014901153, y: 0.0000004358587, z: -0.030305117, w: 0.99954075}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Emily_LeftHandIndex3
+      parentName: Emily_LeftHandIndex2
+      position: {x: -0.00020854115, y: 0.0000000011920929, z: 2.9802322e-10}
+      rotation: {x: -0.000000022493747, y: -0.000000007010206, z: -0.01963776, w: 0.9998072}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: Emily_LeftHandIndexNub
+      parentName: Emily_LeftHandIndex3
+      position: {x: -0.00023678898, y: -2.9802322e-10, z: 0}
+      rotation: {x: -0.0000000037252903, y: -0.000000007450581, z: -0.000000014901161,
+        w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

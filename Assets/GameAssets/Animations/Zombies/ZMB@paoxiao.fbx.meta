@@ -1,0 +1,1673 @@
+fileFormatVersion: 2
+guid: b1a828bc29271944d909a2b67ad75020
+timeCreated: 1501811050
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ZMB_HeadJ_1
+    100004: ZMB_HeadJ_2
+    100006: ZMB_LAnkleJ_1
+    100008: ZMB_LBendJ_1
+    100010: ZMB_LForeArmJ_1
+    100012: ZMB_LForeArmJ_2
+    100014: ZMB_LHeelJ_1
+    100016: ZMB_LKneeJ_1
+    100018: ZMB_LKneeJ_2
+    100020: ZMB_LMidFinBaseJ_1_ctrl
+    100022: ZMB_LMidFinBaseJ_1_sd
+    100024: ZMB_LMidFinJ_1_ctrl
+    100026: ZMB_LMidFinJ_1_sd
+    100028: ZMB_LMidFinJ_2_ctrl
+    100030: ZMB_LMidFinJ_2_sd
+    100032: ZMB_LMidFinJ_3_ctrl
+    100034: ZMB_LMidFinJ_3_sd
+    100036: ZMB_LMidFinJ_4
+    100038: ZMB_LPointyFinBaseJ_1_ctrl
+    100040: ZMB_LPointyFinBaseJ_1_sd
+    100042: ZMB_LPointyFinJ_1_ctrl
+    100044: ZMB_LPointyFinJ_1_sd
+    100046: ZMB_LPointyFinJ_2_ctrl
+    100048: ZMB_LPointyFinJ_2_sd
+    100050: ZMB_LPointyFinJ_3_ctrl
+    100052: ZMB_LPointyFinJ_3_sd
+    100054: ZMB_LPointyFinJ_4
+    100056: ZMB_LShoulderJ_1
+    100058: ZMB_LShoulderPlateJ_1
+    100060: ZMB_LThumbBaseJ_1_ctrl
+    100062: ZMB_LThumbBaseJ_1_sd
+    100064: ZMB_LThumbJ_1_ctrl
+    100066: ZMB_LThumbJ_1_sd
+    100068: ZMB_LThumbJ_2_ctrl
+    100070: ZMB_LThumbJ_2_sd
+    100072: ZMB_LThumbJ_3
+    100074: ZMB_LTightJ_1
+    100076: ZMB_LTinyFinBaseJ_1_ctrl
+    100078: ZMB_LTinyFinBaseJ_1_sd
+    100080: ZMB_LTinyFinJ_1_ctrl
+    100082: ZMB_LTinyFinJ_1_sd
+    100084: ZMB_LTinyFinJ_2_ctrl
+    100086: ZMB_LTinyFinJ_2_sd
+    100088: ZMB_LTinyFinJ_3_ctrl
+    100090: ZMB_LTinyFinJ_3_sd
+    100092: ZMB_LTinyFinJ_4
+    100094: ZMB_LToesJ_1
+    100096: ZMB_LWedFinBaseJ_1_ctrl
+    100098: ZMB_LWedFinBaseJ_1_sd
+    100100: ZMB_LWedFinJ_1_ctrl
+    100102: ZMB_LWedFinJ_1_sd
+    100104: ZMB_LWedFinJ_2_ctrl
+    100106: ZMB_LWedFinJ_2_sd
+    100108: ZMB_LWedFinJ_3_ctrl
+    100110: ZMB_LWedFinJ_3_sd
+    100112: ZMB_LWedFinJ_4
+    100114: ZMB_LWristJ_1
+    100116: ZMB_LWristJ_1_ctrl
+    100118: ZMB_NeckJ_1
+    100120: ZMB_NeckJ_2
+    100122: ZMB_NoseJ_1
+    100124: ZMB_RAnkleJ_1
+    100126: ZMB_RBendJ_1
+    100128: ZMB_RForeArmJ_1
+    100130: ZMB_RForeArmJ_2
+    100132: ZMB_RHeelJ_1
+    100134: ZMB_RKneeJ_1
+    100136: ZMB_RKneeJ_2
+    100138: ZMB_RMidFinBaseJ_1_ctrl
+    100140: ZMB_RMidFinBaseJ_1_sd
+    100142: ZMB_RMidFinJ_1_ctrl
+    100144: ZMB_RMidFinJ_1_sd
+    100146: ZMB_RMidFinJ_2_ctrl
+    100148: ZMB_RMidFinJ_2_sd
+    100150: ZMB_RMidFinJ_3_ctrl
+    100152: ZMB_RMidFinJ_3_sd
+    100154: ZMB_RMidFinJ_4
+    100156: ZMB_RPointyFinBaseJ_1_ctrl
+    100158: ZMB_RPointyFinBaseJ_1_sd
+    100160: ZMB_RPointyFinJ_1_ctrl
+    100162: ZMB_RPointyFinJ_1_sd
+    100164: ZMB_RPointyFinJ_2_ctrl
+    100166: ZMB_RPointyFinJ_2_sd
+    100168: ZMB_RPointyFinJ_3_ctrl
+    100170: ZMB_RPointyFinJ_3_sd
+    100172: ZMB_RPointyFinJ_4
+    100174: ZMB_RShoulderJ_1
+    100176: ZMB_RShoulderPlateJ_1
+    100178: ZMB_RThumbBaseJ_1_ctrl
+    100180: ZMB_RThumbBaseJ_1_sd
+    100182: ZMB_RThumbJ_1_ctrl
+    100184: ZMB_RThumbJ_1_sd
+    100186: ZMB_RThumbJ_2_ctrl
+    100188: ZMB_RThumbJ_2_sd
+    100190: ZMB_RThumbJ_3
+    100192: ZMB_RTightJ_1
+    100194: ZMB_RTinyFinBaseJ_1_ctrl
+    100196: ZMB_RTinyFinBaseJ_1_sd
+    100198: ZMB_RTinyFinJ_1_ctrl
+    100200: ZMB_RTinyFinJ_1_sd
+    100202: ZMB_RTinyFinJ_2_ctrl
+    100204: ZMB_RTinyFinJ_2_sd
+    100206: ZMB_RTinyFinJ_3_ctrl
+    100208: ZMB_RTinyFinJ_3_sd
+    100210: ZMB_RTinyFinJ_4
+    100212: ZMB_RToesJ_1
+    100214: ZMB_RWedFinBaseJ_1_ctrl
+    100216: ZMB_RWedFinBaseJ_1_sd
+    100218: ZMB_RWedFinJ_1_ctrl
+    100220: ZMB_RWedFinJ_1_sd
+    100222: ZMB_RWedFinJ_2_ctrl
+    100224: ZMB_RWedFinJ_2_sd
+    100226: ZMB_RWedFinJ_3_ctrl
+    100228: ZMB_RWedFinJ_3_sd
+    100230: ZMB_RWedFinJ_4
+    100232: ZMB_RWristJ_1
+    100234: ZMB_RWristJ_1_ctrl
+    100236: ZMB_SpineJ_1
+    100238: ZMB_SpineJ_2
+    100240: ZMB_SpineJ_3
+    100242: ZMB_SpineJ_4
+    100244: ZMB_SpineJ_5
+    100246: ZMB_SpineJ_6
+    100248: ZMB_SpineJ_7
+    100250: ZMB_SpineJ_8
+    400000: //RootNode
+    400002: ZMB_HeadJ_1
+    400004: ZMB_HeadJ_2
+    400006: ZMB_LAnkleJ_1
+    400008: ZMB_LBendJ_1
+    400010: ZMB_LForeArmJ_1
+    400012: ZMB_LForeArmJ_2
+    400014: ZMB_LHeelJ_1
+    400016: ZMB_LKneeJ_1
+    400018: ZMB_LKneeJ_2
+    400020: ZMB_LMidFinBaseJ_1_ctrl
+    400022: ZMB_LMidFinBaseJ_1_sd
+    400024: ZMB_LMidFinJ_1_ctrl
+    400026: ZMB_LMidFinJ_1_sd
+    400028: ZMB_LMidFinJ_2_ctrl
+    400030: ZMB_LMidFinJ_2_sd
+    400032: ZMB_LMidFinJ_3_ctrl
+    400034: ZMB_LMidFinJ_3_sd
+    400036: ZMB_LMidFinJ_4
+    400038: ZMB_LPointyFinBaseJ_1_ctrl
+    400040: ZMB_LPointyFinBaseJ_1_sd
+    400042: ZMB_LPointyFinJ_1_ctrl
+    400044: ZMB_LPointyFinJ_1_sd
+    400046: ZMB_LPointyFinJ_2_ctrl
+    400048: ZMB_LPointyFinJ_2_sd
+    400050: ZMB_LPointyFinJ_3_ctrl
+    400052: ZMB_LPointyFinJ_3_sd
+    400054: ZMB_LPointyFinJ_4
+    400056: ZMB_LShoulderJ_1
+    400058: ZMB_LShoulderPlateJ_1
+    400060: ZMB_LThumbBaseJ_1_ctrl
+    400062: ZMB_LThumbBaseJ_1_sd
+    400064: ZMB_LThumbJ_1_ctrl
+    400066: ZMB_LThumbJ_1_sd
+    400068: ZMB_LThumbJ_2_ctrl
+    400070: ZMB_LThumbJ_2_sd
+    400072: ZMB_LThumbJ_3
+    400074: ZMB_LTightJ_1
+    400076: ZMB_LTinyFinBaseJ_1_ctrl
+    400078: ZMB_LTinyFinBaseJ_1_sd
+    400080: ZMB_LTinyFinJ_1_ctrl
+    400082: ZMB_LTinyFinJ_1_sd
+    400084: ZMB_LTinyFinJ_2_ctrl
+    400086: ZMB_LTinyFinJ_2_sd
+    400088: ZMB_LTinyFinJ_3_ctrl
+    400090: ZMB_LTinyFinJ_3_sd
+    400092: ZMB_LTinyFinJ_4
+    400094: ZMB_LToesJ_1
+    400096: ZMB_LWedFinBaseJ_1_ctrl
+    400098: ZMB_LWedFinBaseJ_1_sd
+    400100: ZMB_LWedFinJ_1_ctrl
+    400102: ZMB_LWedFinJ_1_sd
+    400104: ZMB_LWedFinJ_2_ctrl
+    400106: ZMB_LWedFinJ_2_sd
+    400108: ZMB_LWedFinJ_3_ctrl
+    400110: ZMB_LWedFinJ_3_sd
+    400112: ZMB_LWedFinJ_4
+    400114: ZMB_LWristJ_1
+    400116: ZMB_LWristJ_1_ctrl
+    400118: ZMB_NeckJ_1
+    400120: ZMB_NeckJ_2
+    400122: ZMB_NoseJ_1
+    400124: ZMB_RAnkleJ_1
+    400126: ZMB_RBendJ_1
+    400128: ZMB_RForeArmJ_1
+    400130: ZMB_RForeArmJ_2
+    400132: ZMB_RHeelJ_1
+    400134: ZMB_RKneeJ_1
+    400136: ZMB_RKneeJ_2
+    400138: ZMB_RMidFinBaseJ_1_ctrl
+    400140: ZMB_RMidFinBaseJ_1_sd
+    400142: ZMB_RMidFinJ_1_ctrl
+    400144: ZMB_RMidFinJ_1_sd
+    400146: ZMB_RMidFinJ_2_ctrl
+    400148: ZMB_RMidFinJ_2_sd
+    400150: ZMB_RMidFinJ_3_ctrl
+    400152: ZMB_RMidFinJ_3_sd
+    400154: ZMB_RMidFinJ_4
+    400156: ZMB_RPointyFinBaseJ_1_ctrl
+    400158: ZMB_RPointyFinBaseJ_1_sd
+    400160: ZMB_RPointyFinJ_1_ctrl
+    400162: ZMB_RPointyFinJ_1_sd
+    400164: ZMB_RPointyFinJ_2_ctrl
+    400166: ZMB_RPointyFinJ_2_sd
+    400168: ZMB_RPointyFinJ_3_ctrl
+    400170: ZMB_RPointyFinJ_3_sd
+    400172: ZMB_RPointyFinJ_4
+    400174: ZMB_RShoulderJ_1
+    400176: ZMB_RShoulderPlateJ_1
+    400178: ZMB_RThumbBaseJ_1_ctrl
+    400180: ZMB_RThumbBaseJ_1_sd
+    400182: ZMB_RThumbJ_1_ctrl
+    400184: ZMB_RThumbJ_1_sd
+    400186: ZMB_RThumbJ_2_ctrl
+    400188: ZMB_RThumbJ_2_sd
+    400190: ZMB_RThumbJ_3
+    400192: ZMB_RTightJ_1
+    400194: ZMB_RTinyFinBaseJ_1_ctrl
+    400196: ZMB_RTinyFinBaseJ_1_sd
+    400198: ZMB_RTinyFinJ_1_ctrl
+    400200: ZMB_RTinyFinJ_1_sd
+    400202: ZMB_RTinyFinJ_2_ctrl
+    400204: ZMB_RTinyFinJ_2_sd
+    400206: ZMB_RTinyFinJ_3_ctrl
+    400208: ZMB_RTinyFinJ_3_sd
+    400210: ZMB_RTinyFinJ_4
+    400212: ZMB_RToesJ_1
+    400214: ZMB_RWedFinBaseJ_1_ctrl
+    400216: ZMB_RWedFinBaseJ_1_sd
+    400218: ZMB_RWedFinJ_1_ctrl
+    400220: ZMB_RWedFinJ_1_sd
+    400222: ZMB_RWedFinJ_2_ctrl
+    400224: ZMB_RWedFinJ_2_sd
+    400226: ZMB_RWedFinJ_3_ctrl
+    400228: ZMB_RWedFinJ_3_sd
+    400230: ZMB_RWedFinJ_4
+    400232: ZMB_RWristJ_1
+    400234: ZMB_RWristJ_1_ctrl
+    400236: ZMB_SpineJ_1
+    400238: ZMB_SpineJ_2
+    400240: ZMB_SpineJ_3
+    400242: ZMB_SpineJ_4
+    400244: ZMB_SpineJ_5
+    400246: ZMB_SpineJ_6
+    400248: ZMB_SpineJ_7
+    400250: ZMB_SpineJ_8
+    7400000: paoxiao
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: paoxiao
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ZMB_SpineJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_LTightJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_LTightJ_1/ZMB_LKneeJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_LTightJ_1/ZMB_LKneeJ_1/ZMB_LKneeJ_2
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_LTightJ_1/ZMB_LKneeJ_1/ZMB_LKneeJ_2/ZMB_LAnkleJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_LTightJ_1/ZMB_LKneeJ_1/ZMB_LKneeJ_2/ZMB_LAnkleJ_1/ZMB_LBendJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_LTightJ_1/ZMB_LKneeJ_1/ZMB_LKneeJ_2/ZMB_LAnkleJ_1/ZMB_LBendJ_1/ZMB_LToesJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_LTightJ_1/ZMB_LKneeJ_1/ZMB_LKneeJ_2/ZMB_LAnkleJ_1/ZMB_LHeelJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_RTightJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_RTightJ_1/ZMB_RKneeJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_RTightJ_1/ZMB_RKneeJ_1/ZMB_RKneeJ_2
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_RTightJ_1/ZMB_RKneeJ_1/ZMB_RKneeJ_2/ZMB_RAnkleJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_RTightJ_1/ZMB_RKneeJ_1/ZMB_RKneeJ_2/ZMB_RAnkleJ_1/ZMB_RBendJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_RTightJ_1/ZMB_RKneeJ_1/ZMB_RKneeJ_2/ZMB_RAnkleJ_1/ZMB_RBendJ_1/ZMB_RToesJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_RTightJ_1/ZMB_RKneeJ_1/ZMB_RKneeJ_2/ZMB_RAnkleJ_1/ZMB_RHeelJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LMidFinBaseJ_1_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LMidFinBaseJ_1_sd/ZMB_LMidFinBaseJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LMidFinBaseJ_1_sd/ZMB_LMidFinBaseJ_1_ctrl/ZMB_LMidFinJ_1_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LMidFinBaseJ_1_sd/ZMB_LMidFinBaseJ_1_ctrl/ZMB_LMidFinJ_1_sd/ZMB_LMidFinJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LMidFinBaseJ_1_sd/ZMB_LMidFinBaseJ_1_ctrl/ZMB_LMidFinJ_1_sd/ZMB_LMidFinJ_1_ctrl/ZMB_LMidFinJ_2_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LMidFinBaseJ_1_sd/ZMB_LMidFinBaseJ_1_ctrl/ZMB_LMidFinJ_1_sd/ZMB_LMidFinJ_1_ctrl/ZMB_LMidFinJ_2_sd/ZMB_LMidFinJ_2_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LMidFinBaseJ_1_sd/ZMB_LMidFinBaseJ_1_ctrl/ZMB_LMidFinJ_1_sd/ZMB_LMidFinJ_1_ctrl/ZMB_LMidFinJ_2_sd/ZMB_LMidFinJ_2_ctrl/ZMB_LMidFinJ_3_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LMidFinBaseJ_1_sd/ZMB_LMidFinBaseJ_1_ctrl/ZMB_LMidFinJ_1_sd/ZMB_LMidFinJ_1_ctrl/ZMB_LMidFinJ_2_sd/ZMB_LMidFinJ_2_ctrl/ZMB_LMidFinJ_3_sd/ZMB_LMidFinJ_3_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LMidFinBaseJ_1_sd/ZMB_LMidFinBaseJ_1_ctrl/ZMB_LMidFinJ_1_sd/ZMB_LMidFinJ_1_ctrl/ZMB_LMidFinJ_2_sd/ZMB_LMidFinJ_2_ctrl/ZMB_LMidFinJ_3_sd/ZMB_LMidFinJ_3_ctrl/ZMB_LMidFinJ_4
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LPointyFinBaseJ_1_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LPointyFinBaseJ_1_sd/ZMB_LPointyFinBaseJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LPointyFinBaseJ_1_sd/ZMB_LPointyFinBaseJ_1_ctrl/ZMB_LPointyFinJ_1_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LPointyFinBaseJ_1_sd/ZMB_LPointyFinBaseJ_1_ctrl/ZMB_LPointyFinJ_1_sd/ZMB_LPointyFinJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LPointyFinBaseJ_1_sd/ZMB_LPointyFinBaseJ_1_ctrl/ZMB_LPointyFinJ_1_sd/ZMB_LPointyFinJ_1_ctrl/ZMB_LPointyFinJ_2_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LPointyFinBaseJ_1_sd/ZMB_LPointyFinBaseJ_1_ctrl/ZMB_LPointyFinJ_1_sd/ZMB_LPointyFinJ_1_ctrl/ZMB_LPointyFinJ_2_sd/ZMB_LPointyFinJ_2_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LPointyFinBaseJ_1_sd/ZMB_LPointyFinBaseJ_1_ctrl/ZMB_LPointyFinJ_1_sd/ZMB_LPointyFinJ_1_ctrl/ZMB_LPointyFinJ_2_sd/ZMB_LPointyFinJ_2_ctrl/ZMB_LPointyFinJ_3_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LPointyFinBaseJ_1_sd/ZMB_LPointyFinBaseJ_1_ctrl/ZMB_LPointyFinJ_1_sd/ZMB_LPointyFinJ_1_ctrl/ZMB_LPointyFinJ_2_sd/ZMB_LPointyFinJ_2_ctrl/ZMB_LPointyFinJ_3_sd/ZMB_LPointyFinJ_3_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LPointyFinBaseJ_1_sd/ZMB_LPointyFinBaseJ_1_ctrl/ZMB_LPointyFinJ_1_sd/ZMB_LPointyFinJ_1_ctrl/ZMB_LPointyFinJ_2_sd/ZMB_LPointyFinJ_2_ctrl/ZMB_LPointyFinJ_3_sd/ZMB_LPointyFinJ_3_ctrl/ZMB_LPointyFinJ_4
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LThumbBaseJ_1_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LThumbBaseJ_1_sd/ZMB_LThumbBaseJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LThumbBaseJ_1_sd/ZMB_LThumbBaseJ_1_ctrl/ZMB_LThumbJ_1_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LThumbBaseJ_1_sd/ZMB_LThumbBaseJ_1_ctrl/ZMB_LThumbJ_1_sd/ZMB_LThumbJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LThumbBaseJ_1_sd/ZMB_LThumbBaseJ_1_ctrl/ZMB_LThumbJ_1_sd/ZMB_LThumbJ_1_ctrl/ZMB_LThumbJ_2_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LThumbBaseJ_1_sd/ZMB_LThumbBaseJ_1_ctrl/ZMB_LThumbJ_1_sd/ZMB_LThumbJ_1_ctrl/ZMB_LThumbJ_2_sd/ZMB_LThumbJ_2_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LThumbBaseJ_1_sd/ZMB_LThumbBaseJ_1_ctrl/ZMB_LThumbJ_1_sd/ZMB_LThumbJ_1_ctrl/ZMB_LThumbJ_2_sd/ZMB_LThumbJ_2_ctrl/ZMB_LThumbJ_3
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LTinyFinBaseJ_1_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LTinyFinBaseJ_1_sd/ZMB_LTinyFinBaseJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LTinyFinBaseJ_1_sd/ZMB_LTinyFinBaseJ_1_ctrl/ZMB_LTinyFinJ_1_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LTinyFinBaseJ_1_sd/ZMB_LTinyFinBaseJ_1_ctrl/ZMB_LTinyFinJ_1_sd/ZMB_LTinyFinJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LTinyFinBaseJ_1_sd/ZMB_LTinyFinBaseJ_1_ctrl/ZMB_LTinyFinJ_1_sd/ZMB_LTinyFinJ_1_ctrl/ZMB_LTinyFinJ_2_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LTinyFinBaseJ_1_sd/ZMB_LTinyFinBaseJ_1_ctrl/ZMB_LTinyFinJ_1_sd/ZMB_LTinyFinJ_1_ctrl/ZMB_LTinyFinJ_2_sd/ZMB_LTinyFinJ_2_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LTinyFinBaseJ_1_sd/ZMB_LTinyFinBaseJ_1_ctrl/ZMB_LTinyFinJ_1_sd/ZMB_LTinyFinJ_1_ctrl/ZMB_LTinyFinJ_2_sd/ZMB_LTinyFinJ_2_ctrl/ZMB_LTinyFinJ_3_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LTinyFinBaseJ_1_sd/ZMB_LTinyFinBaseJ_1_ctrl/ZMB_LTinyFinJ_1_sd/ZMB_LTinyFinJ_1_ctrl/ZMB_LTinyFinJ_2_sd/ZMB_LTinyFinJ_2_ctrl/ZMB_LTinyFinJ_3_sd/ZMB_LTinyFinJ_3_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LTinyFinBaseJ_1_sd/ZMB_LTinyFinBaseJ_1_ctrl/ZMB_LTinyFinJ_1_sd/ZMB_LTinyFinJ_1_ctrl/ZMB_LTinyFinJ_2_sd/ZMB_LTinyFinJ_2_ctrl/ZMB_LTinyFinJ_3_sd/ZMB_LTinyFinJ_3_ctrl/ZMB_LTinyFinJ_4
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LWedFinBaseJ_1_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LWedFinBaseJ_1_sd/ZMB_LWedFinBaseJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LWedFinBaseJ_1_sd/ZMB_LWedFinBaseJ_1_ctrl/ZMB_LWedFinJ_1_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LWedFinBaseJ_1_sd/ZMB_LWedFinBaseJ_1_ctrl/ZMB_LWedFinJ_1_sd/ZMB_LWedFinJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LWedFinBaseJ_1_sd/ZMB_LWedFinBaseJ_1_ctrl/ZMB_LWedFinJ_1_sd/ZMB_LWedFinJ_1_ctrl/ZMB_LWedFinJ_2_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LWedFinBaseJ_1_sd/ZMB_LWedFinBaseJ_1_ctrl/ZMB_LWedFinJ_1_sd/ZMB_LWedFinJ_1_ctrl/ZMB_LWedFinJ_2_sd/ZMB_LWedFinJ_2_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LWedFinBaseJ_1_sd/ZMB_LWedFinBaseJ_1_ctrl/ZMB_LWedFinJ_1_sd/ZMB_LWedFinJ_1_ctrl/ZMB_LWedFinJ_2_sd/ZMB_LWedFinJ_2_ctrl/ZMB_LWedFinJ_3_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LWedFinBaseJ_1_sd/ZMB_LWedFinBaseJ_1_ctrl/ZMB_LWedFinJ_1_sd/ZMB_LWedFinJ_1_ctrl/ZMB_LWedFinJ_2_sd/ZMB_LWedFinJ_2_ctrl/ZMB_LWedFinJ_3_sd/ZMB_LWedFinJ_3_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_LShoulderPlateJ_1/ZMB_LShoulderJ_1/ZMB_LForeArmJ_1/ZMB_LForeArmJ_2/ZMB_LWristJ_1/ZMB_LWristJ_1_ctrl/ZMB_LWedFinBaseJ_1_sd/ZMB_LWedFinBaseJ_1_ctrl/ZMB_LWedFinJ_1_sd/ZMB_LWedFinJ_1_ctrl/ZMB_LWedFinJ_2_sd/ZMB_LWedFinJ_2_ctrl/ZMB_LWedFinJ_3_sd/ZMB_LWedFinJ_3_ctrl/ZMB_LWedFinJ_4
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_NeckJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_NeckJ_1/ZMB_NeckJ_2
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_NeckJ_1/ZMB_NeckJ_2/ZMB_HeadJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_NeckJ_1/ZMB_NeckJ_2/ZMB_HeadJ_1/ZMB_HeadJ_2
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_NeckJ_1/ZMB_NeckJ_2/ZMB_HeadJ_1/ZMB_NoseJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RMidFinBaseJ_1_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RMidFinBaseJ_1_sd/ZMB_RMidFinBaseJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RMidFinBaseJ_1_sd/ZMB_RMidFinBaseJ_1_ctrl/ZMB_RMidFinJ_1_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RMidFinBaseJ_1_sd/ZMB_RMidFinBaseJ_1_ctrl/ZMB_RMidFinJ_1_sd/ZMB_RMidFinJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RMidFinBaseJ_1_sd/ZMB_RMidFinBaseJ_1_ctrl/ZMB_RMidFinJ_1_sd/ZMB_RMidFinJ_1_ctrl/ZMB_RMidFinJ_2_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RMidFinBaseJ_1_sd/ZMB_RMidFinBaseJ_1_ctrl/ZMB_RMidFinJ_1_sd/ZMB_RMidFinJ_1_ctrl/ZMB_RMidFinJ_2_sd/ZMB_RMidFinJ_2_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RMidFinBaseJ_1_sd/ZMB_RMidFinBaseJ_1_ctrl/ZMB_RMidFinJ_1_sd/ZMB_RMidFinJ_1_ctrl/ZMB_RMidFinJ_2_sd/ZMB_RMidFinJ_2_ctrl/ZMB_RMidFinJ_3_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RMidFinBaseJ_1_sd/ZMB_RMidFinBaseJ_1_ctrl/ZMB_RMidFinJ_1_sd/ZMB_RMidFinJ_1_ctrl/ZMB_RMidFinJ_2_sd/ZMB_RMidFinJ_2_ctrl/ZMB_RMidFinJ_3_sd/ZMB_RMidFinJ_3_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RMidFinBaseJ_1_sd/ZMB_RMidFinBaseJ_1_ctrl/ZMB_RMidFinJ_1_sd/ZMB_RMidFinJ_1_ctrl/ZMB_RMidFinJ_2_sd/ZMB_RMidFinJ_2_ctrl/ZMB_RMidFinJ_3_sd/ZMB_RMidFinJ_3_ctrl/ZMB_RMidFinJ_4
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RPointyFinBaseJ_1_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RPointyFinBaseJ_1_sd/ZMB_RPointyFinBaseJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RPointyFinBaseJ_1_sd/ZMB_RPointyFinBaseJ_1_ctrl/ZMB_RPointyFinJ_1_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RPointyFinBaseJ_1_sd/ZMB_RPointyFinBaseJ_1_ctrl/ZMB_RPointyFinJ_1_sd/ZMB_RPointyFinJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RPointyFinBaseJ_1_sd/ZMB_RPointyFinBaseJ_1_ctrl/ZMB_RPointyFinJ_1_sd/ZMB_RPointyFinJ_1_ctrl/ZMB_RPointyFinJ_2_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RPointyFinBaseJ_1_sd/ZMB_RPointyFinBaseJ_1_ctrl/ZMB_RPointyFinJ_1_sd/ZMB_RPointyFinJ_1_ctrl/ZMB_RPointyFinJ_2_sd/ZMB_RPointyFinJ_2_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RPointyFinBaseJ_1_sd/ZMB_RPointyFinBaseJ_1_ctrl/ZMB_RPointyFinJ_1_sd/ZMB_RPointyFinJ_1_ctrl/ZMB_RPointyFinJ_2_sd/ZMB_RPointyFinJ_2_ctrl/ZMB_RPointyFinJ_3_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RPointyFinBaseJ_1_sd/ZMB_RPointyFinBaseJ_1_ctrl/ZMB_RPointyFinJ_1_sd/ZMB_RPointyFinJ_1_ctrl/ZMB_RPointyFinJ_2_sd/ZMB_RPointyFinJ_2_ctrl/ZMB_RPointyFinJ_3_sd/ZMB_RPointyFinJ_3_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RPointyFinBaseJ_1_sd/ZMB_RPointyFinBaseJ_1_ctrl/ZMB_RPointyFinJ_1_sd/ZMB_RPointyFinJ_1_ctrl/ZMB_RPointyFinJ_2_sd/ZMB_RPointyFinJ_2_ctrl/ZMB_RPointyFinJ_3_sd/ZMB_RPointyFinJ_3_ctrl/ZMB_RPointyFinJ_4
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RThumbBaseJ_1_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RThumbBaseJ_1_sd/ZMB_RThumbBaseJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RThumbBaseJ_1_sd/ZMB_RThumbBaseJ_1_ctrl/ZMB_RThumbJ_1_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RThumbBaseJ_1_sd/ZMB_RThumbBaseJ_1_ctrl/ZMB_RThumbJ_1_sd/ZMB_RThumbJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RThumbBaseJ_1_sd/ZMB_RThumbBaseJ_1_ctrl/ZMB_RThumbJ_1_sd/ZMB_RThumbJ_1_ctrl/ZMB_RThumbJ_2_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RThumbBaseJ_1_sd/ZMB_RThumbBaseJ_1_ctrl/ZMB_RThumbJ_1_sd/ZMB_RThumbJ_1_ctrl/ZMB_RThumbJ_2_sd/ZMB_RThumbJ_2_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RThumbBaseJ_1_sd/ZMB_RThumbBaseJ_1_ctrl/ZMB_RThumbJ_1_sd/ZMB_RThumbJ_1_ctrl/ZMB_RThumbJ_2_sd/ZMB_RThumbJ_2_ctrl/ZMB_RThumbJ_3
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RTinyFinBaseJ_1_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RTinyFinBaseJ_1_sd/ZMB_RTinyFinBaseJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RTinyFinBaseJ_1_sd/ZMB_RTinyFinBaseJ_1_ctrl/ZMB_RTinyFinJ_1_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RTinyFinBaseJ_1_sd/ZMB_RTinyFinBaseJ_1_ctrl/ZMB_RTinyFinJ_1_sd/ZMB_RTinyFinJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RTinyFinBaseJ_1_sd/ZMB_RTinyFinBaseJ_1_ctrl/ZMB_RTinyFinJ_1_sd/ZMB_RTinyFinJ_1_ctrl/ZMB_RTinyFinJ_2_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RTinyFinBaseJ_1_sd/ZMB_RTinyFinBaseJ_1_ctrl/ZMB_RTinyFinJ_1_sd/ZMB_RTinyFinJ_1_ctrl/ZMB_RTinyFinJ_2_sd/ZMB_RTinyFinJ_2_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RTinyFinBaseJ_1_sd/ZMB_RTinyFinBaseJ_1_ctrl/ZMB_RTinyFinJ_1_sd/ZMB_RTinyFinJ_1_ctrl/ZMB_RTinyFinJ_2_sd/ZMB_RTinyFinJ_2_ctrl/ZMB_RTinyFinJ_3_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RTinyFinBaseJ_1_sd/ZMB_RTinyFinBaseJ_1_ctrl/ZMB_RTinyFinJ_1_sd/ZMB_RTinyFinJ_1_ctrl/ZMB_RTinyFinJ_2_sd/ZMB_RTinyFinJ_2_ctrl/ZMB_RTinyFinJ_3_sd/ZMB_RTinyFinJ_3_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RTinyFinBaseJ_1_sd/ZMB_RTinyFinBaseJ_1_ctrl/ZMB_RTinyFinJ_1_sd/ZMB_RTinyFinJ_1_ctrl/ZMB_RTinyFinJ_2_sd/ZMB_RTinyFinJ_2_ctrl/ZMB_RTinyFinJ_3_sd/ZMB_RTinyFinJ_3_ctrl/ZMB_RTinyFinJ_4
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RWedFinBaseJ_1_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RWedFinBaseJ_1_sd/ZMB_RWedFinBaseJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RWedFinBaseJ_1_sd/ZMB_RWedFinBaseJ_1_ctrl/ZMB_RWedFinJ_1_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RWedFinBaseJ_1_sd/ZMB_RWedFinBaseJ_1_ctrl/ZMB_RWedFinJ_1_sd/ZMB_RWedFinJ_1_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RWedFinBaseJ_1_sd/ZMB_RWedFinBaseJ_1_ctrl/ZMB_RWedFinJ_1_sd/ZMB_RWedFinJ_1_ctrl/ZMB_RWedFinJ_2_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RWedFinBaseJ_1_sd/ZMB_RWedFinBaseJ_1_ctrl/ZMB_RWedFinJ_1_sd/ZMB_RWedFinJ_1_ctrl/ZMB_RWedFinJ_2_sd/ZMB_RWedFinJ_2_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RWedFinBaseJ_1_sd/ZMB_RWedFinBaseJ_1_ctrl/ZMB_RWedFinJ_1_sd/ZMB_RWedFinJ_1_ctrl/ZMB_RWedFinJ_2_sd/ZMB_RWedFinJ_2_ctrl/ZMB_RWedFinJ_3_sd
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RWedFinBaseJ_1_sd/ZMB_RWedFinBaseJ_1_ctrl/ZMB_RWedFinJ_1_sd/ZMB_RWedFinJ_1_ctrl/ZMB_RWedFinJ_2_sd/ZMB_RWedFinJ_2_ctrl/ZMB_RWedFinJ_3_sd/ZMB_RWedFinJ_3_ctrl
+        weight: 1
+      - path: ZMB_SpineJ_1/ZMB_SpineJ_2/ZMB_SpineJ_3/ZMB_SpineJ_4/ZMB_SpineJ_5/ZMB_SpineJ_6/ZMB_SpineJ_7/ZMB_SpineJ_8/ZMB_RShoulderPlateJ_1/ZMB_RShoulderJ_1/ZMB_RForeArmJ_1/ZMB_RForeArmJ_2/ZMB_RWristJ_1/ZMB_RWristJ_1_ctrl/ZMB_RWedFinBaseJ_1_sd/ZMB_RWedFinBaseJ_1_ctrl/ZMB_RWedFinJ_1_sd/ZMB_RWedFinJ_1_ctrl/ZMB_RWedFinJ_2_sd/ZMB_RWedFinJ_2_ctrl/ZMB_RWedFinJ_3_sd/ZMB_RWedFinJ_3_ctrl/ZMB_RWedFinJ_4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: ZMB_SpineJ_1
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RTightJ_1
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LTightJ_1
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RKneeJ_1
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LKneeJ_1
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RAnkleJ_1
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LAnkleJ_1
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_SpineJ_3
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_SpineJ_4
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_NeckJ_1
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_HeadJ_1
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RShoulderPlateJ_1
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LShoulderPlateJ_1
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RShoulderJ_1
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LShoulderJ_1
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RForeArmJ_1
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LForeArmJ_1
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RWristJ_1
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LWristJ_1
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RToesJ_1
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LToesJ_1
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_NoseJ_1
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_HeadJ_2
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RThumbBaseJ_1_sd
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RThumbBaseJ_1_ctrl
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RThumbJ_1_sd
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RPointyFinBaseJ_1_sd
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RPointyFinBaseJ_1_ctrl
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RPointyFinJ_1_sd
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RMidFinBaseJ_1_sd
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RMidFinBaseJ_1_ctrl
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RMidFinJ_1_sd
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RWedFinBaseJ_1_ctrl
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RWedFinJ_1_sd
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RWedFinJ_1_ctrl
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RTinyFinBaseJ_1_ctrl
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RTinyFinJ_1_sd
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_RTinyFinJ_1_ctrl
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LThumbBaseJ_1_sd
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LThumbBaseJ_1_ctrl
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LThumbJ_1_sd
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LPointyFinBaseJ_1_sd
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LPointyFinBaseJ_1_ctrl
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LPointyFinJ_1_sd
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LMidFinBaseJ_1_sd
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LMidFinBaseJ_1_ctrl
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LMidFinJ_1_sd
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LWedFinBaseJ_1_ctrl
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LWedFinJ_1_sd
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LWedFinJ_1_ctrl
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LTinyFinBaseJ_1_ctrl
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LTinyFinJ_1_sd
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_LTinyFinJ_1_ctrl
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZMB_SpineJ_6
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: ZMB@paoxiao(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_SpineJ_1
+      parentName: ZMB@paoxiao(Clone)
+      position: {x: 0.0010228214, y: 0.10515021, z: -0.003883478}
+      rotation: {x: 0.100767426, y: -0.08476198, z: 0.006701615, w: 0.9912701}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LTightJ_1
+      parentName: ZMB_SpineJ_1
+      position: {x: 0.012149372, y: -0.0053234175, z: 0.0023320816}
+      rotation: {x: -0.1024937, y: 0.19119349, z: 0.7368581, w: 0.640297}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LKneeJ_1
+      parentName: ZMB_LTightJ_1
+      position: {x: -0.045544915, y: 0, z: 8.881784e-18}
+      rotation: {x: 0.014494, y: -0.10390185, z: -0.016524589, w: 0.99434465}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LKneeJ_2
+      parentName: ZMB_LKneeJ_1
+      position: {x: -0.003311085, y: 4.440892e-18, z: -8.881784e-18}
+      rotation: {x: -0.00030727693, y: -0.25618526, z: -0.0016831848, w: 0.96662617}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LAnkleJ_1
+      parentName: ZMB_LKneeJ_2
+      position: {x: -0.043859918, y: 4.440892e-18, z: -4.440892e-18}
+      rotation: {x: 0.1483556, y: 0.64475465, z: 0.026261175, w: 0.7493947}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LBendJ_1
+      parentName: ZMB_LAnkleJ_1
+      position: {x: -0.018116958, y: 0, z: 1.110223e-18}
+      rotation: {x: 0.0454606, y: 0.29612726, z: 0.015154177, w: 0.9539457}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LToesJ_1
+      parentName: ZMB_LBendJ_1
+      position: {x: -0.006740859, y: 8.881784e-18, z: -2.7755574e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LHeelJ_1
+      parentName: ZMB_LAnkleJ_1
+      position: {x: -0.002401089, y: 0.00059506705, z: -0.011076406}
+      rotation: {x: 0.008320007, y: 0.777684, z: 0.031451616, w: 0.62781304}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RTightJ_1
+      parentName: ZMB_SpineJ_1
+      position: {x: -0.012149399, y: -0.005323556, z: 0.002332078}
+      rotation: {x: 0.7115448, y: 0.65832204, z: -0.07671007, w: 0.23330636}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RKneeJ_1
+      parentName: ZMB_RTightJ_1
+      position: {x: -0.045544796, y: 1.7763568e-17, z: 1.7763568e-17}
+      rotation: {x: 0.0060596378, y: 0.08742946, z: 0.005048363, w: 0.9961395}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RKneeJ_2
+      parentName: ZMB_RKneeJ_1
+      position: {x: -0.003311088, y: -8.881784e-18, z: -1.3322676e-17}
+      rotation: {x: 0.00034371443, y: 0.2710351, z: -0.0017761663, w: 0.96256775}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RAnkleJ_1
+      parentName: ZMB_RKneeJ_2
+      position: {x: -0.04385991, y: 5.3290704e-17, z: 1.3322676e-17}
+      rotation: {x: 0.020055788, y: -0.65389705, z: -0.007922466, w: 0.75627625}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RBendJ_1
+      parentName: ZMB_RAnkleJ_1
+      position: {x: -0.018116955, y: -8.881784e-18, z: -4.440892e-18}
+      rotation: {x: -0.045460667, y: -0.29612708, z: 0.015154643, w: 0.95394576}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RToesJ_1
+      parentName: ZMB_RBendJ_1
+      position: {x: -0.006740859, y: -1.3322676e-17, z: -3.1225022e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RHeelJ_1
+      parentName: ZMB_RAnkleJ_1
+      position: {x: -0.0024010616, y: 0.0005950274, z: 0.011076416}
+      rotation: {x: -0.008318424, y: -0.77768326, z: 0.031450786, w: 0.627814}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_SpineJ_2
+      parentName: ZMB_SpineJ_1
+      position: {x: -3.9464958e-19, y: 0.0025130424, z: 0.0008665456}
+      rotation: {x: 0.06788807, y: 0.068026155, z: -0.70454836, w: 0.70311826}
+      scale: {x: 1.0129924, y: 1, z: 1}
+    - name: ZMB_SpineJ_3
+      parentName: ZMB_SpineJ_2
+      position: {x: -0.008073149, y: 2.24693e-18, z: 0}
+      rotation: {x: -0.02068301, y: -0.18687446, z: -0.00899052, w: 0.9821249}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_SpineJ_4
+      parentName: ZMB_SpineJ_3
+      position: {x: -0.0076283035, y: 3.0959187e-18, z: 0}
+      rotation: {x: -0.019877465, y: -0.08616696, z: -0.009636787, w: 0.99603575}
+      scale: {x: 1.0129924, y: 1, z: 1}
+    - name: ZMB_SpineJ_5
+      parentName: ZMB_SpineJ_4
+      position: {x: -0.008093775, y: 4.0373635e-18, z: 0}
+      rotation: {x: -0.022720447, y: 0.021133296, z: 0.0083247945, w: 0.9994838}
+      scale: {x: 1.0129924, y: 1, z: 1}
+    - name: ZMB_SpineJ_6
+      parentName: ZMB_SpineJ_5
+      position: {x: -0.0067204875, y: 3.7364633e-18, z: 0}
+      rotation: {x: -0.02340987, y: 0.0538067, z: 0.012883366, w: 0.9981938}
+      scale: {x: 1.0129924, y: 1, z: 1}
+    - name: ZMB_SpineJ_7
+      parentName: ZMB_SpineJ_6
+      position: {x: -0.0068836915, y: 3.8094517e-18, z: 0}
+      rotation: {x: -0.023057476, y: 0.0674932, z: 0.0021497493, w: 0.99745095}
+      scale: {x: 1.0129924, y: 1, z: 1}
+    - name: ZMB_SpineJ_8
+      parentName: ZMB_SpineJ_7
+      position: {x: -0.008368573, y: 4.179923e-18, z: -2.220446e-18}
+      rotation: {x: -0.022488479, y: 0.07458533, z: 0.00041155855, w: 0.99696094}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LShoulderPlateJ_1
+      parentName: ZMB_SpineJ_8
+      position: {x: 0.0018628181, y: 0.007462011, z: -0.0032115025}
+      rotation: {x: 0.04158168, y: 0.059231468, z: -0.60025567, w: 0.7965273}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LShoulderJ_1
+      parentName: ZMB_LShoulderPlateJ_1
+      position: {x: -0.008394607, y: 7.105427e-17, z: -8.881784e-18}
+      rotation: {x: 0.009137449, y: -0.017853908, z: -0.12748834, w: 0.99163735}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LForeArmJ_1
+      parentName: ZMB_LShoulderJ_1
+      position: {x: -0.027278341, y: -1.7763568e-17, z: 0}
+      rotation: {x: 0.00101536, y: -0.13165787, z: 0.033826467, w: 0.9907174}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LForeArmJ_2
+      parentName: ZMB_LForeArmJ_1
+      position: {x: -0.003027497, y: -1.7763568e-17, z: -2.4424906e-17}
+      rotation: {x: 0.0072135217, y: 0.18352237, z: -0.032059707, w: 0.98246616}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LWristJ_1
+      parentName: ZMB_LForeArmJ_2
+      position: {x: -0.02568184, y: 8.881784e-18, z: -4.440892e-18}
+      rotation: {x: 0.068013586, y: 0.08197311, z: 0.08183977, w: 0.99093735}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LWristJ_1_ctrl
+      parentName: ZMB_LWristJ_1
+      position: {x: -0, y: -8.881784e-18, z: -4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LMidFinBaseJ_1_sd
+      parentName: ZMB_LWristJ_1_ctrl
+      position: {x: -0.0091070505, y: -0.00013147741, z: 0.0010707197}
+      rotation: {x: 0.07681226, y: 0.01075053, z: -0.19883339, w: 0.97695935}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LMidFinBaseJ_1_ctrl
+      parentName: ZMB_LMidFinBaseJ_1_sd
+      position: {x: -0, y: -4.440892e-18, z: -1.3322676e-17}
+      rotation: {x: -0.0019122278, y: -0.11087613, z: 0.12702109, w: 0.9856817}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LMidFinJ_1_sd
+      parentName: ZMB_LMidFinBaseJ_1_ctrl
+      position: {x: -0.004779828, y: 0, z: 4.440892e-18}
+      rotation: {x: 0.0077679134, y: -0.080209754, z: -0.21144761, w: 0.9740616}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LMidFinJ_1_ctrl
+      parentName: ZMB_LMidFinJ_1_sd
+      position: {x: 1.7763568e-17, y: -4.440892e-18, z: 0}
+      rotation: {x: 8.326673e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LMidFinJ_2_sd
+      parentName: ZMB_LMidFinJ_1_ctrl
+      position: {x: -0.0053375512, y: 4.440892e-18, z: 0}
+      rotation: {x: 0.037948776, y: -0.117697656, z: -0.30604854, w: 0.94394994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LMidFinJ_2_ctrl
+      parentName: ZMB_LMidFinJ_2_sd
+      position: {x: -1.7763568e-17, y: -3.0010716e-18, z: 0}
+      rotation: {x: 8.326673e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LMidFinJ_3_sd
+      parentName: ZMB_LMidFinJ_2_ctrl
+      position: {x: -0.004076485, y: 1.769418e-18, z: 0}
+      rotation: {x: 0.03029912, y: -0.12767318, z: -0.34402496, w: 0.9297464}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LMidFinJ_3_ctrl
+      parentName: ZMB_LMidFinJ_3_sd
+      position: {x: 1.7763568e-17, y: 0, z: 6.661338e-18}
+      rotation: {x: 8.326673e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LMidFinJ_4
+      parentName: ZMB_LMidFinJ_3_ctrl
+      position: {x: -0.0041551064, y: 0, z: -6.661338e-18}
+      rotation: {x: 8.326673e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LPointyFinBaseJ_1_sd
+      parentName: ZMB_LWristJ_1_ctrl
+      position: {x: -0.008782549, y: 0.0000038331573, z: 0.0033774641}
+      rotation: {x: 0.11317122, y: 0.051267885, z: -0.25958088, w: 0.957696}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LPointyFinBaseJ_1_ctrl
+      parentName: ZMB_LPointyFinBaseJ_1_sd
+      position: {x: 1.7763568e-17, y: -6.661338e-18, z: -8.881784e-18}
+      rotation: {x: -0.0038359445, y: -0.14622748, z: 0.20388721, w: 0.9680046}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LPointyFinJ_1_sd
+      parentName: ZMB_LPointyFinBaseJ_1_ctrl
+      position: {x: -0.0053257504, y: -2.220446e-18, z: 0}
+      rotation: {x: -0.004438752, y: -0.08252648, z: -0.17688473, w: 0.98075557}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LPointyFinJ_1_ctrl
+      parentName: ZMB_LPointyFinJ_1_sd
+      position: {x: 3.5527136e-17, y: 1.11022296e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LPointyFinJ_2_sd
+      parentName: ZMB_LPointyFinJ_1_ctrl
+      position: {x: -0.0041389586, y: -6.661338e-18, z: 0}
+      rotation: {x: 0.04332992, y: -0.12089923, z: -0.28161252, w: 0.9508945}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LPointyFinJ_2_ctrl
+      parentName: ZMB_LPointyFinJ_2_sd
+      position: {x: -0, y: -1.110223e-18, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LPointyFinJ_3_sd
+      parentName: ZMB_LPointyFinJ_2_ctrl
+      position: {x: -0.0029314558, y: -1.110223e-18, z: 0}
+      rotation: {x: 0.05234052, y: -0.1454135, z: -0.34507808, w: 0.9257627}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LPointyFinJ_3_ctrl
+      parentName: ZMB_LPointyFinJ_3_sd
+      position: {x: 8.881784e-18, y: 8.881784e-18, z: 8.881784e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LPointyFinJ_4
+      parentName: ZMB_LPointyFinJ_3_ctrl
+      position: {x: -0.004582564, y: -1.3322676e-17, z: -4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LThumbBaseJ_1_sd
+      parentName: ZMB_LWristJ_1_ctrl
+      position: {x: -0.004480398, y: 0.0026704802, z: 0.004454452}
+      rotation: {x: 0.3146345, y: 0.28931656, z: -0.37651107, w: 0.8219127}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LThumbBaseJ_1_ctrl
+      parentName: ZMB_LThumbBaseJ_1_sd
+      position: {x: 8.881784e-18, y: 4.440892e-18, z: 1.7763568e-17}
+      rotation: {x: -0.0033065644, y: 0.055375583, z: 0.26470613, w: 0.9627322}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LThumbJ_1_sd
+      parentName: ZMB_LThumbBaseJ_1_ctrl
+      position: {x: -0.002029147, y: -4.440892e-18, z: -1.7763568e-17}
+      rotation: {x: 0.06028551, y: -0.34534422, z: -0.04367644, w: 0.9355188}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LThumbJ_1_ctrl
+      parentName: ZMB_LThumbJ_1_sd
+      position: {x: -8.881784e-18, y: 0, z: 8.881784e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LThumbJ_2_sd
+      parentName: ZMB_LThumbJ_1_ctrl
+      position: {x: -0.0035534215, y: 0, z: 1.7763568e-17}
+      rotation: {x: -0.043220423, y: -0.24712136, z: 0.17608403, w: 0.9518705}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LThumbJ_2_ctrl
+      parentName: ZMB_LThumbJ_2_sd
+      position: {x: 1.7763568e-17, y: 8.881784e-18, z: -1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LThumbJ_3
+      parentName: ZMB_LThumbJ_2_ctrl
+      position: {x: -0.006077426, y: -4.440892e-18, z: 4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LTinyFinBaseJ_1_sd
+      parentName: ZMB_LWristJ_1_ctrl
+      position: {x: -0.008234567, y: 0.00027963126, z: -0.0034105992}
+      rotation: {x: 0.03607332, y: -0.12936445, z: -0.15674575, w: 0.9784653}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LTinyFinBaseJ_1_ctrl
+      parentName: ZMB_LTinyFinBaseJ_1_sd
+      position: {x: 1.7763568e-17, y: 0, z: -4.440892e-18}
+      rotation: {x: 0.0014995774, y: 0.13820739, z: 0.11519374, w: 0.98368025}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LTinyFinJ_1_sd
+      parentName: ZMB_LTinyFinBaseJ_1_ctrl
+      position: {x: -0.004420376, y: -4.440892e-18, z: -1.110223e-18}
+      rotation: {x: 0.0014081296, y: -0.038734548, z: -0.21472436, w: 0.9759053}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LTinyFinJ_1_ctrl
+      parentName: ZMB_LTinyFinJ_1_sd
+      position: {x: -1.7763568e-17, y: 0, z: -2.220446e-18}
+      rotation: {x: -0.0016702038, y: -0.08396459, z: 0.16847377, w: 0.98212206}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LTinyFinJ_2_sd
+      parentName: ZMB_LTinyFinJ_1_ctrl
+      position: {x: -0.0037497776, y: 0, z: 1.110223e-18}
+      rotation: {x: 0.007614576, y: -0.05244918, z: -0.31676504, w: 0.9470222}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LTinyFinJ_2_ctrl
+      parentName: ZMB_LTinyFinJ_2_sd
+      position: {x: 1.7763568e-17, y: 0, z: 5.551115e-19}
+      rotation: {x: -1.3877788e-17, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LTinyFinJ_3_sd
+      parentName: ZMB_LTinyFinJ_2_ctrl
+      position: {x: -0.0027508873, y: 0, z: -5.551115e-19}
+      rotation: {x: 0.0035131762, y: -0.0711481, z: -0.35975492, w: 0.9303236}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LTinyFinJ_3_ctrl
+      parentName: ZMB_LTinyFinJ_3_sd
+      position: {x: -0, y: -2.220446e-18, z: 5.551115e-19}
+      rotation: {x: -1.3877788e-17, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LTinyFinJ_4
+      parentName: ZMB_LTinyFinJ_3_ctrl
+      position: {x: -0.004130724, y: -2.220446e-18, z: -5.551115e-19}
+      rotation: {x: -1.3877788e-17, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LWedFinBaseJ_1_sd
+      parentName: ZMB_LWristJ_1_ctrl
+      position: {x: -0.008492336, y: 0.00012625307, z: -0.0013382477}
+      rotation: {x: 0.050851565, y: -0.06105707, z: -0.16698782, w: 0.9827519}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LWedFinBaseJ_1_ctrl
+      parentName: ZMB_LWedFinBaseJ_1_sd
+      position: {x: 1.7763568e-17, y: -4.440892e-18, z: 0}
+      rotation: {x: 0.0010879741, y: 0.08438404, z: 0.11299398, w: 0.9900053}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LWedFinJ_1_sd
+      parentName: ZMB_LWedFinBaseJ_1_ctrl
+      position: {x: -0.004305722, y: 0, z: 4.440892e-18}
+      rotation: {x: 0.0026818963, y: -0.060653236, z: -0.20423706, w: 0.97703695}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LWedFinJ_1_ctrl
+      parentName: ZMB_LWedFinJ_1_sd
+      position: {x: 1.7763568e-17, y: 4.440892e-18, z: -8.881784e-18}
+      rotation: {x: -0.0016315072, y: -0.076898746, z: 0.1752173, w: 0.98152065}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LWedFinJ_2_sd
+      parentName: ZMB_LWedFinJ_1_ctrl
+      position: {x: -0.005008893, y: 4.440892e-18, z: 0}
+      rotation: {x: 0.02125454, y: -0.06972024, z: -0.3152705, w: 0.94619864}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LWedFinJ_2_ctrl
+      parentName: ZMB_LWedFinJ_2_sd
+      position: {x: -1.7763568e-17, y: -1.5543122e-17, z: 6.661338e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LWedFinJ_3_sd
+      parentName: ZMB_LWedFinJ_2_ctrl
+      position: {x: -0.0036767696, y: -2.220446e-18, z: -4.440892e-18}
+      rotation: {x: 0.021207677, y: -0.09696019, z: -0.36174658, w: 0.9269781}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LWedFinJ_3_ctrl
+      parentName: ZMB_LWedFinJ_3_sd
+      position: {x: 1.7763568e-17, y: 3.5527136e-17, z: 1.110223e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_LWedFinJ_4
+      parentName: ZMB_LWedFinJ_3_ctrl
+      position: {x: -0.0041518984, y: -8.881784e-18, z: 1.110223e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_NeckJ_1
+      parentName: ZMB_SpineJ_8
+      position: {x: -0.00749019, y: 3.1407607e-18, z: 4.440892e-18}
+      rotation: {x: 0.06625877, y: 0.14448304, z: -0.05113232, w: 0.98596144}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_NeckJ_2
+      parentName: ZMB_NeckJ_1
+      position: {x: -0.0050459346, y: 9.519202e-19, z: 8.881784e-18}
+      rotation: {x: 0.07580052, y: -0.07360948, z: -0.03548268, w: 0.99376905}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_HeadJ_1
+      parentName: ZMB_NeckJ_2
+      position: {x: -0.0033646093, y: 0.00071371783, z: -0.0009972531}
+      rotation: {x: -3.045797e-17, y: -0.21776992, z: 1.3345326e-16, w: 0.97600013}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_HeadJ_2
+      parentName: ZMB_HeadJ_1
+      position: {x: -0.018980728, y: 6.3527736e-18, z: -4.9960034e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_NoseJ_1
+      parentName: ZMB_HeadJ_1
+      position: {x: 0.000080034166, y: -6.8096626e-18, z: 0.011457846}
+      rotation: {x: 8.6595077e-17, y: 0.709572, z: -8.6595077e-17, w: 0.70463294}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RShoulderPlateJ_1
+      parentName: ZMB_SpineJ_8
+      position: {x: 0.0018631754, y: -0.00746201, z: -0.0032115357}
+      rotation: {x: 0.7770613, y: 0.6279203, z: -0.03721892, w: 0.02251009}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RShoulderJ_1
+      parentName: ZMB_RShoulderPlateJ_1
+      position: {x: -0.00839472, y: 3.5527136e-17, z: 6.217249e-17}
+      rotation: {x: -0.017788049, y: 0.11196112, z: -0.119554356, w: 0.9863342}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RForeArmJ_1
+      parentName: ZMB_RShoulderJ_1
+      position: {x: -0.027278708, y: 0, z: -4.440892e-18}
+      rotation: {x: -0.00057690375, y: 0.10215112, z: 0.02917571, w: 0.99434084}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RForeArmJ_2
+      parentName: ZMB_RForeArmJ_1
+      position: {x: -0.0030274217, y: 1.7763568e-17, z: -2.220446e-18}
+      rotation: {x: -0.0058800695, y: -0.14313269, z: -0.02629844, w: 0.9893366}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RWristJ_1
+      parentName: ZMB_RForeArmJ_2
+      position: {x: -0.025681995, y: -8.881784e-18, z: 1.7763568e-17}
+      rotation: {x: 0.15616262, y: -0.03807393, z: 0.03690717, w: 0.98630697}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RWristJ_1_ctrl
+      parentName: ZMB_RWristJ_1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RMidFinBaseJ_1_sd
+      parentName: ZMB_RWristJ_1_ctrl
+      position: {x: -0.009106769, y: -0.00013157199, z: -0.0010708303}
+      rotation: {x: -0.07681532, y: -0.010752666, z: -0.19884072, w: 0.9769576}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RMidFinBaseJ_1_ctrl
+      parentName: ZMB_RMidFinBaseJ_1_sd
+      position: {x: -1.7763568e-17, y: 8.881784e-18, z: -4.440892e-18}
+      rotation: {x: 0.00011417263, y: 0.06210115, z: 0.13404492, w: 0.9890275}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RMidFinJ_1_sd
+      parentName: ZMB_RMidFinBaseJ_1_ctrl
+      position: {x: -0.004779808, y: -4.440892e-18, z: -8.881784e-18}
+      rotation: {x: -0.0077652982, y: 0.08021176, z: -0.21143813, w: 0.9740635}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RMidFinJ_1_ctrl
+      parentName: ZMB_RMidFinJ_1_sd
+      position: {x: 1.7763568e-17, y: -8.881784e-18, z: 0}
+      rotation: {x: -8.326673e-17, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RMidFinJ_2_sd
+      parentName: ZMB_RMidFinJ_1_ctrl
+      position: {x: -0.005337518, y: 0, z: 0}
+      rotation: {x: -0.037947085, y: 0.11769842, z: -0.3060412, w: 0.94395226}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RMidFinJ_2_ctrl
+      parentName: ZMB_RMidFinJ_2_sd
+      position: {x: 5.3290704e-17, y: 8.101159e-18, z: 8.881784e-18}
+      rotation: {x: -8.326673e-17, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RMidFinJ_3_sd
+      parentName: ZMB_RMidFinJ_2_ctrl
+      position: {x: -0.004076516, y: -1.2836954e-18, z: -4.440892e-18}
+      rotation: {x: -0.030300992, y: 0.12767263, z: -0.3440403, w: 0.9297407}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RMidFinJ_3_ctrl
+      parentName: ZMB_RMidFinJ_3_sd
+      position: {x: 1.7763568e-17, y: 0, z: 4.440892e-18}
+      rotation: {x: -8.326673e-17, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RMidFinJ_4
+      parentName: ZMB_RMidFinJ_3_ctrl
+      position: {x: -0.004155079, y: 0, z: 2.220446e-18}
+      rotation: {x: -8.326673e-17, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RPointyFinBaseJ_1_sd
+      parentName: ZMB_RWristJ_1_ctrl
+      position: {x: -0.008782242, y: 0.0000037201405, z: -0.0033775833}
+      rotation: {x: -0.11317173, y: -0.051268358, z: -0.25958255, w: 0.9576955}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RPointyFinBaseJ_1_ctrl
+      parentName: ZMB_RPointyFinBaseJ_1_sd
+      position: {x: 1.7763568e-17, y: -1.3322676e-17, z: 0}
+      rotation: {x: 0.0006309149, y: 0.09431247, z: 0.21087085, w: 0.9729534}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RPointyFinJ_1_sd
+      parentName: ZMB_RPointyFinBaseJ_1_ctrl
+      position: {x: -0.0053257663, y: -4.440892e-18, z: 8.881784e-18}
+      rotation: {x: 0.004438703, y: 0.082527034, z: -0.17688458, w: 0.98075557}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RPointyFinJ_1_ctrl
+      parentName: ZMB_RPointyFinJ_1_sd
+      position: {x: 1.7763568e-17, y: 6.661338e-18, z: -1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RPointyFinJ_2_sd
+      parentName: ZMB_RPointyFinJ_1_ctrl
+      position: {x: -0.0041389544, y: -6.661338e-18, z: 0}
+      rotation: {x: -0.043330766, y: 0.12089416, z: -0.28161612, w: 0.950894}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RPointyFinJ_2_ctrl
+      parentName: ZMB_RPointyFinJ_2_sd
+      position: {x: -1.7763568e-17, y: 2.220446e-18, z: 8.881784e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RPointyFinJ_3_sd
+      parentName: ZMB_RPointyFinJ_2_ctrl
+      position: {x: -0.0029315217, y: 2.220446e-18, z: 0}
+      rotation: {x: -0.05234072, y: 0.14541826, z: -0.34507287, w: 0.92576385}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RPointyFinJ_3_ctrl
+      parentName: ZMB_RPointyFinJ_3_sd
+      position: {x: -0, y: -4.440892e-18, z: -4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RPointyFinJ_4
+      parentName: ZMB_RPointyFinJ_3_ctrl
+      position: {x: -0.004582451, y: -4.440892e-18, z: 8.881784e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RThumbBaseJ_1_sd
+      parentName: ZMB_RWristJ_1_ctrl
+      position: {x: -0.004480152, y: 0.002670429, z: -0.004454544}
+      rotation: {x: -0.31465736, y: -0.28931636, z: -0.37653393, w: 0.8218936}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RThumbBaseJ_1_ctrl
+      parentName: ZMB_RThumbBaseJ_1_sd
+      position: {x: -8.881784e-18, y: -8.881784e-18, z: 1.7763568e-17}
+      rotation: {x: -0.000039368857, y: -0.17894928, z: 0.35456273, w: 0.9177486}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RThumbJ_1_sd
+      parentName: ZMB_RThumbBaseJ_1_ctrl
+      position: {x: -0.0020291323, y: 0, z: 0}
+      rotation: {x: -0.060263544, y: 0.34534967, z: -0.04364836, w: 0.9355195}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RThumbJ_1_ctrl
+      parentName: ZMB_RThumbJ_1_sd
+      position: {x: 1.7763568e-17, y: 1.7763568e-17, z: -1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RThumbJ_2_sd
+      parentName: ZMB_RThumbJ_1_ctrl
+      position: {x: -0.0035534182, y: -1.7763568e-17, z: 0}
+      rotation: {x: 0.043221947, y: 0.24712156, z: 0.17608878, w: 0.95186955}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RThumbJ_2_ctrl
+      parentName: ZMB_RThumbJ_2_sd
+      position: {x: -3.5527136e-17, y: 8.881784e-18, z: -4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RThumbJ_3
+      parentName: ZMB_RThumbJ_2_ctrl
+      position: {x: -0.0060773566, y: 8.881784e-18, z: -4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RTinyFinBaseJ_1_sd
+      parentName: ZMB_RWristJ_1_ctrl
+      position: {x: -0.00823423, y: 0.00027955492, z: 0.0034104623}
+      rotation: {x: -0.0360736, y: 0.12936442, z: -0.15674786, w: 0.97846496}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RTinyFinBaseJ_1_ctrl
+      parentName: ZMB_RTinyFinBaseJ_1_sd
+      position: {x: 1.7763568e-17, y: 0, z: 2.220446e-18}
+      rotation: {x: -0.001506507, y: -0.13624637, z: 0.11004664, w: 0.9845428}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RTinyFinJ_1_sd
+      parentName: ZMB_RTinyFinBaseJ_1_ctrl
+      position: {x: -0.004420436, y: -4.440892e-18, z: 0}
+      rotation: {x: -0.0014078858, y: 0.038734026, z: -0.21472222, w: 0.9759058}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RTinyFinJ_1_ctrl
+      parentName: ZMB_RTinyFinJ_1_sd
+      position: {x: -3.5527136e-17, y: 0, z: -2.220446e-18}
+      rotation: {x: -0.0012971767, y: 0.03507997, z: 0.18646552, w: 0.98183423}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RTinyFinJ_2_sd
+      parentName: ZMB_RTinyFinJ_1_ctrl
+      position: {x: -0.003749763, y: -4.440892e-18, z: 1.110223e-18}
+      rotation: {x: -0.0076144906, y: 0.0524486, z: -0.31676435, w: 0.9470225}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RTinyFinJ_2_ctrl
+      parentName: ZMB_RTinyFinJ_2_sd
+      position: {x: 3.5527136e-17, y: 4.440892e-18, z: 2.220446e-18}
+      rotation: {x: 1.3877788e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RTinyFinJ_3_sd
+      parentName: ZMB_RTinyFinJ_2_ctrl
+      position: {x: -0.0027508195, y: 0, z: 0}
+      rotation: {x: -0.0035135727, y: 0.0711487, z: -0.35974756, w: 0.93032646}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RTinyFinJ_3_ctrl
+      parentName: ZMB_RTinyFinJ_3_sd
+      position: {x: -0, y: -1.11022296e-17, z: -1.6653345e-18}
+      rotation: {x: 1.3877788e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RTinyFinJ_4
+      parentName: ZMB_RTinyFinJ_3_ctrl
+      position: {x: -0.0041307444, y: -2.220446e-18, z: -1.6653345e-18}
+      rotation: {x: 1.3877788e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RWedFinBaseJ_1_sd
+      parentName: ZMB_RWristJ_1_ctrl
+      position: {x: -0.008492055, y: 0.00012615783, z: 0.0013381344}
+      rotation: {x: -0.050853495, y: 0.061055362, z: -0.1669939, w: 0.98275083}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RWedFinBaseJ_1_ctrl
+      parentName: ZMB_RWedFinBaseJ_1_sd
+      position: {x: 1.7763568e-17, y: -8.881784e-18, z: 4.440892e-18}
+      rotation: {x: -0.0016705388, y: -0.0817408, z: 0.10839394, w: 0.9907404}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RWedFinJ_1_sd
+      parentName: ZMB_RWedFinBaseJ_1_ctrl
+      position: {x: -0.0043057, y: 4.440892e-18, z: -4.440892e-18}
+      rotation: {x: -0.0026801985, y: 0.060655486, z: -0.20422527, w: 0.9770393}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RWedFinJ_1_ctrl
+      parentName: ZMB_RWedFinJ_1_sd
+      position: {x: 1.7763568e-17, y: 0, z: -4.440892e-18}
+      rotation: {x: -0.001436059, y: 0.026913816, z: 0.19165242, w: 0.98109275}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RWedFinJ_2_sd
+      parentName: ZMB_RWedFinJ_1_ctrl
+      position: {x: -0.005008904, y: 0, z: 0}
+      rotation: {x: -0.021255754, y: 0.069718845, z: -0.31528053, w: 0.94619536}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RWedFinJ_2_ctrl
+      parentName: ZMB_RWedFinJ_2_sd
+      position: {x: -1.7763568e-17, y: -4.440892e-18, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RWedFinJ_3_sd
+      parentName: ZMB_RWedFinJ_2_ctrl
+      position: {x: -0.0036767519, y: -4.440892e-18, z: 0}
+      rotation: {x: -0.021207472, y: 0.096960224, z: -0.36174256, w: 0.92697966}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RWedFinJ_3_ctrl
+      parentName: ZMB_RWedFinJ_3_sd
+      position: {x: 1.7763568e-17, y: 1.11022296e-17, z: -5.5511148e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZMB_RWedFinJ_4
+      parentName: ZMB_RWedFinJ_3_ctrl
+      position: {x: -0.0041518733, y: -6.661338e-18, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

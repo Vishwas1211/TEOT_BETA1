@@ -1,0 +1,855 @@
+fileFormatVersion: 2
+guid: eacf1485e91612243baf69ead7fcd4c8
+timeCreated: 1512461875
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: FS_BotArmJ_L0
+    100004: FS_BotArmJ_L1
+    100006: FS_BotArmJ_L10
+    100008: FS_BotArmJ_L11
+    100010: FS_BotArmJ_L12
+    100012: FS_BotArmJ_L13
+    100014: FS_BotArmJ_L14
+    100016: FS_BotArmJ_L15
+    100018: FS_BotArmJ_L16
+    100020: FS_BotArmJ_L17
+    100022: FS_BotArmJ_L18
+    100024: FS_BotArmJ_L19
+    100026: FS_BotArmJ_L2
+    100028: FS_BotArmJ_L20
+    100030: FS_BotArmJ_L21
+    100032: FS_BotArmJ_L22
+    100034: FS_BotArmJ_L23
+    100036: FS_BotArmJ_L24
+    100038: FS_BotArmJ_L25
+    100040: FS_BotArmJ_L26
+    100042: FS_BotArmJ_L3
+    100044: FS_BotArmJ_L4
+    100046: FS_BotArmJ_L5
+    100048: FS_BotArmJ_L6
+    100050: FS_BotArmJ_L7
+    100052: FS_BotArmJ_L8
+    100054: FS_BotArmJ_L9
+    100056: FS_BotArmJ_R0
+    100058: FS_BotArmJ_R1
+    100060: FS_BotArmJ_R10
+    100062: FS_BotArmJ_R11
+    100064: FS_BotArmJ_R12
+    100066: FS_BotArmJ_R13
+    100068: FS_BotArmJ_R14
+    100070: FS_BotArmJ_R15
+    100072: FS_BotArmJ_R16
+    100074: FS_BotArmJ_R17
+    100076: FS_BotArmJ_R18
+    100078: FS_BotArmJ_R19
+    100080: FS_BotArmJ_R2
+    100082: FS_BotArmJ_R20
+    100084: FS_BotArmJ_R21
+    100086: FS_BotArmJ_R22
+    100088: FS_BotArmJ_R23
+    100090: FS_BotArmJ_R24
+    100092: FS_BotArmJ_R25
+    100094: FS_BotArmJ_R26
+    100096: FS_BotArmJ_R3
+    100098: FS_BotArmJ_R4
+    100100: FS_BotArmJ_R5
+    100102: FS_BotArmJ_R6
+    100104: FS_BotArmJ_R7
+    100106: FS_BotArmJ_R8
+    100108: FS_BotArmJ_R9
+    100110: FS_BotCLAJ_L1
+    100112: FS_BotCLAJ_L2
+    100114: FS_BotCLAJ_L3
+    100116: FS_BotCLAJ_L4
+    100118: FS_BotCLAJ_R1
+    100120: FS_BotCLAJ_R2
+    100122: FS_BotCLAJ_R3
+    100124: FS_BotCLAJ_R4
+    100126: FS_BotCLBJ_L1
+    100128: FS_BotCLBJ_L2
+    100130: FS_BotCLBJ_L3
+    100132: FS_BotCLBJ_L4
+    100134: FS_BotCLBJ_R1
+    100136: FS_BotCLBJ_R2
+    100138: FS_BotCLBJ_R3
+    100140: FS_BotCLBJ_R4
+    100142: FS_BotCLCJ_L1
+    100144: FS_BotCLCJ_L2
+    100146: FS_BotCLCJ_L3
+    100148: FS_BotCLCJ_L4
+    100150: FS_BotCLCJ_R1
+    100152: FS_BotCLCJ_R2
+    100154: FS_BotCLCJ_R3
+    100156: FS_BotCLCJ_R4
+    100158: FS_BotJ1
+    100160: FS_BotJ2
+    100162: FS_BotJ2L
+    100164: FS_BotJ2R
+    100166: FS_BotJCen
+    100168: FS_BotSPJ_L1
+    100170: FS_BotSPJ_L2
+    100172: FS_BotSPJ_R1
+    100174: FS_BotSPJ_R2
+    100176: FS_GunJ0
+    100178: FS_GunJ1
+    100180: FS_GunJ2
+    100182: FS_GunJ3
+    100184: FS_GunJ4
+    100186: FS_JawJ1
+    100188: FS_JawJ2
+    100190: FS_JawJ3
+    100192: FS_JawJ4
+    100194: FS_MainJ
+    100196: FS_NoseJ
+    100198: FS_TopArmJ_L0
+    100200: FS_TopArmJ_L1
+    100202: FS_TopArmJ_L10
+    100204: FS_TopArmJ_L11
+    100206: FS_TopArmJ_L12
+    100208: FS_TopArmJ_L13
+    100210: FS_TopArmJ_L14
+    100212: FS_TopArmJ_L15
+    100214: FS_TopArmJ_L16
+    100216: FS_TopArmJ_L17
+    100218: FS_TopArmJ_L18
+    100220: FS_TopArmJ_L19
+    100222: FS_TopArmJ_L2
+    100224: FS_TopArmJ_L20
+    100226: FS_TopArmJ_L21
+    100228: FS_TopArmJ_L22
+    100230: FS_TopArmJ_L23
+    100232: FS_TopArmJ_L24
+    100234: FS_TopArmJ_L25
+    100236: FS_TopArmJ_L26
+    100238: FS_TopArmJ_L3
+    100240: FS_TopArmJ_L4
+    100242: FS_TopArmJ_L5
+    100244: FS_TopArmJ_L6
+    100246: FS_TopArmJ_L7
+    100248: FS_TopArmJ_L8
+    100250: FS_TopArmJ_L9
+    100252: FS_TopArmJ_R0
+    100254: FS_TopArmJ_R1
+    100256: FS_TopArmJ_R10
+    100258: FS_TopArmJ_R11
+    100260: FS_TopArmJ_R12
+    100262: FS_TopArmJ_R13
+    100264: FS_TopArmJ_R14
+    100266: FS_TopArmJ_R15
+    100268: FS_TopArmJ_R16
+    100270: FS_TopArmJ_R17
+    100272: FS_TopArmJ_R18
+    100274: FS_TopArmJ_R19
+    100276: FS_TopArmJ_R2
+    100278: FS_TopArmJ_R20
+    100280: FS_TopArmJ_R21
+    100282: FS_TopArmJ_R22
+    100284: FS_TopArmJ_R23
+    100286: FS_TopArmJ_R24
+    100288: FS_TopArmJ_R25
+    100290: FS_TopArmJ_R26
+    100292: FS_TopArmJ_R3
+    100294: FS_TopArmJ_R4
+    100296: FS_TopArmJ_R5
+    100298: FS_TopArmJ_R6
+    100300: FS_TopArmJ_R7
+    100302: FS_TopArmJ_R8
+    100304: FS_TopArmJ_R9
+    100306: FS_TopCLAJ_L1
+    100308: FS_TopCLAJ_L2
+    100310: FS_TopCLAJ_L3
+    100312: FS_TopCLAJ_L4
+    100314: FS_TopCLAJ_R1
+    100316: FS_TopCLAJ_R2
+    100318: FS_TopCLAJ_R3
+    100320: FS_TopCLAJ_R4
+    100322: FS_TopCLBJ_L1
+    100324: FS_TopCLBJ_L2
+    100326: FS_TopCLBJ_L3
+    100328: FS_TopCLBJ_L4
+    100330: FS_TopCLBJ_R1
+    100332: FS_TopCLBJ_R2
+    100334: FS_TopCLBJ_R3
+    100336: FS_TopCLBJ_R4
+    100338: FS_TopCLCJ_L1
+    100340: FS_TopCLCJ_L2
+    100342: FS_TopCLCJ_L3
+    100344: FS_TopCLCJ_L4
+    100346: FS_TopCLCJ_R1
+    100348: FS_TopCLCJ_R2
+    100350: FS_TopCLCJ_R3
+    100352: FS_TopCLCJ_R4
+    100354: FS_TopJ0
+    100356: FS_TopJ1
+    100358: FS_TopJ2
+    100360: FS_TopJ2L
+    100362: FS_TopJ2R
+    100364: FS_TopJ3
+    100366: FS_TopSPJ_L1
+    100368: FS_TopSPJ_L2
+    100370: FS_TopSPJ_R1
+    100372: FS_TopSPJ_R2
+    400000: //RootNode
+    400002: FS_BotArmJ_L0
+    400004: FS_BotArmJ_L1
+    400006: FS_BotArmJ_L10
+    400008: FS_BotArmJ_L11
+    400010: FS_BotArmJ_L12
+    400012: FS_BotArmJ_L13
+    400014: FS_BotArmJ_L14
+    400016: FS_BotArmJ_L15
+    400018: FS_BotArmJ_L16
+    400020: FS_BotArmJ_L17
+    400022: FS_BotArmJ_L18
+    400024: FS_BotArmJ_L19
+    400026: FS_BotArmJ_L2
+    400028: FS_BotArmJ_L20
+    400030: FS_BotArmJ_L21
+    400032: FS_BotArmJ_L22
+    400034: FS_BotArmJ_L23
+    400036: FS_BotArmJ_L24
+    400038: FS_BotArmJ_L25
+    400040: FS_BotArmJ_L26
+    400042: FS_BotArmJ_L3
+    400044: FS_BotArmJ_L4
+    400046: FS_BotArmJ_L5
+    400048: FS_BotArmJ_L6
+    400050: FS_BotArmJ_L7
+    400052: FS_BotArmJ_L8
+    400054: FS_BotArmJ_L9
+    400056: FS_BotArmJ_R0
+    400058: FS_BotArmJ_R1
+    400060: FS_BotArmJ_R10
+    400062: FS_BotArmJ_R11
+    400064: FS_BotArmJ_R12
+    400066: FS_BotArmJ_R13
+    400068: FS_BotArmJ_R14
+    400070: FS_BotArmJ_R15
+    400072: FS_BotArmJ_R16
+    400074: FS_BotArmJ_R17
+    400076: FS_BotArmJ_R18
+    400078: FS_BotArmJ_R19
+    400080: FS_BotArmJ_R2
+    400082: FS_BotArmJ_R20
+    400084: FS_BotArmJ_R21
+    400086: FS_BotArmJ_R22
+    400088: FS_BotArmJ_R23
+    400090: FS_BotArmJ_R24
+    400092: FS_BotArmJ_R25
+    400094: FS_BotArmJ_R26
+    400096: FS_BotArmJ_R3
+    400098: FS_BotArmJ_R4
+    400100: FS_BotArmJ_R5
+    400102: FS_BotArmJ_R6
+    400104: FS_BotArmJ_R7
+    400106: FS_BotArmJ_R8
+    400108: FS_BotArmJ_R9
+    400110: FS_BotCLAJ_L1
+    400112: FS_BotCLAJ_L2
+    400114: FS_BotCLAJ_L3
+    400116: FS_BotCLAJ_L4
+    400118: FS_BotCLAJ_R1
+    400120: FS_BotCLAJ_R2
+    400122: FS_BotCLAJ_R3
+    400124: FS_BotCLAJ_R4
+    400126: FS_BotCLBJ_L1
+    400128: FS_BotCLBJ_L2
+    400130: FS_BotCLBJ_L3
+    400132: FS_BotCLBJ_L4
+    400134: FS_BotCLBJ_R1
+    400136: FS_BotCLBJ_R2
+    400138: FS_BotCLBJ_R3
+    400140: FS_BotCLBJ_R4
+    400142: FS_BotCLCJ_L1
+    400144: FS_BotCLCJ_L2
+    400146: FS_BotCLCJ_L3
+    400148: FS_BotCLCJ_L4
+    400150: FS_BotCLCJ_R1
+    400152: FS_BotCLCJ_R2
+    400154: FS_BotCLCJ_R3
+    400156: FS_BotCLCJ_R4
+    400158: FS_BotJ1
+    400160: FS_BotJ2
+    400162: FS_BotJ2L
+    400164: FS_BotJ2R
+    400166: FS_BotJCen
+    400168: FS_BotSPJ_L1
+    400170: FS_BotSPJ_L2
+    400172: FS_BotSPJ_R1
+    400174: FS_BotSPJ_R2
+    400176: FS_GunJ0
+    400178: FS_GunJ1
+    400180: FS_GunJ2
+    400182: FS_GunJ3
+    400184: FS_GunJ4
+    400186: FS_JawJ1
+    400188: FS_JawJ2
+    400190: FS_JawJ3
+    400192: FS_JawJ4
+    400194: FS_MainJ
+    400196: FS_NoseJ
+    400198: FS_TopArmJ_L0
+    400200: FS_TopArmJ_L1
+    400202: FS_TopArmJ_L10
+    400204: FS_TopArmJ_L11
+    400206: FS_TopArmJ_L12
+    400208: FS_TopArmJ_L13
+    400210: FS_TopArmJ_L14
+    400212: FS_TopArmJ_L15
+    400214: FS_TopArmJ_L16
+    400216: FS_TopArmJ_L17
+    400218: FS_TopArmJ_L18
+    400220: FS_TopArmJ_L19
+    400222: FS_TopArmJ_L2
+    400224: FS_TopArmJ_L20
+    400226: FS_TopArmJ_L21
+    400228: FS_TopArmJ_L22
+    400230: FS_TopArmJ_L23
+    400232: FS_TopArmJ_L24
+    400234: FS_TopArmJ_L25
+    400236: FS_TopArmJ_L26
+    400238: FS_TopArmJ_L3
+    400240: FS_TopArmJ_L4
+    400242: FS_TopArmJ_L5
+    400244: FS_TopArmJ_L6
+    400246: FS_TopArmJ_L7
+    400248: FS_TopArmJ_L8
+    400250: FS_TopArmJ_L9
+    400252: FS_TopArmJ_R0
+    400254: FS_TopArmJ_R1
+    400256: FS_TopArmJ_R10
+    400258: FS_TopArmJ_R11
+    400260: FS_TopArmJ_R12
+    400262: FS_TopArmJ_R13
+    400264: FS_TopArmJ_R14
+    400266: FS_TopArmJ_R15
+    400268: FS_TopArmJ_R16
+    400270: FS_TopArmJ_R17
+    400272: FS_TopArmJ_R18
+    400274: FS_TopArmJ_R19
+    400276: FS_TopArmJ_R2
+    400278: FS_TopArmJ_R20
+    400280: FS_TopArmJ_R21
+    400282: FS_TopArmJ_R22
+    400284: FS_TopArmJ_R23
+    400286: FS_TopArmJ_R24
+    400288: FS_TopArmJ_R25
+    400290: FS_TopArmJ_R26
+    400292: FS_TopArmJ_R3
+    400294: FS_TopArmJ_R4
+    400296: FS_TopArmJ_R5
+    400298: FS_TopArmJ_R6
+    400300: FS_TopArmJ_R7
+    400302: FS_TopArmJ_R8
+    400304: FS_TopArmJ_R9
+    400306: FS_TopCLAJ_L1
+    400308: FS_TopCLAJ_L2
+    400310: FS_TopCLAJ_L3
+    400312: FS_TopCLAJ_L4
+    400314: FS_TopCLAJ_R1
+    400316: FS_TopCLAJ_R2
+    400318: FS_TopCLAJ_R3
+    400320: FS_TopCLAJ_R4
+    400322: FS_TopCLBJ_L1
+    400324: FS_TopCLBJ_L2
+    400326: FS_TopCLBJ_L3
+    400328: FS_TopCLBJ_L4
+    400330: FS_TopCLBJ_R1
+    400332: FS_TopCLBJ_R2
+    400334: FS_TopCLBJ_R3
+    400336: FS_TopCLBJ_R4
+    400338: FS_TopCLCJ_L1
+    400340: FS_TopCLCJ_L2
+    400342: FS_TopCLCJ_L3
+    400344: FS_TopCLCJ_L4
+    400346: FS_TopCLCJ_R1
+    400348: FS_TopCLCJ_R2
+    400350: FS_TopCLCJ_R3
+    400352: FS_TopCLCJ_R4
+    400354: FS_TopJ0
+    400356: FS_TopJ1
+    400358: FS_TopJ2
+    400360: FS_TopJ2L
+    400362: FS_TopJ2R
+    400364: FS_TopJ3
+    400366: FS_TopSPJ_L1
+    400368: FS_TopSPJ_L2
+    400370: FS_TopSPJ_R1
+    400372: FS_TopSPJ_R2
+    7400000: run
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FS_MainJ
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19/FS_BotArmJ_L20
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19/FS_BotArmJ_L20/FS_BotArmJ_L21
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19/FS_BotArmJ_L20/FS_BotArmJ_L21/FS_BotArmJ_L22
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19/FS_BotArmJ_L20/FS_BotArmJ_L21/FS_BotArmJ_L22/FS_BotArmJ_L23
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19/FS_BotArmJ_L20/FS_BotArmJ_L21/FS_BotArmJ_L22/FS_BotArmJ_L23/FS_BotArmJ_L24
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19/FS_BotArmJ_L20/FS_BotArmJ_L21/FS_BotArmJ_L22/FS_BotArmJ_L23/FS_BotArmJ_L24/FS_BotArmJ_L25
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19/FS_BotArmJ_L20/FS_BotArmJ_L21/FS_BotArmJ_L22/FS_BotArmJ_L23/FS_BotArmJ_L24/FS_BotArmJ_L25/FS_BotArmJ_L26
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19/FS_BotArmJ_L20/FS_BotArmJ_L21/FS_BotArmJ_L22/FS_BotArmJ_L23/FS_BotArmJ_L24/FS_BotArmJ_L25/FS_BotArmJ_L26/FS_BotCLAJ_L1
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19/FS_BotArmJ_L20/FS_BotArmJ_L21/FS_BotArmJ_L22/FS_BotArmJ_L23/FS_BotArmJ_L24/FS_BotArmJ_L25/FS_BotArmJ_L26/FS_BotCLAJ_L1/FS_BotCLAJ_L2
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19/FS_BotArmJ_L20/FS_BotArmJ_L21/FS_BotArmJ_L22/FS_BotArmJ_L23/FS_BotArmJ_L24/FS_BotArmJ_L25/FS_BotArmJ_L26/FS_BotCLAJ_L1/FS_BotCLAJ_L2/FS_BotCLAJ_L3
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19/FS_BotArmJ_L20/FS_BotArmJ_L21/FS_BotArmJ_L22/FS_BotArmJ_L23/FS_BotArmJ_L24/FS_BotArmJ_L25/FS_BotArmJ_L26/FS_BotCLAJ_L1/FS_BotCLAJ_L2/FS_BotCLAJ_L3/FS_BotCLAJ_L4
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19/FS_BotArmJ_L20/FS_BotArmJ_L21/FS_BotArmJ_L22/FS_BotArmJ_L23/FS_BotArmJ_L24/FS_BotArmJ_L25/FS_BotArmJ_L26/FS_BotCLBJ_L1
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19/FS_BotArmJ_L20/FS_BotArmJ_L21/FS_BotArmJ_L22/FS_BotArmJ_L23/FS_BotArmJ_L24/FS_BotArmJ_L25/FS_BotArmJ_L26/FS_BotCLBJ_L1/FS_BotCLBJ_L2
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19/FS_BotArmJ_L20/FS_BotArmJ_L21/FS_BotArmJ_L22/FS_BotArmJ_L23/FS_BotArmJ_L24/FS_BotArmJ_L25/FS_BotArmJ_L26/FS_BotCLBJ_L1/FS_BotCLBJ_L2/FS_BotCLBJ_L3
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19/FS_BotArmJ_L20/FS_BotArmJ_L21/FS_BotArmJ_L22/FS_BotArmJ_L23/FS_BotArmJ_L24/FS_BotArmJ_L25/FS_BotArmJ_L26/FS_BotCLBJ_L1/FS_BotCLBJ_L2/FS_BotCLBJ_L3/FS_BotCLBJ_L4
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19/FS_BotArmJ_L20/FS_BotArmJ_L21/FS_BotArmJ_L22/FS_BotArmJ_L23/FS_BotArmJ_L24/FS_BotArmJ_L25/FS_BotArmJ_L26/FS_BotCLCJ_L1
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19/FS_BotArmJ_L20/FS_BotArmJ_L21/FS_BotArmJ_L22/FS_BotArmJ_L23/FS_BotArmJ_L24/FS_BotArmJ_L25/FS_BotArmJ_L26/FS_BotCLCJ_L1/FS_BotCLCJ_L2
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19/FS_BotArmJ_L20/FS_BotArmJ_L21/FS_BotArmJ_L22/FS_BotArmJ_L23/FS_BotArmJ_L24/FS_BotArmJ_L25/FS_BotArmJ_L26/FS_BotCLCJ_L1/FS_BotCLCJ_L2/FS_BotCLCJ_L3
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19/FS_BotArmJ_L20/FS_BotArmJ_L21/FS_BotArmJ_L22/FS_BotArmJ_L23/FS_BotArmJ_L24/FS_BotArmJ_L25/FS_BotArmJ_L26/FS_BotCLCJ_L1/FS_BotCLCJ_L2/FS_BotCLCJ_L3/FS_BotCLCJ_L4
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19/FS_BotArmJ_L20/FS_BotArmJ_L21/FS_BotArmJ_L22/FS_BotArmJ_L23/FS_BotArmJ_L24/FS_BotArmJ_L25/FS_BotArmJ_L26/FS_BotSPJ_L1
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_L0/FS_BotArmJ_L1/FS_BotArmJ_L2/FS_BotArmJ_L3/FS_BotArmJ_L4/FS_BotArmJ_L5/FS_BotArmJ_L6/FS_BotArmJ_L7/FS_BotArmJ_L8/FS_BotArmJ_L9/FS_BotArmJ_L10/FS_BotArmJ_L11/FS_BotArmJ_L12/FS_BotArmJ_L13/FS_BotArmJ_L14/FS_BotArmJ_L15/FS_BotArmJ_L16/FS_BotArmJ_L17/FS_BotArmJ_L18/FS_BotArmJ_L19/FS_BotArmJ_L20/FS_BotArmJ_L21/FS_BotArmJ_L22/FS_BotArmJ_L23/FS_BotArmJ_L24/FS_BotArmJ_L25/FS_BotArmJ_L26/FS_BotSPJ_L1/FS_BotSPJ_L2
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19/FS_BotArmJ_R20
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19/FS_BotArmJ_R20/FS_BotArmJ_R21
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19/FS_BotArmJ_R20/FS_BotArmJ_R21/FS_BotArmJ_R22
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19/FS_BotArmJ_R20/FS_BotArmJ_R21/FS_BotArmJ_R22/FS_BotArmJ_R23
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19/FS_BotArmJ_R20/FS_BotArmJ_R21/FS_BotArmJ_R22/FS_BotArmJ_R23/FS_BotArmJ_R24
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19/FS_BotArmJ_R20/FS_BotArmJ_R21/FS_BotArmJ_R22/FS_BotArmJ_R23/FS_BotArmJ_R24/FS_BotArmJ_R25
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19/FS_BotArmJ_R20/FS_BotArmJ_R21/FS_BotArmJ_R22/FS_BotArmJ_R23/FS_BotArmJ_R24/FS_BotArmJ_R25/FS_BotArmJ_R26
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19/FS_BotArmJ_R20/FS_BotArmJ_R21/FS_BotArmJ_R22/FS_BotArmJ_R23/FS_BotArmJ_R24/FS_BotArmJ_R25/FS_BotArmJ_R26/FS_BotCLAJ_R1
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19/FS_BotArmJ_R20/FS_BotArmJ_R21/FS_BotArmJ_R22/FS_BotArmJ_R23/FS_BotArmJ_R24/FS_BotArmJ_R25/FS_BotArmJ_R26/FS_BotCLAJ_R1/FS_BotCLAJ_R2
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19/FS_BotArmJ_R20/FS_BotArmJ_R21/FS_BotArmJ_R22/FS_BotArmJ_R23/FS_BotArmJ_R24/FS_BotArmJ_R25/FS_BotArmJ_R26/FS_BotCLAJ_R1/FS_BotCLAJ_R2/FS_BotCLAJ_R3
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19/FS_BotArmJ_R20/FS_BotArmJ_R21/FS_BotArmJ_R22/FS_BotArmJ_R23/FS_BotArmJ_R24/FS_BotArmJ_R25/FS_BotArmJ_R26/FS_BotCLAJ_R1/FS_BotCLAJ_R2/FS_BotCLAJ_R3/FS_BotCLAJ_R4
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19/FS_BotArmJ_R20/FS_BotArmJ_R21/FS_BotArmJ_R22/FS_BotArmJ_R23/FS_BotArmJ_R24/FS_BotArmJ_R25/FS_BotArmJ_R26/FS_BotCLBJ_R1
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19/FS_BotArmJ_R20/FS_BotArmJ_R21/FS_BotArmJ_R22/FS_BotArmJ_R23/FS_BotArmJ_R24/FS_BotArmJ_R25/FS_BotArmJ_R26/FS_BotCLBJ_R1/FS_BotCLBJ_R2
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19/FS_BotArmJ_R20/FS_BotArmJ_R21/FS_BotArmJ_R22/FS_BotArmJ_R23/FS_BotArmJ_R24/FS_BotArmJ_R25/FS_BotArmJ_R26/FS_BotCLBJ_R1/FS_BotCLBJ_R2/FS_BotCLBJ_R3
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19/FS_BotArmJ_R20/FS_BotArmJ_R21/FS_BotArmJ_R22/FS_BotArmJ_R23/FS_BotArmJ_R24/FS_BotArmJ_R25/FS_BotArmJ_R26/FS_BotCLBJ_R1/FS_BotCLBJ_R2/FS_BotCLBJ_R3/FS_BotCLBJ_R4
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19/FS_BotArmJ_R20/FS_BotArmJ_R21/FS_BotArmJ_R22/FS_BotArmJ_R23/FS_BotArmJ_R24/FS_BotArmJ_R25/FS_BotArmJ_R26/FS_BotCLCJ_R1
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19/FS_BotArmJ_R20/FS_BotArmJ_R21/FS_BotArmJ_R22/FS_BotArmJ_R23/FS_BotArmJ_R24/FS_BotArmJ_R25/FS_BotArmJ_R26/FS_BotCLCJ_R1/FS_BotCLCJ_R2
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19/FS_BotArmJ_R20/FS_BotArmJ_R21/FS_BotArmJ_R22/FS_BotArmJ_R23/FS_BotArmJ_R24/FS_BotArmJ_R25/FS_BotArmJ_R26/FS_BotCLCJ_R1/FS_BotCLCJ_R2/FS_BotCLCJ_R3
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19/FS_BotArmJ_R20/FS_BotArmJ_R21/FS_BotArmJ_R22/FS_BotArmJ_R23/FS_BotArmJ_R24/FS_BotArmJ_R25/FS_BotArmJ_R26/FS_BotCLCJ_R1/FS_BotCLCJ_R2/FS_BotCLCJ_R3/FS_BotCLCJ_R4
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19/FS_BotArmJ_R20/FS_BotArmJ_R21/FS_BotArmJ_R22/FS_BotArmJ_R23/FS_BotArmJ_R24/FS_BotArmJ_R25/FS_BotArmJ_R26/FS_BotSPJ_R1
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotArmJ_R0/FS_BotArmJ_R1/FS_BotArmJ_R2/FS_BotArmJ_R3/FS_BotArmJ_R4/FS_BotArmJ_R5/FS_BotArmJ_R6/FS_BotArmJ_R7/FS_BotArmJ_R8/FS_BotArmJ_R9/FS_BotArmJ_R10/FS_BotArmJ_R11/FS_BotArmJ_R12/FS_BotArmJ_R13/FS_BotArmJ_R14/FS_BotArmJ_R15/FS_BotArmJ_R16/FS_BotArmJ_R17/FS_BotArmJ_R18/FS_BotArmJ_R19/FS_BotArmJ_R20/FS_BotArmJ_R21/FS_BotArmJ_R22/FS_BotArmJ_R23/FS_BotArmJ_R24/FS_BotArmJ_R25/FS_BotArmJ_R26/FS_BotSPJ_R1/FS_BotSPJ_R2
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotJ2L
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotJ2R
+        weight: 1
+      - path: FS_MainJ/FS_BotJ1/FS_BotJ2/FS_BotJCen
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19/FS_TopArmJ_L20
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19/FS_TopArmJ_L20/FS_TopArmJ_L21
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19/FS_TopArmJ_L20/FS_TopArmJ_L21/FS_TopArmJ_L22
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19/FS_TopArmJ_L20/FS_TopArmJ_L21/FS_TopArmJ_L22/FS_TopArmJ_L23
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19/FS_TopArmJ_L20/FS_TopArmJ_L21/FS_TopArmJ_L22/FS_TopArmJ_L23/FS_TopArmJ_L24
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19/FS_TopArmJ_L20/FS_TopArmJ_L21/FS_TopArmJ_L22/FS_TopArmJ_L23/FS_TopArmJ_L24/FS_TopArmJ_L25
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19/FS_TopArmJ_L20/FS_TopArmJ_L21/FS_TopArmJ_L22/FS_TopArmJ_L23/FS_TopArmJ_L24/FS_TopArmJ_L25/FS_TopArmJ_L26
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19/FS_TopArmJ_L20/FS_TopArmJ_L21/FS_TopArmJ_L22/FS_TopArmJ_L23/FS_TopArmJ_L24/FS_TopArmJ_L25/FS_TopArmJ_L26/FS_TopCLAJ_L1
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19/FS_TopArmJ_L20/FS_TopArmJ_L21/FS_TopArmJ_L22/FS_TopArmJ_L23/FS_TopArmJ_L24/FS_TopArmJ_L25/FS_TopArmJ_L26/FS_TopCLAJ_L1/FS_TopCLAJ_L2
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19/FS_TopArmJ_L20/FS_TopArmJ_L21/FS_TopArmJ_L22/FS_TopArmJ_L23/FS_TopArmJ_L24/FS_TopArmJ_L25/FS_TopArmJ_L26/FS_TopCLAJ_L1/FS_TopCLAJ_L2/FS_TopCLAJ_L3
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19/FS_TopArmJ_L20/FS_TopArmJ_L21/FS_TopArmJ_L22/FS_TopArmJ_L23/FS_TopArmJ_L24/FS_TopArmJ_L25/FS_TopArmJ_L26/FS_TopCLAJ_L1/FS_TopCLAJ_L2/FS_TopCLAJ_L3/FS_TopCLAJ_L4
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19/FS_TopArmJ_L20/FS_TopArmJ_L21/FS_TopArmJ_L22/FS_TopArmJ_L23/FS_TopArmJ_L24/FS_TopArmJ_L25/FS_TopArmJ_L26/FS_TopCLBJ_L1
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19/FS_TopArmJ_L20/FS_TopArmJ_L21/FS_TopArmJ_L22/FS_TopArmJ_L23/FS_TopArmJ_L24/FS_TopArmJ_L25/FS_TopArmJ_L26/FS_TopCLBJ_L1/FS_TopCLBJ_L2
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19/FS_TopArmJ_L20/FS_TopArmJ_L21/FS_TopArmJ_L22/FS_TopArmJ_L23/FS_TopArmJ_L24/FS_TopArmJ_L25/FS_TopArmJ_L26/FS_TopCLBJ_L1/FS_TopCLBJ_L2/FS_TopCLBJ_L3
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19/FS_TopArmJ_L20/FS_TopArmJ_L21/FS_TopArmJ_L22/FS_TopArmJ_L23/FS_TopArmJ_L24/FS_TopArmJ_L25/FS_TopArmJ_L26/FS_TopCLBJ_L1/FS_TopCLBJ_L2/FS_TopCLBJ_L3/FS_TopCLBJ_L4
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19/FS_TopArmJ_L20/FS_TopArmJ_L21/FS_TopArmJ_L22/FS_TopArmJ_L23/FS_TopArmJ_L24/FS_TopArmJ_L25/FS_TopArmJ_L26/FS_TopCLCJ_L1
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19/FS_TopArmJ_L20/FS_TopArmJ_L21/FS_TopArmJ_L22/FS_TopArmJ_L23/FS_TopArmJ_L24/FS_TopArmJ_L25/FS_TopArmJ_L26/FS_TopCLCJ_L1/FS_TopCLCJ_L2
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19/FS_TopArmJ_L20/FS_TopArmJ_L21/FS_TopArmJ_L22/FS_TopArmJ_L23/FS_TopArmJ_L24/FS_TopArmJ_L25/FS_TopArmJ_L26/FS_TopCLCJ_L1/FS_TopCLCJ_L2/FS_TopCLCJ_L3
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19/FS_TopArmJ_L20/FS_TopArmJ_L21/FS_TopArmJ_L22/FS_TopArmJ_L23/FS_TopArmJ_L24/FS_TopArmJ_L25/FS_TopArmJ_L26/FS_TopCLCJ_L1/FS_TopCLCJ_L2/FS_TopCLCJ_L3/FS_TopCLCJ_L4
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19/FS_TopArmJ_L20/FS_TopArmJ_L21/FS_TopArmJ_L22/FS_TopArmJ_L23/FS_TopArmJ_L24/FS_TopArmJ_L25/FS_TopArmJ_L26/FS_TopSPJ_L1
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_L0/FS_TopArmJ_L1/FS_TopArmJ_L2/FS_TopArmJ_L3/FS_TopArmJ_L4/FS_TopArmJ_L5/FS_TopArmJ_L6/FS_TopArmJ_L7/FS_TopArmJ_L8/FS_TopArmJ_L9/FS_TopArmJ_L10/FS_TopArmJ_L11/FS_TopArmJ_L12/FS_TopArmJ_L13/FS_TopArmJ_L14/FS_TopArmJ_L15/FS_TopArmJ_L16/FS_TopArmJ_L17/FS_TopArmJ_L18/FS_TopArmJ_L19/FS_TopArmJ_L20/FS_TopArmJ_L21/FS_TopArmJ_L22/FS_TopArmJ_L23/FS_TopArmJ_L24/FS_TopArmJ_L25/FS_TopArmJ_L26/FS_TopSPJ_L1/FS_TopSPJ_L2
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19/FS_TopArmJ_R20
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19/FS_TopArmJ_R20/FS_TopArmJ_R21
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19/FS_TopArmJ_R20/FS_TopArmJ_R21/FS_TopArmJ_R22
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19/FS_TopArmJ_R20/FS_TopArmJ_R21/FS_TopArmJ_R22/FS_TopArmJ_R23
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19/FS_TopArmJ_R20/FS_TopArmJ_R21/FS_TopArmJ_R22/FS_TopArmJ_R23/FS_TopArmJ_R24
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19/FS_TopArmJ_R20/FS_TopArmJ_R21/FS_TopArmJ_R22/FS_TopArmJ_R23/FS_TopArmJ_R24/FS_TopArmJ_R25
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19/FS_TopArmJ_R20/FS_TopArmJ_R21/FS_TopArmJ_R22/FS_TopArmJ_R23/FS_TopArmJ_R24/FS_TopArmJ_R25/FS_TopArmJ_R26
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19/FS_TopArmJ_R20/FS_TopArmJ_R21/FS_TopArmJ_R22/FS_TopArmJ_R23/FS_TopArmJ_R24/FS_TopArmJ_R25/FS_TopArmJ_R26/FS_TopCLAJ_R1
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19/FS_TopArmJ_R20/FS_TopArmJ_R21/FS_TopArmJ_R22/FS_TopArmJ_R23/FS_TopArmJ_R24/FS_TopArmJ_R25/FS_TopArmJ_R26/FS_TopCLAJ_R1/FS_TopCLAJ_R2
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19/FS_TopArmJ_R20/FS_TopArmJ_R21/FS_TopArmJ_R22/FS_TopArmJ_R23/FS_TopArmJ_R24/FS_TopArmJ_R25/FS_TopArmJ_R26/FS_TopCLAJ_R1/FS_TopCLAJ_R2/FS_TopCLAJ_R3
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19/FS_TopArmJ_R20/FS_TopArmJ_R21/FS_TopArmJ_R22/FS_TopArmJ_R23/FS_TopArmJ_R24/FS_TopArmJ_R25/FS_TopArmJ_R26/FS_TopCLAJ_R1/FS_TopCLAJ_R2/FS_TopCLAJ_R3/FS_TopCLAJ_R4
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19/FS_TopArmJ_R20/FS_TopArmJ_R21/FS_TopArmJ_R22/FS_TopArmJ_R23/FS_TopArmJ_R24/FS_TopArmJ_R25/FS_TopArmJ_R26/FS_TopCLBJ_R1
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19/FS_TopArmJ_R20/FS_TopArmJ_R21/FS_TopArmJ_R22/FS_TopArmJ_R23/FS_TopArmJ_R24/FS_TopArmJ_R25/FS_TopArmJ_R26/FS_TopCLBJ_R1/FS_TopCLBJ_R2
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19/FS_TopArmJ_R20/FS_TopArmJ_R21/FS_TopArmJ_R22/FS_TopArmJ_R23/FS_TopArmJ_R24/FS_TopArmJ_R25/FS_TopArmJ_R26/FS_TopCLBJ_R1/FS_TopCLBJ_R2/FS_TopCLBJ_R3
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19/FS_TopArmJ_R20/FS_TopArmJ_R21/FS_TopArmJ_R22/FS_TopArmJ_R23/FS_TopArmJ_R24/FS_TopArmJ_R25/FS_TopArmJ_R26/FS_TopCLBJ_R1/FS_TopCLBJ_R2/FS_TopCLBJ_R3/FS_TopCLBJ_R4
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19/FS_TopArmJ_R20/FS_TopArmJ_R21/FS_TopArmJ_R22/FS_TopArmJ_R23/FS_TopArmJ_R24/FS_TopArmJ_R25/FS_TopArmJ_R26/FS_TopCLCJ_R1
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19/FS_TopArmJ_R20/FS_TopArmJ_R21/FS_TopArmJ_R22/FS_TopArmJ_R23/FS_TopArmJ_R24/FS_TopArmJ_R25/FS_TopArmJ_R26/FS_TopCLCJ_R1/FS_TopCLCJ_R2
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19/FS_TopArmJ_R20/FS_TopArmJ_R21/FS_TopArmJ_R22/FS_TopArmJ_R23/FS_TopArmJ_R24/FS_TopArmJ_R25/FS_TopArmJ_R26/FS_TopCLCJ_R1/FS_TopCLCJ_R2/FS_TopCLCJ_R3
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19/FS_TopArmJ_R20/FS_TopArmJ_R21/FS_TopArmJ_R22/FS_TopArmJ_R23/FS_TopArmJ_R24/FS_TopArmJ_R25/FS_TopArmJ_R26/FS_TopCLCJ_R1/FS_TopCLCJ_R2/FS_TopCLCJ_R3/FS_TopCLCJ_R4
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19/FS_TopArmJ_R20/FS_TopArmJ_R21/FS_TopArmJ_R22/FS_TopArmJ_R23/FS_TopArmJ_R24/FS_TopArmJ_R25/FS_TopArmJ_R26/FS_TopSPJ_R1
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopArmJ_R0/FS_TopArmJ_R1/FS_TopArmJ_R2/FS_TopArmJ_R3/FS_TopArmJ_R4/FS_TopArmJ_R5/FS_TopArmJ_R6/FS_TopArmJ_R7/FS_TopArmJ_R8/FS_TopArmJ_R9/FS_TopArmJ_R10/FS_TopArmJ_R11/FS_TopArmJ_R12/FS_TopArmJ_R13/FS_TopArmJ_R14/FS_TopArmJ_R15/FS_TopArmJ_R16/FS_TopArmJ_R17/FS_TopArmJ_R18/FS_TopArmJ_R19/FS_TopArmJ_R20/FS_TopArmJ_R21/FS_TopArmJ_R22/FS_TopArmJ_R23/FS_TopArmJ_R24/FS_TopArmJ_R25/FS_TopArmJ_R26/FS_TopSPJ_R1/FS_TopSPJ_R2
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopJ2L
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopJ2R
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopJ3
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopJ3/FS_GunJ0
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopJ3/FS_GunJ0/FS_GunJ1
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopJ3/FS_GunJ0/FS_GunJ2
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopJ3/FS_GunJ0/FS_GunJ3
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopJ3/FS_GunJ0/FS_GunJ4
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopJ3/FS_JawJ1
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopJ3/FS_JawJ1/FS_JawJ2
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopJ3/FS_JawJ1/FS_JawJ2/FS_JawJ3
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopJ3/FS_JawJ1/FS_JawJ2/FS_JawJ3/FS_JawJ4
+        weight: 1
+      - path: FS_MainJ/FS_TopJ0/FS_TopJ1/FS_TopJ2/FS_TopJ3/FS_NoseJ
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

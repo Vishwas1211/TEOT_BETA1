@@ -1,0 +1,955 @@
+fileFormatVersion: 2
+guid: ab728df82f191604d962b9c7e47e2bd9
+timeCreated: 1512460003
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: JRQ_LMidFinBaseJ_1_ctrl
+    100002: JRQ_LMidFinBaseJ_1_sd
+    100004: JRQ_LMidFinJ_1_ctrl
+    100006: JRQ_LMidFinJ_1_sd
+    100008: JRQ_LMidFinJ_2_ctrl
+    100010: JRQ_LMidFinJ_2_sd
+    100012: JRQ_LMidFinJ_3_ctrl
+    100014: JRQ_LMidFinJ_3_sd
+    100016: JRQ_LMidFinJ_4
+    100018: JRQ_LPointyFinBaseJ_1_ctrl
+    100020: JRQ_LPointyFinBaseJ_1_sd
+    100022: JRQ_LPointyFinJ_1_ctrl
+    100024: JRQ_LPointyFinJ_1_sd
+    100026: JRQ_LPointyFinJ_2_ctrl
+    100028: JRQ_LPointyFinJ_2_sd
+    100030: JRQ_LPointyFinJ_3_ctrl
+    100032: JRQ_LPointyFinJ_3_sd
+    100034: JRQ_LPointyFinJ_4
+    100036: JRQ_LThumbBaseJ_1_ctrl
+    100038: JRQ_LThumbBaseJ_1_sd
+    100040: JRQ_LThumbJ_1_ctrl
+    100042: JRQ_LThumbJ_1_sd
+    100044: JRQ_LThumbJ_2_ctrl
+    100046: JRQ_LThumbJ_2_sd
+    100048: JRQ_LThumbJ_3
+    100050: JRQ_LTinyFinBaseJ_1_ctrl
+    100052: JRQ_LTinyFinBaseJ_1_sd
+    100054: JRQ_LTinyFinJ_1_ctrl
+    100056: JRQ_LTinyFinJ_1_sd
+    100058: JRQ_LTinyFinJ_2_ctrl
+    100060: JRQ_LTinyFinJ_2_sd
+    100062: JRQ_LTinyFinJ_3_ctrl
+    100064: JRQ_LTinyFinJ_3_sd
+    100066: JRQ_LTinyFinJ_4
+    100068: JRQ_LWedFinBaseJ_1_ctrl
+    100070: JRQ_LWedFinBaseJ_1_sd
+    100072: JRQ_LWedFinJ_1_ctrl
+    100074: JRQ_LWedFinJ_1_sd
+    100076: JRQ_LWedFinJ_2_ctrl
+    100078: JRQ_LWedFinJ_2_sd
+    100080: JRQ_LWedFinJ_3_ctrl
+    100082: JRQ_LWedFinJ_3_sd
+    100084: JRQ_LWedFinJ_4
+    100086: JRQ_RMidFinBaseJ_1_ctrl
+    100088: JRQ_RMidFinBaseJ_1_sd
+    100090: JRQ_RMidFinJ_1_ctrl
+    100092: JRQ_RMidFinJ_1_sd
+    100094: JRQ_RMidFinJ_2_ctrl
+    100096: JRQ_RMidFinJ_2_sd
+    100098: JRQ_RMidFinJ_3_ctrl
+    100100: JRQ_RMidFinJ_3_sd
+    100102: JRQ_RMidFinJ_4
+    100104: JRQ_RPointyFinBaseJ_1_ctrl
+    100106: JRQ_RPointyFinBaseJ_1_sd
+    100108: JRQ_RPointyFinJ_1_ctrl
+    100110: JRQ_RPointyFinJ_1_sd
+    100112: JRQ_RPointyFinJ_2_ctrl
+    100114: JRQ_RPointyFinJ_2_sd
+    100116: JRQ_RPointyFinJ_3_ctrl
+    100118: JRQ_RPointyFinJ_3_sd
+    100120: JRQ_RPointyFinJ_4
+    100122: JRQ_RThumbBaseJ_1_ctrl
+    100124: JRQ_RThumbBaseJ_1_sd
+    100126: JRQ_RThumbJ_1_ctrl
+    100128: JRQ_RThumbJ_1_sd
+    100130: JRQ_RThumbJ_2_ctrl
+    100132: JRQ_RThumbJ_2_sd
+    100134: JRQ_RThumbJ_3
+    100136: JRQ_RTinyFinBaseJ_1_ctrl
+    100138: JRQ_RTinyFinBaseJ_1_sd
+    100140: JRQ_RTinyFinJ_1_ctrl
+    100142: JRQ_RTinyFinJ_1_sd
+    100144: JRQ_RTinyFinJ_2_ctrl
+    100146: JRQ_RTinyFinJ_2_sd
+    100148: JRQ_RTinyFinJ_3_ctrl
+    100150: JRQ_RTinyFinJ_3_sd
+    100152: JRQ_RTinyFinJ_4
+    100154: JRQ_RWedFinBaseJ_1_ctrl
+    100156: JRQ_RWedFinBaseJ_1_sd
+    100158: JRQ_RWedFinJ_1_ctrl
+    100160: JRQ_RWedFinJ_1_sd
+    100162: JRQ_RWedFinJ_2_ctrl
+    100164: JRQ_RWedFinJ_2_sd
+    100166: JRQ_RWedFinJ_3_ctrl
+    100168: JRQ_RWedFinJ_3_sd
+    100170: JRQ_RWedFinJ_4
+    100172: //RootNode
+    100174: Zoic_HeadJ_1
+    100176: Zoic_HeadJ_2
+    100178: Zoic_LAnkleJ_1
+    100180: Zoic_LBendJ_1
+    100182: Zoic_LForeArmJ_1
+    100184: Zoic_LForeArmJ_2
+    100186: Zoic_LHeelJ_1
+    100188: Zoic_LKneeJ_1
+    100190: Zoic_LKneeJ_2
+    100192: Zoic_LMidFinBaseJ_1_ctrl
+    100194: Zoic_LMidFinBaseJ_1_sd
+    100196: Zoic_LMidFinJ_1_ctrl
+    100198: Zoic_LMidFinJ_1_sd
+    100200: Zoic_LMidFinJ_2_ctrl
+    100202: Zoic_LMidFinJ_2_sd
+    100204: Zoic_LMidFinJ_3_ctrl
+    100206: Zoic_LMidFinJ_3_sd
+    100208: Zoic_LMidFinJ_4
+    100210: Zoic_LPointyFinBaseJ_1_ctrl
+    100212: Zoic_LPointyFinBaseJ_1_sd
+    100214: Zoic_LPointyFinJ_1_ctrl
+    100216: Zoic_LPointyFinJ_1_sd
+    100218: Zoic_LPointyFinJ_2_ctrl
+    100220: Zoic_LPointyFinJ_2_sd
+    100222: Zoic_LPointyFinJ_3_ctrl
+    100224: Zoic_LPointyFinJ_3_sd
+    100226: Zoic_LPointyFinJ_4
+    100228: Zoic_LShoulderJ_1
+    100230: Zoic_LShoulderPlateJ_1
+    100232: Zoic_LThumbBaseJ_1_ctrl
+    100234: Zoic_LThumbBaseJ_1_sd
+    100236: Zoic_LThumbJ_1_ctrl
+    100238: Zoic_LThumbJ_1_sd
+    100240: Zoic_LThumbJ_2_ctrl
+    100242: Zoic_LThumbJ_2_sd
+    100244: Zoic_LThumbJ_3
+    100246: Zoic_LTightJ_1
+    100248: Zoic_LTinyFinBaseJ_1_ctrl
+    100250: Zoic_LTinyFinBaseJ_1_sd
+    100252: Zoic_LTinyFinJ_1_ctrl
+    100254: Zoic_LTinyFinJ_1_sd
+    100256: Zoic_LTinyFinJ_2_ctrl
+    100258: Zoic_LTinyFinJ_2_sd
+    100260: Zoic_LTinyFinJ_3_ctrl
+    100262: Zoic_LTinyFinJ_3_sd
+    100264: Zoic_LTinyFinJ_4
+    100266: Zoic_LToesJ_1
+    100268: Zoic_LWedFinBaseJ_1_ctrl
+    100270: Zoic_LWedFinBaseJ_1_sd
+    100272: Zoic_LWedFinJ_1_ctrl
+    100274: Zoic_LWedFinJ_1_sd
+    100276: Zoic_LWedFinJ_2_ctrl
+    100278: Zoic_LWedFinJ_2_sd
+    100280: Zoic_LWedFinJ_3_ctrl
+    100282: Zoic_LWedFinJ_3_sd
+    100284: Zoic_LWedFinJ_4
+    100286: Zoic_LWristJ_1
+    100288: Zoic_LWristJ_1_ctrl
+    100290: Zoic_NeckJ_1
+    100292: Zoic_NeckJ_2
+    100294: Zoic_NoseJ_1
+    100296: Zoic_RAnkleJ_1
+    100298: Zoic_RBendJ_1
+    100300: Zoic_RForeArmJ_1
+    100302: Zoic_RForeArmJ_2
+    100304: Zoic_RHeelJ_1
+    100306: Zoic_RKneeJ_1
+    100308: Zoic_RKneeJ_2
+    100310: Zoic_RMidFinBaseJ_1_ctrl
+    100312: Zoic_RMidFinBaseJ_1_sd
+    100314: Zoic_RMidFinJ_1_ctrl
+    100316: Zoic_RMidFinJ_1_sd
+    100318: Zoic_RMidFinJ_2_ctrl
+    100320: Zoic_RMidFinJ_2_sd
+    100322: Zoic_RMidFinJ_3_ctrl
+    100324: Zoic_RMidFinJ_3_sd
+    100326: Zoic_RMidFinJ_4
+    100328: Zoic_RPointyFinBaseJ_1_ctrl
+    100330: Zoic_RPointyFinBaseJ_1_sd
+    100332: Zoic_RPointyFinJ_1_ctrl
+    100334: Zoic_RPointyFinJ_1_sd
+    100336: Zoic_RPointyFinJ_2_ctrl
+    100338: Zoic_RPointyFinJ_2_sd
+    100340: Zoic_RPointyFinJ_3_ctrl
+    100342: Zoic_RPointyFinJ_3_sd
+    100344: Zoic_RPointyFinJ_4
+    100346: Zoic_RShoulderJ_1
+    100348: Zoic_RShoulderPlateJ_1
+    100350: Zoic_RThumbBaseJ_1_ctrl
+    100352: Zoic_RThumbBaseJ_1_sd
+    100354: Zoic_RThumbJ_1_ctrl
+    100356: Zoic_RThumbJ_1_sd
+    100358: Zoic_RThumbJ_2_ctrl
+    100360: Zoic_RThumbJ_2_sd
+    100362: Zoic_RThumbJ_3
+    100364: Zoic_RTightJ_1
+    100366: Zoic_RTinyFinBaseJ_1_ctrl
+    100368: Zoic_RTinyFinBaseJ_1_sd
+    100370: Zoic_RTinyFinJ_1_ctrl
+    100372: Zoic_RTinyFinJ_1_sd
+    100374: Zoic_RTinyFinJ_2_ctrl
+    100376: Zoic_RTinyFinJ_2_sd
+    100378: Zoic_RTinyFinJ_3_ctrl
+    100380: Zoic_RTinyFinJ_3_sd
+    100382: Zoic_RTinyFinJ_4
+    100384: Zoic_RToesJ_1
+    100386: Zoic_RWedFinBaseJ_1_ctrl
+    100388: Zoic_RWedFinBaseJ_1_sd
+    100390: Zoic_RWedFinJ_1_ctrl
+    100392: Zoic_RWedFinJ_1_sd
+    100394: Zoic_RWedFinJ_2_ctrl
+    100396: Zoic_RWedFinJ_2_sd
+    100398: Zoic_RWedFinJ_3_ctrl
+    100400: Zoic_RWedFinJ_3_sd
+    100402: Zoic_RWedFinJ_4
+    100404: Zoic_RWristJ_1
+    100406: Zoic_RWristJ_1_ctrl
+    100408: Zoic_SpineJ_1
+    100410: Zoic_SpineJ_2
+    100412: Zoic_SpineJ_3
+    100414: Zoic_SpineJ_4
+    100416: Zoic_SpineJ_5
+    100418: Zoic_SpineJ_6
+    100420: Zoic_SpineJ_7
+    100422: Zoic_SpineJ_8
+    400000: JRQ_LMidFinBaseJ_1_ctrl
+    400002: JRQ_LMidFinBaseJ_1_sd
+    400004: JRQ_LMidFinJ_1_ctrl
+    400006: JRQ_LMidFinJ_1_sd
+    400008: JRQ_LMidFinJ_2_ctrl
+    400010: JRQ_LMidFinJ_2_sd
+    400012: JRQ_LMidFinJ_3_ctrl
+    400014: JRQ_LMidFinJ_3_sd
+    400016: JRQ_LMidFinJ_4
+    400018: JRQ_LPointyFinBaseJ_1_ctrl
+    400020: JRQ_LPointyFinBaseJ_1_sd
+    400022: JRQ_LPointyFinJ_1_ctrl
+    400024: JRQ_LPointyFinJ_1_sd
+    400026: JRQ_LPointyFinJ_2_ctrl
+    400028: JRQ_LPointyFinJ_2_sd
+    400030: JRQ_LPointyFinJ_3_ctrl
+    400032: JRQ_LPointyFinJ_3_sd
+    400034: JRQ_LPointyFinJ_4
+    400036: JRQ_LThumbBaseJ_1_ctrl
+    400038: JRQ_LThumbBaseJ_1_sd
+    400040: JRQ_LThumbJ_1_ctrl
+    400042: JRQ_LThumbJ_1_sd
+    400044: JRQ_LThumbJ_2_ctrl
+    400046: JRQ_LThumbJ_2_sd
+    400048: JRQ_LThumbJ_3
+    400050: JRQ_LTinyFinBaseJ_1_ctrl
+    400052: JRQ_LTinyFinBaseJ_1_sd
+    400054: JRQ_LTinyFinJ_1_ctrl
+    400056: JRQ_LTinyFinJ_1_sd
+    400058: JRQ_LTinyFinJ_2_ctrl
+    400060: JRQ_LTinyFinJ_2_sd
+    400062: JRQ_LTinyFinJ_3_ctrl
+    400064: JRQ_LTinyFinJ_3_sd
+    400066: JRQ_LTinyFinJ_4
+    400068: JRQ_LWedFinBaseJ_1_ctrl
+    400070: JRQ_LWedFinBaseJ_1_sd
+    400072: JRQ_LWedFinJ_1_ctrl
+    400074: JRQ_LWedFinJ_1_sd
+    400076: JRQ_LWedFinJ_2_ctrl
+    400078: JRQ_LWedFinJ_2_sd
+    400080: JRQ_LWedFinJ_3_ctrl
+    400082: JRQ_LWedFinJ_3_sd
+    400084: JRQ_LWedFinJ_4
+    400086: JRQ_RMidFinBaseJ_1_ctrl
+    400088: JRQ_RMidFinBaseJ_1_sd
+    400090: JRQ_RMidFinJ_1_ctrl
+    400092: JRQ_RMidFinJ_1_sd
+    400094: JRQ_RMidFinJ_2_ctrl
+    400096: JRQ_RMidFinJ_2_sd
+    400098: JRQ_RMidFinJ_3_ctrl
+    400100: JRQ_RMidFinJ_3_sd
+    400102: JRQ_RMidFinJ_4
+    400104: JRQ_RPointyFinBaseJ_1_ctrl
+    400106: JRQ_RPointyFinBaseJ_1_sd
+    400108: JRQ_RPointyFinJ_1_ctrl
+    400110: JRQ_RPointyFinJ_1_sd
+    400112: JRQ_RPointyFinJ_2_ctrl
+    400114: JRQ_RPointyFinJ_2_sd
+    400116: JRQ_RPointyFinJ_3_ctrl
+    400118: JRQ_RPointyFinJ_3_sd
+    400120: JRQ_RPointyFinJ_4
+    400122: JRQ_RThumbBaseJ_1_ctrl
+    400124: JRQ_RThumbBaseJ_1_sd
+    400126: JRQ_RThumbJ_1_ctrl
+    400128: JRQ_RThumbJ_1_sd
+    400130: JRQ_RThumbJ_2_ctrl
+    400132: JRQ_RThumbJ_2_sd
+    400134: JRQ_RThumbJ_3
+    400136: JRQ_RTinyFinBaseJ_1_ctrl
+    400138: JRQ_RTinyFinBaseJ_1_sd
+    400140: JRQ_RTinyFinJ_1_ctrl
+    400142: JRQ_RTinyFinJ_1_sd
+    400144: JRQ_RTinyFinJ_2_ctrl
+    400146: JRQ_RTinyFinJ_2_sd
+    400148: JRQ_RTinyFinJ_3_ctrl
+    400150: JRQ_RTinyFinJ_3_sd
+    400152: JRQ_RTinyFinJ_4
+    400154: JRQ_RWedFinBaseJ_1_ctrl
+    400156: JRQ_RWedFinBaseJ_1_sd
+    400158: JRQ_RWedFinJ_1_ctrl
+    400160: JRQ_RWedFinJ_1_sd
+    400162: JRQ_RWedFinJ_2_ctrl
+    400164: JRQ_RWedFinJ_2_sd
+    400166: JRQ_RWedFinJ_3_ctrl
+    400168: JRQ_RWedFinJ_3_sd
+    400170: JRQ_RWedFinJ_4
+    400172: //RootNode
+    400174: Zoic_HeadJ_1
+    400176: Zoic_HeadJ_2
+    400178: Zoic_LAnkleJ_1
+    400180: Zoic_LBendJ_1
+    400182: Zoic_LForeArmJ_1
+    400184: Zoic_LForeArmJ_2
+    400186: Zoic_LHeelJ_1
+    400188: Zoic_LKneeJ_1
+    400190: Zoic_LKneeJ_2
+    400192: Zoic_LMidFinBaseJ_1_ctrl
+    400194: Zoic_LMidFinBaseJ_1_sd
+    400196: Zoic_LMidFinJ_1_ctrl
+    400198: Zoic_LMidFinJ_1_sd
+    400200: Zoic_LMidFinJ_2_ctrl
+    400202: Zoic_LMidFinJ_2_sd
+    400204: Zoic_LMidFinJ_3_ctrl
+    400206: Zoic_LMidFinJ_3_sd
+    400208: Zoic_LMidFinJ_4
+    400210: Zoic_LPointyFinBaseJ_1_ctrl
+    400212: Zoic_LPointyFinBaseJ_1_sd
+    400214: Zoic_LPointyFinJ_1_ctrl
+    400216: Zoic_LPointyFinJ_1_sd
+    400218: Zoic_LPointyFinJ_2_ctrl
+    400220: Zoic_LPointyFinJ_2_sd
+    400222: Zoic_LPointyFinJ_3_ctrl
+    400224: Zoic_LPointyFinJ_3_sd
+    400226: Zoic_LPointyFinJ_4
+    400228: Zoic_LShoulderJ_1
+    400230: Zoic_LShoulderPlateJ_1
+    400232: Zoic_LThumbBaseJ_1_ctrl
+    400234: Zoic_LThumbBaseJ_1_sd
+    400236: Zoic_LThumbJ_1_ctrl
+    400238: Zoic_LThumbJ_1_sd
+    400240: Zoic_LThumbJ_2_ctrl
+    400242: Zoic_LThumbJ_2_sd
+    400244: Zoic_LThumbJ_3
+    400246: Zoic_LTightJ_1
+    400248: Zoic_LTinyFinBaseJ_1_ctrl
+    400250: Zoic_LTinyFinBaseJ_1_sd
+    400252: Zoic_LTinyFinJ_1_ctrl
+    400254: Zoic_LTinyFinJ_1_sd
+    400256: Zoic_LTinyFinJ_2_ctrl
+    400258: Zoic_LTinyFinJ_2_sd
+    400260: Zoic_LTinyFinJ_3_ctrl
+    400262: Zoic_LTinyFinJ_3_sd
+    400264: Zoic_LTinyFinJ_4
+    400266: Zoic_LToesJ_1
+    400268: Zoic_LWedFinBaseJ_1_ctrl
+    400270: Zoic_LWedFinBaseJ_1_sd
+    400272: Zoic_LWedFinJ_1_ctrl
+    400274: Zoic_LWedFinJ_1_sd
+    400276: Zoic_LWedFinJ_2_ctrl
+    400278: Zoic_LWedFinJ_2_sd
+    400280: Zoic_LWedFinJ_3_ctrl
+    400282: Zoic_LWedFinJ_3_sd
+    400284: Zoic_LWedFinJ_4
+    400286: Zoic_LWristJ_1
+    400288: Zoic_LWristJ_1_ctrl
+    400290: Zoic_NeckJ_1
+    400292: Zoic_NeckJ_2
+    400294: Zoic_NoseJ_1
+    400296: Zoic_RAnkleJ_1
+    400298: Zoic_RBendJ_1
+    400300: Zoic_RForeArmJ_1
+    400302: Zoic_RForeArmJ_2
+    400304: Zoic_RHeelJ_1
+    400306: Zoic_RKneeJ_1
+    400308: Zoic_RKneeJ_2
+    400310: Zoic_RMidFinBaseJ_1_ctrl
+    400312: Zoic_RMidFinBaseJ_1_sd
+    400314: Zoic_RMidFinJ_1_ctrl
+    400316: Zoic_RMidFinJ_1_sd
+    400318: Zoic_RMidFinJ_2_ctrl
+    400320: Zoic_RMidFinJ_2_sd
+    400322: Zoic_RMidFinJ_3_ctrl
+    400324: Zoic_RMidFinJ_3_sd
+    400326: Zoic_RMidFinJ_4
+    400328: Zoic_RPointyFinBaseJ_1_ctrl
+    400330: Zoic_RPointyFinBaseJ_1_sd
+    400332: Zoic_RPointyFinJ_1_ctrl
+    400334: Zoic_RPointyFinJ_1_sd
+    400336: Zoic_RPointyFinJ_2_ctrl
+    400338: Zoic_RPointyFinJ_2_sd
+    400340: Zoic_RPointyFinJ_3_ctrl
+    400342: Zoic_RPointyFinJ_3_sd
+    400344: Zoic_RPointyFinJ_4
+    400346: Zoic_RShoulderJ_1
+    400348: Zoic_RShoulderPlateJ_1
+    400350: Zoic_RThumbBaseJ_1_ctrl
+    400352: Zoic_RThumbBaseJ_1_sd
+    400354: Zoic_RThumbJ_1_ctrl
+    400356: Zoic_RThumbJ_1_sd
+    400358: Zoic_RThumbJ_2_ctrl
+    400360: Zoic_RThumbJ_2_sd
+    400362: Zoic_RThumbJ_3
+    400364: Zoic_RTightJ_1
+    400366: Zoic_RTinyFinBaseJ_1_ctrl
+    400368: Zoic_RTinyFinBaseJ_1_sd
+    400370: Zoic_RTinyFinJ_1_ctrl
+    400372: Zoic_RTinyFinJ_1_sd
+    400374: Zoic_RTinyFinJ_2_ctrl
+    400376: Zoic_RTinyFinJ_2_sd
+    400378: Zoic_RTinyFinJ_3_ctrl
+    400380: Zoic_RTinyFinJ_3_sd
+    400382: Zoic_RTinyFinJ_4
+    400384: Zoic_RToesJ_1
+    400386: Zoic_RWedFinBaseJ_1_ctrl
+    400388: Zoic_RWedFinBaseJ_1_sd
+    400390: Zoic_RWedFinJ_1_ctrl
+    400392: Zoic_RWedFinJ_1_sd
+    400394: Zoic_RWedFinJ_2_ctrl
+    400396: Zoic_RWedFinJ_2_sd
+    400398: Zoic_RWedFinJ_3_ctrl
+    400400: Zoic_RWedFinJ_3_sd
+    400402: Zoic_RWedFinJ_4
+    400404: Zoic_RWristJ_1
+    400406: Zoic_RWristJ_1_ctrl
+    400408: Zoic_SpineJ_1
+    400410: Zoic_SpineJ_2
+    400412: Zoic_SpineJ_3
+    400414: Zoic_SpineJ_4
+    400416: Zoic_SpineJ_5
+    400418: Zoic_SpineJ_6
+    400420: Zoic_SpineJ_7
+    400422: Zoic_SpineJ_8
+    7400000: death3_right
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: death3_right
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 38
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Zoic_SpineJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_LTightJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_LTightJ_1/Zoic_LKneeJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_LTightJ_1/Zoic_LKneeJ_1/Zoic_LKneeJ_2
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_LTightJ_1/Zoic_LKneeJ_1/Zoic_LKneeJ_2/Zoic_LAnkleJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_LTightJ_1/Zoic_LKneeJ_1/Zoic_LKneeJ_2/Zoic_LAnkleJ_1/Zoic_LBendJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_LTightJ_1/Zoic_LKneeJ_1/Zoic_LKneeJ_2/Zoic_LAnkleJ_1/Zoic_LBendJ_1/Zoic_LToesJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_LTightJ_1/Zoic_LKneeJ_1/Zoic_LKneeJ_2/Zoic_LAnkleJ_1/Zoic_LHeelJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_RTightJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_RTightJ_1/Zoic_RKneeJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_RTightJ_1/Zoic_RKneeJ_1/Zoic_RKneeJ_2
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_RTightJ_1/Zoic_RKneeJ_1/Zoic_RKneeJ_2/Zoic_RAnkleJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_RTightJ_1/Zoic_RKneeJ_1/Zoic_RKneeJ_2/Zoic_RAnkleJ_1/Zoic_RBendJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_RTightJ_1/Zoic_RKneeJ_1/Zoic_RKneeJ_2/Zoic_RAnkleJ_1/Zoic_RBendJ_1/Zoic_RToesJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_RTightJ_1/Zoic_RKneeJ_1/Zoic_RKneeJ_2/Zoic_RAnkleJ_1/Zoic_RHeelJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LMidFinBaseJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LMidFinBaseJ_1_sd/JRQ_LMidFinBaseJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LMidFinBaseJ_1_sd/JRQ_LMidFinBaseJ_1_ctrl/JRQ_LMidFinJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LMidFinBaseJ_1_sd/JRQ_LMidFinBaseJ_1_ctrl/JRQ_LMidFinJ_1_sd/JRQ_LMidFinJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LMidFinBaseJ_1_sd/JRQ_LMidFinBaseJ_1_ctrl/JRQ_LMidFinJ_1_sd/JRQ_LMidFinJ_1_ctrl/JRQ_LMidFinJ_2_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LMidFinBaseJ_1_sd/JRQ_LMidFinBaseJ_1_ctrl/JRQ_LMidFinJ_1_sd/JRQ_LMidFinJ_1_ctrl/JRQ_LMidFinJ_2_sd/JRQ_LMidFinJ_2_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LMidFinBaseJ_1_sd/JRQ_LMidFinBaseJ_1_ctrl/JRQ_LMidFinJ_1_sd/JRQ_LMidFinJ_1_ctrl/JRQ_LMidFinJ_2_sd/JRQ_LMidFinJ_2_ctrl/JRQ_LMidFinJ_3_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LMidFinBaseJ_1_sd/JRQ_LMidFinBaseJ_1_ctrl/JRQ_LMidFinJ_1_sd/JRQ_LMidFinJ_1_ctrl/JRQ_LMidFinJ_2_sd/JRQ_LMidFinJ_2_ctrl/JRQ_LMidFinJ_3_sd/JRQ_LMidFinJ_3_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LMidFinBaseJ_1_sd/JRQ_LMidFinBaseJ_1_ctrl/JRQ_LMidFinJ_1_sd/JRQ_LMidFinJ_1_ctrl/JRQ_LMidFinJ_2_sd/JRQ_LMidFinJ_2_ctrl/JRQ_LMidFinJ_3_sd/JRQ_LMidFinJ_3_ctrl/JRQ_LMidFinJ_4
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LPointyFinBaseJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LPointyFinBaseJ_1_sd/JRQ_LPointyFinBaseJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LPointyFinBaseJ_1_sd/JRQ_LPointyFinBaseJ_1_ctrl/JRQ_LPointyFinJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LPointyFinBaseJ_1_sd/JRQ_LPointyFinBaseJ_1_ctrl/JRQ_LPointyFinJ_1_sd/JRQ_LPointyFinJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LPointyFinBaseJ_1_sd/JRQ_LPointyFinBaseJ_1_ctrl/JRQ_LPointyFinJ_1_sd/JRQ_LPointyFinJ_1_ctrl/JRQ_LPointyFinJ_2_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LPointyFinBaseJ_1_sd/JRQ_LPointyFinBaseJ_1_ctrl/JRQ_LPointyFinJ_1_sd/JRQ_LPointyFinJ_1_ctrl/JRQ_LPointyFinJ_2_sd/JRQ_LPointyFinJ_2_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LPointyFinBaseJ_1_sd/JRQ_LPointyFinBaseJ_1_ctrl/JRQ_LPointyFinJ_1_sd/JRQ_LPointyFinJ_1_ctrl/JRQ_LPointyFinJ_2_sd/JRQ_LPointyFinJ_2_ctrl/JRQ_LPointyFinJ_3_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LPointyFinBaseJ_1_sd/JRQ_LPointyFinBaseJ_1_ctrl/JRQ_LPointyFinJ_1_sd/JRQ_LPointyFinJ_1_ctrl/JRQ_LPointyFinJ_2_sd/JRQ_LPointyFinJ_2_ctrl/JRQ_LPointyFinJ_3_sd/JRQ_LPointyFinJ_3_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LPointyFinBaseJ_1_sd/JRQ_LPointyFinBaseJ_1_ctrl/JRQ_LPointyFinJ_1_sd/JRQ_LPointyFinJ_1_ctrl/JRQ_LPointyFinJ_2_sd/JRQ_LPointyFinJ_2_ctrl/JRQ_LPointyFinJ_3_sd/JRQ_LPointyFinJ_3_ctrl/JRQ_LPointyFinJ_4
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LThumbBaseJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LThumbBaseJ_1_sd/JRQ_LThumbBaseJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LThumbBaseJ_1_sd/JRQ_LThumbBaseJ_1_ctrl/JRQ_LThumbJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LThumbBaseJ_1_sd/JRQ_LThumbBaseJ_1_ctrl/JRQ_LThumbJ_1_sd/JRQ_LThumbJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LThumbBaseJ_1_sd/JRQ_LThumbBaseJ_1_ctrl/JRQ_LThumbJ_1_sd/JRQ_LThumbJ_1_ctrl/JRQ_LThumbJ_2_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LThumbBaseJ_1_sd/JRQ_LThumbBaseJ_1_ctrl/JRQ_LThumbJ_1_sd/JRQ_LThumbJ_1_ctrl/JRQ_LThumbJ_2_sd/JRQ_LThumbJ_2_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LThumbBaseJ_1_sd/JRQ_LThumbBaseJ_1_ctrl/JRQ_LThumbJ_1_sd/JRQ_LThumbJ_1_ctrl/JRQ_LThumbJ_2_sd/JRQ_LThumbJ_2_ctrl/JRQ_LThumbJ_3
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LTinyFinBaseJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LTinyFinBaseJ_1_sd/JRQ_LTinyFinBaseJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LTinyFinBaseJ_1_sd/JRQ_LTinyFinBaseJ_1_ctrl/JRQ_LTinyFinJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LTinyFinBaseJ_1_sd/JRQ_LTinyFinBaseJ_1_ctrl/JRQ_LTinyFinJ_1_sd/JRQ_LTinyFinJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LTinyFinBaseJ_1_sd/JRQ_LTinyFinBaseJ_1_ctrl/JRQ_LTinyFinJ_1_sd/JRQ_LTinyFinJ_1_ctrl/JRQ_LTinyFinJ_2_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LTinyFinBaseJ_1_sd/JRQ_LTinyFinBaseJ_1_ctrl/JRQ_LTinyFinJ_1_sd/JRQ_LTinyFinJ_1_ctrl/JRQ_LTinyFinJ_2_sd/JRQ_LTinyFinJ_2_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LTinyFinBaseJ_1_sd/JRQ_LTinyFinBaseJ_1_ctrl/JRQ_LTinyFinJ_1_sd/JRQ_LTinyFinJ_1_ctrl/JRQ_LTinyFinJ_2_sd/JRQ_LTinyFinJ_2_ctrl/JRQ_LTinyFinJ_3_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LTinyFinBaseJ_1_sd/JRQ_LTinyFinBaseJ_1_ctrl/JRQ_LTinyFinJ_1_sd/JRQ_LTinyFinJ_1_ctrl/JRQ_LTinyFinJ_2_sd/JRQ_LTinyFinJ_2_ctrl/JRQ_LTinyFinJ_3_sd/JRQ_LTinyFinJ_3_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LTinyFinBaseJ_1_sd/JRQ_LTinyFinBaseJ_1_ctrl/JRQ_LTinyFinJ_1_sd/JRQ_LTinyFinJ_1_ctrl/JRQ_LTinyFinJ_2_sd/JRQ_LTinyFinJ_2_ctrl/JRQ_LTinyFinJ_3_sd/JRQ_LTinyFinJ_3_ctrl/JRQ_LTinyFinJ_4
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LWedFinBaseJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LWedFinBaseJ_1_sd/JRQ_LWedFinBaseJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LWedFinBaseJ_1_sd/JRQ_LWedFinBaseJ_1_ctrl/JRQ_LWedFinJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LWedFinBaseJ_1_sd/JRQ_LWedFinBaseJ_1_ctrl/JRQ_LWedFinJ_1_sd/JRQ_LWedFinJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LWedFinBaseJ_1_sd/JRQ_LWedFinBaseJ_1_ctrl/JRQ_LWedFinJ_1_sd/JRQ_LWedFinJ_1_ctrl/JRQ_LWedFinJ_2_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LWedFinBaseJ_1_sd/JRQ_LWedFinBaseJ_1_ctrl/JRQ_LWedFinJ_1_sd/JRQ_LWedFinJ_1_ctrl/JRQ_LWedFinJ_2_sd/JRQ_LWedFinJ_2_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LWedFinBaseJ_1_sd/JRQ_LWedFinBaseJ_1_ctrl/JRQ_LWedFinJ_1_sd/JRQ_LWedFinJ_1_ctrl/JRQ_LWedFinJ_2_sd/JRQ_LWedFinJ_2_ctrl/JRQ_LWedFinJ_3_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LWedFinBaseJ_1_sd/JRQ_LWedFinBaseJ_1_ctrl/JRQ_LWedFinJ_1_sd/JRQ_LWedFinJ_1_ctrl/JRQ_LWedFinJ_2_sd/JRQ_LWedFinJ_2_ctrl/JRQ_LWedFinJ_3_sd/JRQ_LWedFinJ_3_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/JRQ_LWedFinBaseJ_1_sd/JRQ_LWedFinBaseJ_1_ctrl/JRQ_LWedFinJ_1_sd/JRQ_LWedFinJ_1_ctrl/JRQ_LWedFinJ_2_sd/JRQ_LWedFinJ_2_ctrl/JRQ_LWedFinJ_3_sd/JRQ_LWedFinJ_3_ctrl/JRQ_LWedFinJ_4
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LMidFinBaseJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LMidFinBaseJ_1_sd/Zoic_LMidFinBaseJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LMidFinBaseJ_1_sd/Zoic_LMidFinBaseJ_1_ctrl/Zoic_LMidFinJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LMidFinBaseJ_1_sd/Zoic_LMidFinBaseJ_1_ctrl/Zoic_LMidFinJ_1_sd/Zoic_LMidFinJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LMidFinBaseJ_1_sd/Zoic_LMidFinBaseJ_1_ctrl/Zoic_LMidFinJ_1_sd/Zoic_LMidFinJ_1_ctrl/Zoic_LMidFinJ_2_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LMidFinBaseJ_1_sd/Zoic_LMidFinBaseJ_1_ctrl/Zoic_LMidFinJ_1_sd/Zoic_LMidFinJ_1_ctrl/Zoic_LMidFinJ_2_sd/Zoic_LMidFinJ_2_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LMidFinBaseJ_1_sd/Zoic_LMidFinBaseJ_1_ctrl/Zoic_LMidFinJ_1_sd/Zoic_LMidFinJ_1_ctrl/Zoic_LMidFinJ_2_sd/Zoic_LMidFinJ_2_ctrl/Zoic_LMidFinJ_3_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LMidFinBaseJ_1_sd/Zoic_LMidFinBaseJ_1_ctrl/Zoic_LMidFinJ_1_sd/Zoic_LMidFinJ_1_ctrl/Zoic_LMidFinJ_2_sd/Zoic_LMidFinJ_2_ctrl/Zoic_LMidFinJ_3_sd/Zoic_LMidFinJ_3_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LMidFinBaseJ_1_sd/Zoic_LMidFinBaseJ_1_ctrl/Zoic_LMidFinJ_1_sd/Zoic_LMidFinJ_1_ctrl/Zoic_LMidFinJ_2_sd/Zoic_LMidFinJ_2_ctrl/Zoic_LMidFinJ_3_sd/Zoic_LMidFinJ_3_ctrl/Zoic_LMidFinJ_4
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LPointyFinBaseJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LPointyFinBaseJ_1_sd/Zoic_LPointyFinBaseJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LPointyFinBaseJ_1_sd/Zoic_LPointyFinBaseJ_1_ctrl/Zoic_LPointyFinJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LPointyFinBaseJ_1_sd/Zoic_LPointyFinBaseJ_1_ctrl/Zoic_LPointyFinJ_1_sd/Zoic_LPointyFinJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LPointyFinBaseJ_1_sd/Zoic_LPointyFinBaseJ_1_ctrl/Zoic_LPointyFinJ_1_sd/Zoic_LPointyFinJ_1_ctrl/Zoic_LPointyFinJ_2_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LPointyFinBaseJ_1_sd/Zoic_LPointyFinBaseJ_1_ctrl/Zoic_LPointyFinJ_1_sd/Zoic_LPointyFinJ_1_ctrl/Zoic_LPointyFinJ_2_sd/Zoic_LPointyFinJ_2_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LPointyFinBaseJ_1_sd/Zoic_LPointyFinBaseJ_1_ctrl/Zoic_LPointyFinJ_1_sd/Zoic_LPointyFinJ_1_ctrl/Zoic_LPointyFinJ_2_sd/Zoic_LPointyFinJ_2_ctrl/Zoic_LPointyFinJ_3_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LPointyFinBaseJ_1_sd/Zoic_LPointyFinBaseJ_1_ctrl/Zoic_LPointyFinJ_1_sd/Zoic_LPointyFinJ_1_ctrl/Zoic_LPointyFinJ_2_sd/Zoic_LPointyFinJ_2_ctrl/Zoic_LPointyFinJ_3_sd/Zoic_LPointyFinJ_3_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LPointyFinBaseJ_1_sd/Zoic_LPointyFinBaseJ_1_ctrl/Zoic_LPointyFinJ_1_sd/Zoic_LPointyFinJ_1_ctrl/Zoic_LPointyFinJ_2_sd/Zoic_LPointyFinJ_2_ctrl/Zoic_LPointyFinJ_3_sd/Zoic_LPointyFinJ_3_ctrl/Zoic_LPointyFinJ_4
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LThumbBaseJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LThumbBaseJ_1_sd/Zoic_LThumbBaseJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LThumbBaseJ_1_sd/Zoic_LThumbBaseJ_1_ctrl/Zoic_LThumbJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LThumbBaseJ_1_sd/Zoic_LThumbBaseJ_1_ctrl/Zoic_LThumbJ_1_sd/Zoic_LThumbJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LThumbBaseJ_1_sd/Zoic_LThumbBaseJ_1_ctrl/Zoic_LThumbJ_1_sd/Zoic_LThumbJ_1_ctrl/Zoic_LThumbJ_2_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LThumbBaseJ_1_sd/Zoic_LThumbBaseJ_1_ctrl/Zoic_LThumbJ_1_sd/Zoic_LThumbJ_1_ctrl/Zoic_LThumbJ_2_sd/Zoic_LThumbJ_2_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LThumbBaseJ_1_sd/Zoic_LThumbBaseJ_1_ctrl/Zoic_LThumbJ_1_sd/Zoic_LThumbJ_1_ctrl/Zoic_LThumbJ_2_sd/Zoic_LThumbJ_2_ctrl/Zoic_LThumbJ_3
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LTinyFinBaseJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LTinyFinBaseJ_1_sd/Zoic_LTinyFinBaseJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LTinyFinBaseJ_1_sd/Zoic_LTinyFinBaseJ_1_ctrl/Zoic_LTinyFinJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LTinyFinBaseJ_1_sd/Zoic_LTinyFinBaseJ_1_ctrl/Zoic_LTinyFinJ_1_sd/Zoic_LTinyFinJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LTinyFinBaseJ_1_sd/Zoic_LTinyFinBaseJ_1_ctrl/Zoic_LTinyFinJ_1_sd/Zoic_LTinyFinJ_1_ctrl/Zoic_LTinyFinJ_2_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LTinyFinBaseJ_1_sd/Zoic_LTinyFinBaseJ_1_ctrl/Zoic_LTinyFinJ_1_sd/Zoic_LTinyFinJ_1_ctrl/Zoic_LTinyFinJ_2_sd/Zoic_LTinyFinJ_2_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LTinyFinBaseJ_1_sd/Zoic_LTinyFinBaseJ_1_ctrl/Zoic_LTinyFinJ_1_sd/Zoic_LTinyFinJ_1_ctrl/Zoic_LTinyFinJ_2_sd/Zoic_LTinyFinJ_2_ctrl/Zoic_LTinyFinJ_3_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LTinyFinBaseJ_1_sd/Zoic_LTinyFinBaseJ_1_ctrl/Zoic_LTinyFinJ_1_sd/Zoic_LTinyFinJ_1_ctrl/Zoic_LTinyFinJ_2_sd/Zoic_LTinyFinJ_2_ctrl/Zoic_LTinyFinJ_3_sd/Zoic_LTinyFinJ_3_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LTinyFinBaseJ_1_sd/Zoic_LTinyFinBaseJ_1_ctrl/Zoic_LTinyFinJ_1_sd/Zoic_LTinyFinJ_1_ctrl/Zoic_LTinyFinJ_2_sd/Zoic_LTinyFinJ_2_ctrl/Zoic_LTinyFinJ_3_sd/Zoic_LTinyFinJ_3_ctrl/Zoic_LTinyFinJ_4
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LWedFinBaseJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LWedFinBaseJ_1_sd/Zoic_LWedFinBaseJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LWedFinBaseJ_1_sd/Zoic_LWedFinBaseJ_1_ctrl/Zoic_LWedFinJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LWedFinBaseJ_1_sd/Zoic_LWedFinBaseJ_1_ctrl/Zoic_LWedFinJ_1_sd/Zoic_LWedFinJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LWedFinBaseJ_1_sd/Zoic_LWedFinBaseJ_1_ctrl/Zoic_LWedFinJ_1_sd/Zoic_LWedFinJ_1_ctrl/Zoic_LWedFinJ_2_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LWedFinBaseJ_1_sd/Zoic_LWedFinBaseJ_1_ctrl/Zoic_LWedFinJ_1_sd/Zoic_LWedFinJ_1_ctrl/Zoic_LWedFinJ_2_sd/Zoic_LWedFinJ_2_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LWedFinBaseJ_1_sd/Zoic_LWedFinBaseJ_1_ctrl/Zoic_LWedFinJ_1_sd/Zoic_LWedFinJ_1_ctrl/Zoic_LWedFinJ_2_sd/Zoic_LWedFinJ_2_ctrl/Zoic_LWedFinJ_3_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LWedFinBaseJ_1_sd/Zoic_LWedFinBaseJ_1_ctrl/Zoic_LWedFinJ_1_sd/Zoic_LWedFinJ_1_ctrl/Zoic_LWedFinJ_2_sd/Zoic_LWedFinJ_2_ctrl/Zoic_LWedFinJ_3_sd/Zoic_LWedFinJ_3_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_LShoulderPlateJ_1/Zoic_LShoulderJ_1/Zoic_LForeArmJ_1/Zoic_LForeArmJ_2/Zoic_LWristJ_1/Zoic_LWristJ_1_ctrl/Zoic_LWedFinBaseJ_1_sd/Zoic_LWedFinBaseJ_1_ctrl/Zoic_LWedFinJ_1_sd/Zoic_LWedFinJ_1_ctrl/Zoic_LWedFinJ_2_sd/Zoic_LWedFinJ_2_ctrl/Zoic_LWedFinJ_3_sd/Zoic_LWedFinJ_3_ctrl/Zoic_LWedFinJ_4
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_NeckJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_NeckJ_1/Zoic_NeckJ_2
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_NeckJ_1/Zoic_NeckJ_2/Zoic_HeadJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_NeckJ_1/Zoic_NeckJ_2/Zoic_HeadJ_1/Zoic_HeadJ_2
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_NeckJ_1/Zoic_NeckJ_2/Zoic_HeadJ_1/Zoic_NoseJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RMidFinBaseJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RMidFinBaseJ_1_sd/JRQ_RMidFinBaseJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RMidFinBaseJ_1_sd/JRQ_RMidFinBaseJ_1_ctrl/JRQ_RMidFinJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RMidFinBaseJ_1_sd/JRQ_RMidFinBaseJ_1_ctrl/JRQ_RMidFinJ_1_sd/JRQ_RMidFinJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RMidFinBaseJ_1_sd/JRQ_RMidFinBaseJ_1_ctrl/JRQ_RMidFinJ_1_sd/JRQ_RMidFinJ_1_ctrl/JRQ_RMidFinJ_2_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RMidFinBaseJ_1_sd/JRQ_RMidFinBaseJ_1_ctrl/JRQ_RMidFinJ_1_sd/JRQ_RMidFinJ_1_ctrl/JRQ_RMidFinJ_2_sd/JRQ_RMidFinJ_2_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RMidFinBaseJ_1_sd/JRQ_RMidFinBaseJ_1_ctrl/JRQ_RMidFinJ_1_sd/JRQ_RMidFinJ_1_ctrl/JRQ_RMidFinJ_2_sd/JRQ_RMidFinJ_2_ctrl/JRQ_RMidFinJ_3_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RMidFinBaseJ_1_sd/JRQ_RMidFinBaseJ_1_ctrl/JRQ_RMidFinJ_1_sd/JRQ_RMidFinJ_1_ctrl/JRQ_RMidFinJ_2_sd/JRQ_RMidFinJ_2_ctrl/JRQ_RMidFinJ_3_sd/JRQ_RMidFinJ_3_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RMidFinBaseJ_1_sd/JRQ_RMidFinBaseJ_1_ctrl/JRQ_RMidFinJ_1_sd/JRQ_RMidFinJ_1_ctrl/JRQ_RMidFinJ_2_sd/JRQ_RMidFinJ_2_ctrl/JRQ_RMidFinJ_3_sd/JRQ_RMidFinJ_3_ctrl/JRQ_RMidFinJ_4
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RPointyFinBaseJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RPointyFinBaseJ_1_sd/JRQ_RPointyFinBaseJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RPointyFinBaseJ_1_sd/JRQ_RPointyFinBaseJ_1_ctrl/JRQ_RPointyFinJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RPointyFinBaseJ_1_sd/JRQ_RPointyFinBaseJ_1_ctrl/JRQ_RPointyFinJ_1_sd/JRQ_RPointyFinJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RPointyFinBaseJ_1_sd/JRQ_RPointyFinBaseJ_1_ctrl/JRQ_RPointyFinJ_1_sd/JRQ_RPointyFinJ_1_ctrl/JRQ_RPointyFinJ_2_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RPointyFinBaseJ_1_sd/JRQ_RPointyFinBaseJ_1_ctrl/JRQ_RPointyFinJ_1_sd/JRQ_RPointyFinJ_1_ctrl/JRQ_RPointyFinJ_2_sd/JRQ_RPointyFinJ_2_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RPointyFinBaseJ_1_sd/JRQ_RPointyFinBaseJ_1_ctrl/JRQ_RPointyFinJ_1_sd/JRQ_RPointyFinJ_1_ctrl/JRQ_RPointyFinJ_2_sd/JRQ_RPointyFinJ_2_ctrl/JRQ_RPointyFinJ_3_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RPointyFinBaseJ_1_sd/JRQ_RPointyFinBaseJ_1_ctrl/JRQ_RPointyFinJ_1_sd/JRQ_RPointyFinJ_1_ctrl/JRQ_RPointyFinJ_2_sd/JRQ_RPointyFinJ_2_ctrl/JRQ_RPointyFinJ_3_sd/JRQ_RPointyFinJ_3_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RPointyFinBaseJ_1_sd/JRQ_RPointyFinBaseJ_1_ctrl/JRQ_RPointyFinJ_1_sd/JRQ_RPointyFinJ_1_ctrl/JRQ_RPointyFinJ_2_sd/JRQ_RPointyFinJ_2_ctrl/JRQ_RPointyFinJ_3_sd/JRQ_RPointyFinJ_3_ctrl/JRQ_RPointyFinJ_4
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RThumbBaseJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RThumbBaseJ_1_sd/JRQ_RThumbBaseJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RThumbBaseJ_1_sd/JRQ_RThumbBaseJ_1_ctrl/JRQ_RThumbJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RThumbBaseJ_1_sd/JRQ_RThumbBaseJ_1_ctrl/JRQ_RThumbJ_1_sd/JRQ_RThumbJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RThumbBaseJ_1_sd/JRQ_RThumbBaseJ_1_ctrl/JRQ_RThumbJ_1_sd/JRQ_RThumbJ_1_ctrl/JRQ_RThumbJ_2_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RThumbBaseJ_1_sd/JRQ_RThumbBaseJ_1_ctrl/JRQ_RThumbJ_1_sd/JRQ_RThumbJ_1_ctrl/JRQ_RThumbJ_2_sd/JRQ_RThumbJ_2_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RThumbBaseJ_1_sd/JRQ_RThumbBaseJ_1_ctrl/JRQ_RThumbJ_1_sd/JRQ_RThumbJ_1_ctrl/JRQ_RThumbJ_2_sd/JRQ_RThumbJ_2_ctrl/JRQ_RThumbJ_3
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RTinyFinBaseJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RTinyFinBaseJ_1_sd/JRQ_RTinyFinBaseJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RTinyFinBaseJ_1_sd/JRQ_RTinyFinBaseJ_1_ctrl/JRQ_RTinyFinJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RTinyFinBaseJ_1_sd/JRQ_RTinyFinBaseJ_1_ctrl/JRQ_RTinyFinJ_1_sd/JRQ_RTinyFinJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RTinyFinBaseJ_1_sd/JRQ_RTinyFinBaseJ_1_ctrl/JRQ_RTinyFinJ_1_sd/JRQ_RTinyFinJ_1_ctrl/JRQ_RTinyFinJ_2_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RTinyFinBaseJ_1_sd/JRQ_RTinyFinBaseJ_1_ctrl/JRQ_RTinyFinJ_1_sd/JRQ_RTinyFinJ_1_ctrl/JRQ_RTinyFinJ_2_sd/JRQ_RTinyFinJ_2_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RTinyFinBaseJ_1_sd/JRQ_RTinyFinBaseJ_1_ctrl/JRQ_RTinyFinJ_1_sd/JRQ_RTinyFinJ_1_ctrl/JRQ_RTinyFinJ_2_sd/JRQ_RTinyFinJ_2_ctrl/JRQ_RTinyFinJ_3_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RTinyFinBaseJ_1_sd/JRQ_RTinyFinBaseJ_1_ctrl/JRQ_RTinyFinJ_1_sd/JRQ_RTinyFinJ_1_ctrl/JRQ_RTinyFinJ_2_sd/JRQ_RTinyFinJ_2_ctrl/JRQ_RTinyFinJ_3_sd/JRQ_RTinyFinJ_3_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RTinyFinBaseJ_1_sd/JRQ_RTinyFinBaseJ_1_ctrl/JRQ_RTinyFinJ_1_sd/JRQ_RTinyFinJ_1_ctrl/JRQ_RTinyFinJ_2_sd/JRQ_RTinyFinJ_2_ctrl/JRQ_RTinyFinJ_3_sd/JRQ_RTinyFinJ_3_ctrl/JRQ_RTinyFinJ_4
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RWedFinBaseJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RWedFinBaseJ_1_sd/JRQ_RWedFinBaseJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RWedFinBaseJ_1_sd/JRQ_RWedFinBaseJ_1_ctrl/JRQ_RWedFinJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RWedFinBaseJ_1_sd/JRQ_RWedFinBaseJ_1_ctrl/JRQ_RWedFinJ_1_sd/JRQ_RWedFinJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RWedFinBaseJ_1_sd/JRQ_RWedFinBaseJ_1_ctrl/JRQ_RWedFinJ_1_sd/JRQ_RWedFinJ_1_ctrl/JRQ_RWedFinJ_2_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RWedFinBaseJ_1_sd/JRQ_RWedFinBaseJ_1_ctrl/JRQ_RWedFinJ_1_sd/JRQ_RWedFinJ_1_ctrl/JRQ_RWedFinJ_2_sd/JRQ_RWedFinJ_2_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RWedFinBaseJ_1_sd/JRQ_RWedFinBaseJ_1_ctrl/JRQ_RWedFinJ_1_sd/JRQ_RWedFinJ_1_ctrl/JRQ_RWedFinJ_2_sd/JRQ_RWedFinJ_2_ctrl/JRQ_RWedFinJ_3_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RWedFinBaseJ_1_sd/JRQ_RWedFinBaseJ_1_ctrl/JRQ_RWedFinJ_1_sd/JRQ_RWedFinJ_1_ctrl/JRQ_RWedFinJ_2_sd/JRQ_RWedFinJ_2_ctrl/JRQ_RWedFinJ_3_sd/JRQ_RWedFinJ_3_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/JRQ_RWedFinBaseJ_1_sd/JRQ_RWedFinBaseJ_1_ctrl/JRQ_RWedFinJ_1_sd/JRQ_RWedFinJ_1_ctrl/JRQ_RWedFinJ_2_sd/JRQ_RWedFinJ_2_ctrl/JRQ_RWedFinJ_3_sd/JRQ_RWedFinJ_3_ctrl/JRQ_RWedFinJ_4
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RMidFinBaseJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RMidFinBaseJ_1_sd/Zoic_RMidFinBaseJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RMidFinBaseJ_1_sd/Zoic_RMidFinBaseJ_1_ctrl/Zoic_RMidFinJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RMidFinBaseJ_1_sd/Zoic_RMidFinBaseJ_1_ctrl/Zoic_RMidFinJ_1_sd/Zoic_RMidFinJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RMidFinBaseJ_1_sd/Zoic_RMidFinBaseJ_1_ctrl/Zoic_RMidFinJ_1_sd/Zoic_RMidFinJ_1_ctrl/Zoic_RMidFinJ_2_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RMidFinBaseJ_1_sd/Zoic_RMidFinBaseJ_1_ctrl/Zoic_RMidFinJ_1_sd/Zoic_RMidFinJ_1_ctrl/Zoic_RMidFinJ_2_sd/Zoic_RMidFinJ_2_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RMidFinBaseJ_1_sd/Zoic_RMidFinBaseJ_1_ctrl/Zoic_RMidFinJ_1_sd/Zoic_RMidFinJ_1_ctrl/Zoic_RMidFinJ_2_sd/Zoic_RMidFinJ_2_ctrl/Zoic_RMidFinJ_3_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RMidFinBaseJ_1_sd/Zoic_RMidFinBaseJ_1_ctrl/Zoic_RMidFinJ_1_sd/Zoic_RMidFinJ_1_ctrl/Zoic_RMidFinJ_2_sd/Zoic_RMidFinJ_2_ctrl/Zoic_RMidFinJ_3_sd/Zoic_RMidFinJ_3_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RMidFinBaseJ_1_sd/Zoic_RMidFinBaseJ_1_ctrl/Zoic_RMidFinJ_1_sd/Zoic_RMidFinJ_1_ctrl/Zoic_RMidFinJ_2_sd/Zoic_RMidFinJ_2_ctrl/Zoic_RMidFinJ_3_sd/Zoic_RMidFinJ_3_ctrl/Zoic_RMidFinJ_4
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RPointyFinBaseJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RPointyFinBaseJ_1_sd/Zoic_RPointyFinBaseJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RPointyFinBaseJ_1_sd/Zoic_RPointyFinBaseJ_1_ctrl/Zoic_RPointyFinJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RPointyFinBaseJ_1_sd/Zoic_RPointyFinBaseJ_1_ctrl/Zoic_RPointyFinJ_1_sd/Zoic_RPointyFinJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RPointyFinBaseJ_1_sd/Zoic_RPointyFinBaseJ_1_ctrl/Zoic_RPointyFinJ_1_sd/Zoic_RPointyFinJ_1_ctrl/Zoic_RPointyFinJ_2_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RPointyFinBaseJ_1_sd/Zoic_RPointyFinBaseJ_1_ctrl/Zoic_RPointyFinJ_1_sd/Zoic_RPointyFinJ_1_ctrl/Zoic_RPointyFinJ_2_sd/Zoic_RPointyFinJ_2_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RPointyFinBaseJ_1_sd/Zoic_RPointyFinBaseJ_1_ctrl/Zoic_RPointyFinJ_1_sd/Zoic_RPointyFinJ_1_ctrl/Zoic_RPointyFinJ_2_sd/Zoic_RPointyFinJ_2_ctrl/Zoic_RPointyFinJ_3_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RPointyFinBaseJ_1_sd/Zoic_RPointyFinBaseJ_1_ctrl/Zoic_RPointyFinJ_1_sd/Zoic_RPointyFinJ_1_ctrl/Zoic_RPointyFinJ_2_sd/Zoic_RPointyFinJ_2_ctrl/Zoic_RPointyFinJ_3_sd/Zoic_RPointyFinJ_3_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RPointyFinBaseJ_1_sd/Zoic_RPointyFinBaseJ_1_ctrl/Zoic_RPointyFinJ_1_sd/Zoic_RPointyFinJ_1_ctrl/Zoic_RPointyFinJ_2_sd/Zoic_RPointyFinJ_2_ctrl/Zoic_RPointyFinJ_3_sd/Zoic_RPointyFinJ_3_ctrl/Zoic_RPointyFinJ_4
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RThumbBaseJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RThumbBaseJ_1_sd/Zoic_RThumbBaseJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RThumbBaseJ_1_sd/Zoic_RThumbBaseJ_1_ctrl/Zoic_RThumbJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RThumbBaseJ_1_sd/Zoic_RThumbBaseJ_1_ctrl/Zoic_RThumbJ_1_sd/Zoic_RThumbJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RThumbBaseJ_1_sd/Zoic_RThumbBaseJ_1_ctrl/Zoic_RThumbJ_1_sd/Zoic_RThumbJ_1_ctrl/Zoic_RThumbJ_2_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RThumbBaseJ_1_sd/Zoic_RThumbBaseJ_1_ctrl/Zoic_RThumbJ_1_sd/Zoic_RThumbJ_1_ctrl/Zoic_RThumbJ_2_sd/Zoic_RThumbJ_2_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RThumbBaseJ_1_sd/Zoic_RThumbBaseJ_1_ctrl/Zoic_RThumbJ_1_sd/Zoic_RThumbJ_1_ctrl/Zoic_RThumbJ_2_sd/Zoic_RThumbJ_2_ctrl/Zoic_RThumbJ_3
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RTinyFinBaseJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RTinyFinBaseJ_1_sd/Zoic_RTinyFinBaseJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RTinyFinBaseJ_1_sd/Zoic_RTinyFinBaseJ_1_ctrl/Zoic_RTinyFinJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RTinyFinBaseJ_1_sd/Zoic_RTinyFinBaseJ_1_ctrl/Zoic_RTinyFinJ_1_sd/Zoic_RTinyFinJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RTinyFinBaseJ_1_sd/Zoic_RTinyFinBaseJ_1_ctrl/Zoic_RTinyFinJ_1_sd/Zoic_RTinyFinJ_1_ctrl/Zoic_RTinyFinJ_2_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RTinyFinBaseJ_1_sd/Zoic_RTinyFinBaseJ_1_ctrl/Zoic_RTinyFinJ_1_sd/Zoic_RTinyFinJ_1_ctrl/Zoic_RTinyFinJ_2_sd/Zoic_RTinyFinJ_2_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RTinyFinBaseJ_1_sd/Zoic_RTinyFinBaseJ_1_ctrl/Zoic_RTinyFinJ_1_sd/Zoic_RTinyFinJ_1_ctrl/Zoic_RTinyFinJ_2_sd/Zoic_RTinyFinJ_2_ctrl/Zoic_RTinyFinJ_3_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RTinyFinBaseJ_1_sd/Zoic_RTinyFinBaseJ_1_ctrl/Zoic_RTinyFinJ_1_sd/Zoic_RTinyFinJ_1_ctrl/Zoic_RTinyFinJ_2_sd/Zoic_RTinyFinJ_2_ctrl/Zoic_RTinyFinJ_3_sd/Zoic_RTinyFinJ_3_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RTinyFinBaseJ_1_sd/Zoic_RTinyFinBaseJ_1_ctrl/Zoic_RTinyFinJ_1_sd/Zoic_RTinyFinJ_1_ctrl/Zoic_RTinyFinJ_2_sd/Zoic_RTinyFinJ_2_ctrl/Zoic_RTinyFinJ_3_sd/Zoic_RTinyFinJ_3_ctrl/Zoic_RTinyFinJ_4
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RWedFinBaseJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RWedFinBaseJ_1_sd/Zoic_RWedFinBaseJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RWedFinBaseJ_1_sd/Zoic_RWedFinBaseJ_1_ctrl/Zoic_RWedFinJ_1_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RWedFinBaseJ_1_sd/Zoic_RWedFinBaseJ_1_ctrl/Zoic_RWedFinJ_1_sd/Zoic_RWedFinJ_1_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RWedFinBaseJ_1_sd/Zoic_RWedFinBaseJ_1_ctrl/Zoic_RWedFinJ_1_sd/Zoic_RWedFinJ_1_ctrl/Zoic_RWedFinJ_2_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RWedFinBaseJ_1_sd/Zoic_RWedFinBaseJ_1_ctrl/Zoic_RWedFinJ_1_sd/Zoic_RWedFinJ_1_ctrl/Zoic_RWedFinJ_2_sd/Zoic_RWedFinJ_2_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RWedFinBaseJ_1_sd/Zoic_RWedFinBaseJ_1_ctrl/Zoic_RWedFinJ_1_sd/Zoic_RWedFinJ_1_ctrl/Zoic_RWedFinJ_2_sd/Zoic_RWedFinJ_2_ctrl/Zoic_RWedFinJ_3_sd
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RWedFinBaseJ_1_sd/Zoic_RWedFinBaseJ_1_ctrl/Zoic_RWedFinJ_1_sd/Zoic_RWedFinJ_1_ctrl/Zoic_RWedFinJ_2_sd/Zoic_RWedFinJ_2_ctrl/Zoic_RWedFinJ_3_sd/Zoic_RWedFinJ_3_ctrl
+        weight: 1
+      - path: Zoic_SpineJ_1/Zoic_SpineJ_2/Zoic_SpineJ_3/Zoic_SpineJ_4/Zoic_SpineJ_5/Zoic_SpineJ_6/Zoic_SpineJ_7/Zoic_SpineJ_8/Zoic_RShoulderPlateJ_1/Zoic_RShoulderJ_1/Zoic_RForeArmJ_1/Zoic_RForeArmJ_2/Zoic_RWristJ_1/Zoic_RWristJ_1_ctrl/Zoic_RWedFinBaseJ_1_sd/Zoic_RWedFinBaseJ_1_ctrl/Zoic_RWedFinJ_1_sd/Zoic_RWedFinJ_1_ctrl/Zoic_RWedFinJ_2_sd/Zoic_RWedFinJ_2_ctrl/Zoic_RWedFinJ_3_sd/Zoic_RWedFinJ_3_ctrl/Zoic_RWedFinJ_4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

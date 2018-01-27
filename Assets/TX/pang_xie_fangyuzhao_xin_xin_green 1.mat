@@ -1,0 +1,466 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: pang_xie_fangyuzhao_xin_xin_green 1
+  m_Shader: {fileID: 4800000, guid: 88b9c4e172fd77645a8218125b1a36a2, type: 3}
+  m_ShaderKeywords: _EMISSION
+  m_LightmapFlags: 1
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DetailAlbedoMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DetailMask
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DetailNormalMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _EmissionMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MetallicGlossMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _OcclusionMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _ParallaxMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_1659
+      second:
+        m_Texture: {fileID: 2800000, guid: 5cf64831043beb0468788dea6118f127, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_1803
+      second:
+        m_Texture: {fileID: 2800000, guid: 6dbaf01d53f4f3c4ba2f59236964233c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_1979
+      second:
+        m_Texture: {fileID: 2800000, guid: 442da010fe07f8d47961c3e97be9b8b3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_1999
+      second:
+        m_Texture: {fileID: 2800000, guid: e8101847673c8eb459928172d10510cb, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_2611
+      second:
+        m_Texture: {fileID: 2800000, guid: f1bd461e5cb2c4048957e49dd9816413, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_2611_copy
+      second:
+        m_Texture: {fileID: 2800000, guid: f1bd461e5cb2c4048957e49dd9816413, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_2792
+      second:
+        m_Texture: {fileID: 2800000, guid: 34013f7e978071c48b84d0d683559b27, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_2969
+      second:
+        m_Texture: {fileID: 2800000, guid: 1a2a58a64f053764ebf96a0e6db6cc3d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_3672
+      second:
+        m_Texture: {fileID: 2800000, guid: 34013f7e978071c48b84d0d683559b27, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_3958
+      second:
+        m_Texture: {fileID: 2800000, guid: 465c6dcb823f95c4e81ffccaabab2891, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_4469
+      second:
+        m_Texture: {fileID: 2800000, guid: 7c62d0493949c19448ca1acf3fbc3906, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_5645
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_5652
+      second:
+        m_Texture: {fileID: 2800000, guid: 1205e4ac47e1cd046b8bd28e7821f322, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_5735
+      second:
+        m_Texture: {fileID: 2800000, guid: 989cf4d52fd74ff4ab249b6c23336d48, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_5792_copy
+      second:
+        m_Texture: {fileID: 2800000, guid: 4205e88b563c28d45b64d6f31617883b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_6153
+      second:
+        m_Texture: {fileID: 2800000, guid: d06ddd0e9ec3f9e459b53989e1ab5b96, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_6204
+      second:
+        m_Texture: {fileID: 2800000, guid: 1e2c204218a548d4793bc987d38280bf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_633
+      second:
+        m_Texture: {fileID: 2800000, guid: b54a0e445d087ad45bdbd54693907805, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_6531
+      second:
+        m_Texture: {fileID: 2800000, guid: 6a17be88183fe0142b337db1398c51f7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_6696
+      second:
+        m_Texture: {fileID: 2800000, guid: 13a779baa4e09e645a99e4a3520e280a, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_6696_copy
+      second:
+        m_Texture: {fileID: 2800000, guid: e8101847673c8eb459928172d10510cb, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_6696_copy_copy
+      second:
+        m_Texture: {fileID: 2800000, guid: e8101847673c8eb459928172d10510cb, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_6696_copy_copy_copy
+      second:
+        m_Texture: {fileID: 2800000, guid: e8101847673c8eb459928172d10510cb, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_679
+      second:
+        m_Texture: {fileID: 2800000, guid: 065307793b7a9aa44bc5e16171f14a89, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_7343
+      second:
+        m_Texture: {fileID: 2800000, guid: 465c6dcb823f95c4e81ffccaabab2891, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_7420
+      second:
+        m_Texture: {fileID: 2800000, guid: e8101847673c8eb459928172d10510cb, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 2, y: 0}
+    - first:
+        name: _node_7420_copy
+      second:
+        m_Texture: {fileID: 2800000, guid: e8101847673c8eb459928172d10510cb, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_7420_copy_copy
+      second:
+        m_Texture: {fileID: 2800000, guid: 13a779baa4e09e645a99e4a3520e280a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_7420_copy_copy_copy
+      second:
+        m_Texture: {fileID: 2800000, guid: e8101847673c8eb459928172d10510cb, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_7490
+      second:
+        m_Texture: {fileID: 2800000, guid: 1205e4ac47e1cd046b8bd28e7821f322, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_7829
+      second:
+        m_Texture: {fileID: 2800000, guid: 02e2fcc2d160a2a4f80496e31abce764, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_7894
+      second:
+        m_Texture: {fileID: 2800000, guid: 1a2a58a64f053764ebf96a0e6db6cc3d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_8009
+      second:
+        m_Texture: {fileID: 2800000, guid: c8fe59af76d0dd742af3b030aab37574, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_8009_copy
+      second:
+        m_Texture: {fileID: 2800000, guid: 6e02ce2980f540345b334dcd0526f953, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_8034
+      second:
+        m_Texture: {fileID: 2800000, guid: 30fd562ecf822dc459cc95a43493b990, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_8218
+      second:
+        m_Texture: {fileID: 2800000, guid: 580ce54ef19e1124facfff65706d5731, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_8235
+      second:
+        m_Texture: {fileID: 2800000, guid: f11075473e515984984ddc34e81601a6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_8334
+      second:
+        m_Texture: {fileID: 2800000, guid: 31bff6b5a62e8684599b205483451c1b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_835
+      second:
+        m_Texture: {fileID: 2800000, guid: 714b292a136627f4bb8119356cbb626d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_8463
+      second:
+        m_Texture: {fileID: 2800000, guid: 065307793b7a9aa44bc5e16171f14a89, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_9157
+      second:
+        m_Texture: {fileID: 2800000, guid: c8fe59af76d0dd742af3b030aab37574, type: 3}
+        m_Scale: {x: 3, y: 3}
+        m_Offset: {x: 1, y: 1}
+    - first:
+        name: _node_9925
+      second:
+        m_Texture: {fileID: 2800000, guid: b7e66fbca4a395146a7a29ca8849d390, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _BumpScale
+      second: 1
+    - first:
+        name: _Cutoff
+      second: 0.5
+    - first:
+        name: _DetailNormalMapScale
+      second: 1
+    - first:
+        name: _DstBlend
+      second: 0
+    - first:
+        name: _GlossMapScale
+      second: 1
+    - first:
+        name: _Glossiness
+      second: 0.5
+    - first:
+        name: _GlossyReflections
+      second: 1
+    - first:
+        name: _Metallic
+      second: 0
+    - first:
+        name: _Mode
+      second: 0
+    - first:
+        name: _OcclusionStrength
+      second: 1
+    - first:
+        name: _Parallax
+      second: 0.02
+    - first:
+        name: _SmoothnessTextureChannel
+      second: 0
+    - first:
+        name: _SpecularHighlights
+      second: 1
+    - first:
+        name: _SrcBlend
+      second: 1
+    - first:
+        name: _UVSec
+      second: 0
+    - first:
+        name: _ZWrite
+      second: 1
+    - first:
+        name: _node_1519
+      second: 0.4581654
+    - first:
+        name: _node_2380
+      second: 3.247863
+    - first:
+        name: _node_3081
+      second: 7.66
+    - first:
+        name: _node_3417
+      second: 1.48
+    - first:
+        name: _node_3528
+      second: 5
+    - first:
+        name: _node_3534
+      second: -0.1561905
+    - first:
+        name: _node_3803
+      second: 0
+    - first:
+        name: _node_4093
+      second: 1.034988
+    - first:
+        name: _node_413
+      second: 1
+    - first:
+        name: _node_4131
+      second: 1.14
+    - first:
+        name: _node_4369
+      second: 2.75
+    - first:
+        name: _node_4850
+      second: 1.16
+    - first:
+        name: _node_5475
+      second: 4.21
+    - first:
+        name: _node_5968
+      second: 0.06
+    - first:
+        name: _node_6989
+      second: 1.922167
+    - first:
+        name: _node_7091
+      second: 3
+    - first:
+        name: _node_745
+      second: 0.7419262
+    - first:
+        name: _node_7678
+      second: 0.8
+    - first:
+        name: _node_7718
+      second: 20
+    - first:
+        name: _node_8237
+      second: 10
+    - first:
+        name: _node_9176
+      second: 3.794872
+    - first:
+        name: _node_925
+      second: 0
+    - first:
+        name: _node_9412
+      second: 0
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _EmissionColor
+      second: {r: 0, g: 0, b: 0, a: 1}
+    - first:
+        name: _node_3745
+      second: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - first:
+        name: _node_6605
+      second: {r: 1, g: 0.06206899, b: 0, a: 1}
+    - first:
+        name: _node_7903
+      second: {r: 1, g: 0, b: 0, a: 1}
+    - first:
+        name: _node_8219
+      second: {r: 0, g: 1, b: 0.37931037, a: 1}
+    - first:
+        name: _node_8581
+      second: {r: 0, g: 0.625, b: 0.31465533, a: 1}
+    - first:
+        name: _node_8775
+      second: {r: 0.5, g: 0.5, b: 0.5, a: 1}

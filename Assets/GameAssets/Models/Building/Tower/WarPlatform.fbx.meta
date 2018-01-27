@@ -1,0 +1,758 @@
+fileFormatVersion: 2
+guid: a6252bf23f39ba74aadc7e72a67c9ba4
+timeCreated: 1513591226
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: WarPlatform_A
+    100004: WarPlatform_B
+    100006: WarPlatform_C
+    100008: WarPlatform_C10_1
+    100010: WarPlatform_C10_2
+    100012: WarPlatform_C10_3
+    100014: WarPlatform_C11_1
+    100016: WarPlatform_C11_2
+    100018: WarPlatform_C11_3
+    100020: WarPlatform_C12_1
+    100022: WarPlatform_C12_2
+    100024: WarPlatform_C12_3
+    100026: WarPlatform_C13_1
+    100028: WarPlatform_C13_2
+    100030: WarPlatform_C13_3
+    100032: WarPlatform_C14_1
+    100034: WarPlatform_C14_2
+    100036: WarPlatform_C14_3
+    100038: WarPlatform_C15_1
+    100040: WarPlatform_C15_2
+    100042: WarPlatform_C15_3
+    100044: WarPlatform_C16_1
+    100046: WarPlatform_C16_2
+    100048: WarPlatform_C16_3
+    100050: WarPlatform_C17_1
+    100052: WarPlatform_C17_2
+    100054: WarPlatform_C17_3
+    100056: WarPlatform_C18_1
+    100058: WarPlatform_C18_2
+    100060: WarPlatform_C18_3
+    100062: WarPlatform_C19_1
+    100064: WarPlatform_C19_2
+    100066: WarPlatform_C19_3
+    100068: WarPlatform_C1_1
+    100070: WarPlatform_C1_2
+    100072: WarPlatform_C1_3
+    100074: WarPlatform_C20_1
+    100076: WarPlatform_C20_2
+    100078: WarPlatform_C20_3
+    100080: WarPlatform_C2_1
+    100082: WarPlatform_C2_2
+    100084: WarPlatform_C2_3
+    100086: WarPlatform_C3_1
+    100088: WarPlatform_C3_2
+    100090: WarPlatform_C3_3
+    100092: WarPlatform_C4_1
+    100094: WarPlatform_C4_2
+    100096: WarPlatform_C4_3
+    100098: WarPlatform_C5_1
+    100100: WarPlatform_C5_2
+    100102: WarPlatform_C5_3
+    100104: WarPlatform_C6_1
+    100106: WarPlatform_C6_2
+    100108: WarPlatform_C6_3
+    100110: WarPlatform_C7_1
+    100112: WarPlatform_C7_2
+    100114: WarPlatform_C7_3
+    100116: WarPlatform_C8_1
+    100118: WarPlatform_C8_2
+    100120: WarPlatform_C8_3
+    100122: WarPlatform_C9_1
+    100124: WarPlatform_C9_2
+    100126: WarPlatform_C9_3
+    100128: WarPlatform_D
+    100130: WarPlatform_D1
+    100132: WarPlatform_D2
+    100134: WarPlatform_D3
+    100136: WarPlatform_D4
+    100138: WarPlatform_D_Broken
+    400000: //RootNode
+    400002: WarPlatform_A
+    400004: WarPlatform_B
+    400006: WarPlatform_C
+    400008: WarPlatform_C10_1
+    400010: WarPlatform_C10_2
+    400012: WarPlatform_C10_3
+    400014: WarPlatform_C11_1
+    400016: WarPlatform_C11_2
+    400018: WarPlatform_C11_3
+    400020: WarPlatform_C12_1
+    400022: WarPlatform_C12_2
+    400024: WarPlatform_C12_3
+    400026: WarPlatform_C13_1
+    400028: WarPlatform_C13_2
+    400030: WarPlatform_C13_3
+    400032: WarPlatform_C14_1
+    400034: WarPlatform_C14_2
+    400036: WarPlatform_C14_3
+    400038: WarPlatform_C15_1
+    400040: WarPlatform_C15_2
+    400042: WarPlatform_C15_3
+    400044: WarPlatform_C16_1
+    400046: WarPlatform_C16_2
+    400048: WarPlatform_C16_3
+    400050: WarPlatform_C17_1
+    400052: WarPlatform_C17_2
+    400054: WarPlatform_C17_3
+    400056: WarPlatform_C18_1
+    400058: WarPlatform_C18_2
+    400060: WarPlatform_C18_3
+    400062: WarPlatform_C19_1
+    400064: WarPlatform_C19_2
+    400066: WarPlatform_C19_3
+    400068: WarPlatform_C1_1
+    400070: WarPlatform_C1_2
+    400072: WarPlatform_C1_3
+    400074: WarPlatform_C20_1
+    400076: WarPlatform_C20_2
+    400078: WarPlatform_C20_3
+    400080: WarPlatform_C2_1
+    400082: WarPlatform_C2_2
+    400084: WarPlatform_C2_3
+    400086: WarPlatform_C3_1
+    400088: WarPlatform_C3_2
+    400090: WarPlatform_C3_3
+    400092: WarPlatform_C4_1
+    400094: WarPlatform_C4_2
+    400096: WarPlatform_C4_3
+    400098: WarPlatform_C5_1
+    400100: WarPlatform_C5_2
+    400102: WarPlatform_C5_3
+    400104: WarPlatform_C6_1
+    400106: WarPlatform_C6_2
+    400108: WarPlatform_C6_3
+    400110: WarPlatform_C7_1
+    400112: WarPlatform_C7_2
+    400114: WarPlatform_C7_3
+    400116: WarPlatform_C8_1
+    400118: WarPlatform_C8_2
+    400120: WarPlatform_C8_3
+    400122: WarPlatform_C9_1
+    400124: WarPlatform_C9_2
+    400126: WarPlatform_C9_3
+    400128: WarPlatform_D
+    400130: WarPlatform_D1
+    400132: WarPlatform_D2
+    400134: WarPlatform_D3
+    400136: WarPlatform_D4
+    400138: WarPlatform_D_Broken
+    2300000: WarPlatform_A
+    2300002: WarPlatform_B
+    2300004: WarPlatform_C10_1
+    2300006: WarPlatform_C10_2
+    2300008: WarPlatform_C10_3
+    2300010: WarPlatform_C11_1
+    2300012: WarPlatform_C11_2
+    2300014: WarPlatform_C11_3
+    2300016: WarPlatform_C12_1
+    2300018: WarPlatform_C12_2
+    2300020: WarPlatform_C12_3
+    2300022: WarPlatform_C13_1
+    2300024: WarPlatform_C13_2
+    2300026: WarPlatform_C13_3
+    2300028: WarPlatform_C14_1
+    2300030: WarPlatform_C14_2
+    2300032: WarPlatform_C14_3
+    2300034: WarPlatform_C15_1
+    2300036: WarPlatform_C15_2
+    2300038: WarPlatform_C15_3
+    2300040: WarPlatform_C16_1
+    2300042: WarPlatform_C16_2
+    2300044: WarPlatform_C16_3
+    2300046: WarPlatform_C17_1
+    2300048: WarPlatform_C17_2
+    2300050: WarPlatform_C17_3
+    2300052: WarPlatform_C18_1
+    2300054: WarPlatform_C18_2
+    2300056: WarPlatform_C18_3
+    2300058: WarPlatform_C19_1
+    2300060: WarPlatform_C19_2
+    2300062: WarPlatform_C19_3
+    2300064: WarPlatform_C1_1
+    2300066: WarPlatform_C1_2
+    2300068: WarPlatform_C1_3
+    2300070: WarPlatform_C20_1
+    2300072: WarPlatform_C20_2
+    2300074: WarPlatform_C20_3
+    2300076: WarPlatform_C2_1
+    2300078: WarPlatform_C2_2
+    2300080: WarPlatform_C2_3
+    2300082: WarPlatform_C3_1
+    2300084: WarPlatform_C3_2
+    2300086: WarPlatform_C3_3
+    2300088: WarPlatform_C4_1
+    2300090: WarPlatform_C4_2
+    2300092: WarPlatform_C4_3
+    2300094: WarPlatform_C5_1
+    2300096: WarPlatform_C5_2
+    2300098: WarPlatform_C5_3
+    2300100: WarPlatform_C6_1
+    2300102: WarPlatform_C6_2
+    2300104: WarPlatform_C6_3
+    2300106: WarPlatform_C7_1
+    2300108: WarPlatform_C7_2
+    2300110: WarPlatform_C7_3
+    2300112: WarPlatform_C8_1
+    2300114: WarPlatform_C8_2
+    2300116: WarPlatform_C8_3
+    2300118: WarPlatform_C9_1
+    2300120: WarPlatform_C9_2
+    2300122: WarPlatform_C9_3
+    2300124: WarPlatform_D
+    2300126: WarPlatform_D1
+    2300128: WarPlatform_D2
+    2300130: WarPlatform_D3
+    2300132: WarPlatform_D4
+    2300134: WarPlatform_D_Broken
+    3300000: WarPlatform_A
+    3300002: WarPlatform_B
+    3300004: WarPlatform_C10_1
+    3300006: WarPlatform_C10_2
+    3300008: WarPlatform_C10_3
+    3300010: WarPlatform_C11_1
+    3300012: WarPlatform_C11_2
+    3300014: WarPlatform_C11_3
+    3300016: WarPlatform_C12_1
+    3300018: WarPlatform_C12_2
+    3300020: WarPlatform_C12_3
+    3300022: WarPlatform_C13_1
+    3300024: WarPlatform_C13_2
+    3300026: WarPlatform_C13_3
+    3300028: WarPlatform_C14_1
+    3300030: WarPlatform_C14_2
+    3300032: WarPlatform_C14_3
+    3300034: WarPlatform_C15_1
+    3300036: WarPlatform_C15_2
+    3300038: WarPlatform_C15_3
+    3300040: WarPlatform_C16_1
+    3300042: WarPlatform_C16_2
+    3300044: WarPlatform_C16_3
+    3300046: WarPlatform_C17_1
+    3300048: WarPlatform_C17_2
+    3300050: WarPlatform_C17_3
+    3300052: WarPlatform_C18_1
+    3300054: WarPlatform_C18_2
+    3300056: WarPlatform_C18_3
+    3300058: WarPlatform_C19_1
+    3300060: WarPlatform_C19_2
+    3300062: WarPlatform_C19_3
+    3300064: WarPlatform_C1_1
+    3300066: WarPlatform_C1_2
+    3300068: WarPlatform_C1_3
+    3300070: WarPlatform_C20_1
+    3300072: WarPlatform_C20_2
+    3300074: WarPlatform_C20_3
+    3300076: WarPlatform_C2_1
+    3300078: WarPlatform_C2_2
+    3300080: WarPlatform_C2_3
+    3300082: WarPlatform_C3_1
+    3300084: WarPlatform_C3_2
+    3300086: WarPlatform_C3_3
+    3300088: WarPlatform_C4_1
+    3300090: WarPlatform_C4_2
+    3300092: WarPlatform_C4_3
+    3300094: WarPlatform_C5_1
+    3300096: WarPlatform_C5_2
+    3300098: WarPlatform_C5_3
+    3300100: WarPlatform_C6_1
+    3300102: WarPlatform_C6_2
+    3300104: WarPlatform_C6_3
+    3300106: WarPlatform_C7_1
+    3300108: WarPlatform_C7_2
+    3300110: WarPlatform_C7_3
+    3300112: WarPlatform_C8_1
+    3300114: WarPlatform_C8_2
+    3300116: WarPlatform_C8_3
+    3300118: WarPlatform_C9_1
+    3300120: WarPlatform_C9_2
+    3300122: WarPlatform_C9_3
+    3300124: WarPlatform_D
+    3300126: WarPlatform_D1
+    3300128: WarPlatform_D2
+    3300130: WarPlatform_D3
+    3300132: WarPlatform_D4
+    3300134: WarPlatform_D_Broken
+    4300000: WarPlatform_A
+    4300002: WarPlatform_B
+    4300004: WarPlatform_C1_1
+    4300006: WarPlatform_C1_2
+    4300008: WarPlatform_C1_3
+    4300010: WarPlatform_C2_1
+    4300012: WarPlatform_C2_2
+    4300014: WarPlatform_C2_3
+    4300016: WarPlatform_C3_1
+    4300018: WarPlatform_C3_2
+    4300020: WarPlatform_C3_3
+    4300022: WarPlatform_C4_1
+    4300024: WarPlatform_C4_2
+    4300026: WarPlatform_C4_3
+    4300028: WarPlatform_C5_1
+    4300030: WarPlatform_C5_2
+    4300032: WarPlatform_C5_3
+    4300034: WarPlatform_C6_1
+    4300036: WarPlatform_C6_2
+    4300038: WarPlatform_C6_3
+    4300040: WarPlatform_C7_1
+    4300042: WarPlatform_C7_2
+    4300044: WarPlatform_C7_3
+    4300046: WarPlatform_C8_1
+    4300048: WarPlatform_C8_2
+    4300050: WarPlatform_C8_3
+    4300052: WarPlatform_C9_1
+    4300054: WarPlatform_C9_2
+    4300056: WarPlatform_C9_3
+    4300058: WarPlatform_C10_1
+    4300060: WarPlatform_C10_2
+    4300062: WarPlatform_C10_3
+    4300064: WarPlatform_C11_1
+    4300066: WarPlatform_C11_2
+    4300068: WarPlatform_C11_3
+    4300070: WarPlatform_C12_1
+    4300072: WarPlatform_C12_2
+    4300074: WarPlatform_C12_3
+    4300076: WarPlatform_C13_1
+    4300078: WarPlatform_C13_2
+    4300080: WarPlatform_C13_3
+    4300082: WarPlatform_C14_1
+    4300084: WarPlatform_C14_2
+    4300086: WarPlatform_C14_3
+    4300088: WarPlatform_C15_1
+    4300090: WarPlatform_C15_2
+    4300092: WarPlatform_C15_3
+    4300094: WarPlatform_C16_1
+    4300096: WarPlatform_C16_2
+    4300098: WarPlatform_C16_3
+    4300100: WarPlatform_C17_1
+    4300102: WarPlatform_C17_2
+    4300104: WarPlatform_C17_3
+    4300106: WarPlatform_C18_1
+    4300108: WarPlatform_C18_2
+    4300110: WarPlatform_C18_3
+    4300112: WarPlatform_C19_1
+    4300114: WarPlatform_C19_2
+    4300116: WarPlatform_C19_3
+    4300118: WarPlatform_C20_1
+    4300120: WarPlatform_C20_2
+    4300122: WarPlatform_C20_3
+    4300124: WarPlatform_D
+    4300126: WarPlatform_D1
+    4300128: WarPlatform_D2
+    4300130: WarPlatform_D3
+    4300132: WarPlatform_D4
+    4300134: WarPlatform_D_Broken
+    7400000: Take 001
+    7400002: Take 001 (1)
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: WarPlatform_A
+        weight: 1
+      - path: WarPlatform_B
+        weight: 1
+      - path: WarPlatform_C
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C1_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C1_1/WarPlatform_C1_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C1_1/WarPlatform_C1_2/WarPlatform_C1_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C2_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C2_1/WarPlatform_C2_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C2_1/WarPlatform_C2_2/WarPlatform_C2_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C3_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C3_1/WarPlatform_C3_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C3_1/WarPlatform_C3_2/WarPlatform_C3_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C4_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C4_1/WarPlatform_C4_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C4_1/WarPlatform_C4_2/WarPlatform_C4_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C5_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C5_1/WarPlatform_C5_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C5_1/WarPlatform_C5_2/WarPlatform_C5_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C6_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C6_1/WarPlatform_C6_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C6_1/WarPlatform_C6_2/WarPlatform_C6_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C7_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C7_1/WarPlatform_C7_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C7_1/WarPlatform_C7_2/WarPlatform_C7_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C8_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C8_1/WarPlatform_C8_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C8_1/WarPlatform_C8_2/WarPlatform_C8_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C9_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C9_1/WarPlatform_C9_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C9_1/WarPlatform_C9_2/WarPlatform_C9_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C10_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C10_1/WarPlatform_C10_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C10_1/WarPlatform_C10_2/WarPlatform_C10_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C11_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C11_1/WarPlatform_C11_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C11_1/WarPlatform_C11_2/WarPlatform_C11_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C12_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C12_1/WarPlatform_C12_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C12_1/WarPlatform_C12_2/WarPlatform_C12_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C13_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C13_1/WarPlatform_C13_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C13_1/WarPlatform_C13_2/WarPlatform_C13_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C14_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C14_1/WarPlatform_C14_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C14_1/WarPlatform_C14_2/WarPlatform_C14_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C15_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C15_1/WarPlatform_C15_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C15_1/WarPlatform_C15_2/WarPlatform_C15_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C16_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C16_1/WarPlatform_C16_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C16_1/WarPlatform_C16_2/WarPlatform_C16_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C17_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C17_1/WarPlatform_C17_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C17_1/WarPlatform_C17_2/WarPlatform_C17_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C18_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C18_1/WarPlatform_C18_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C18_1/WarPlatform_C18_2/WarPlatform_C18_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C19_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C19_1/WarPlatform_C19_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C19_1/WarPlatform_C19_2/WarPlatform_C19_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C20_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C20_1/WarPlatform_C20_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C20_1/WarPlatform_C20_2/WarPlatform_C20_3
+        weight: 1
+      - path: WarPlatform_D
+        weight: 1
+      - path: WarPlatform_D/WarPlatform_D1
+        weight: 1
+      - path: WarPlatform_D/WarPlatform_D2
+        weight: 1
+      - path: WarPlatform_D/WarPlatform_D3
+        weight: 1
+      - path: WarPlatform_D/WarPlatform_D4
+        weight: 1
+      - path: WarPlatform_D_Broken
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 001 (1)
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 189.9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: WarPlatform_A
+        weight: 1
+      - path: WarPlatform_B
+        weight: 1
+      - path: WarPlatform_C
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C1_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C1_1/WarPlatform_C1_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C1_1/WarPlatform_C1_2/WarPlatform_C1_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C2_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C2_1/WarPlatform_C2_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C2_1/WarPlatform_C2_2/WarPlatform_C2_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C3_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C3_1/WarPlatform_C3_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C3_1/WarPlatform_C3_2/WarPlatform_C3_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C4_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C4_1/WarPlatform_C4_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C4_1/WarPlatform_C4_2/WarPlatform_C4_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C5_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C5_1/WarPlatform_C5_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C5_1/WarPlatform_C5_2/WarPlatform_C5_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C6_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C6_1/WarPlatform_C6_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C6_1/WarPlatform_C6_2/WarPlatform_C6_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C7_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C7_1/WarPlatform_C7_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C7_1/WarPlatform_C7_2/WarPlatform_C7_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C8_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C8_1/WarPlatform_C8_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C8_1/WarPlatform_C8_2/WarPlatform_C8_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C9_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C9_1/WarPlatform_C9_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C9_1/WarPlatform_C9_2/WarPlatform_C9_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C10_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C10_1/WarPlatform_C10_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C10_1/WarPlatform_C10_2/WarPlatform_C10_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C11_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C11_1/WarPlatform_C11_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C11_1/WarPlatform_C11_2/WarPlatform_C11_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C12_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C12_1/WarPlatform_C12_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C12_1/WarPlatform_C12_2/WarPlatform_C12_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C13_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C13_1/WarPlatform_C13_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C13_1/WarPlatform_C13_2/WarPlatform_C13_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C14_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C14_1/WarPlatform_C14_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C14_1/WarPlatform_C14_2/WarPlatform_C14_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C15_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C15_1/WarPlatform_C15_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C15_1/WarPlatform_C15_2/WarPlatform_C15_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C16_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C16_1/WarPlatform_C16_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C16_1/WarPlatform_C16_2/WarPlatform_C16_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C17_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C17_1/WarPlatform_C17_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C17_1/WarPlatform_C17_2/WarPlatform_C17_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C18_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C18_1/WarPlatform_C18_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C18_1/WarPlatform_C18_2/WarPlatform_C18_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C19_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C19_1/WarPlatform_C19_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C19_1/WarPlatform_C19_2/WarPlatform_C19_3
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C20_1
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C20_1/WarPlatform_C20_2
+        weight: 1
+      - path: WarPlatform_C/WarPlatform_C20_1/WarPlatform_C20_2/WarPlatform_C20_3
+        weight: 1
+      - path: WarPlatform_D
+        weight: 1
+      - path: WarPlatform_D/WarPlatform_D1
+        weight: 1
+      - path: WarPlatform_D/WarPlatform_D2
+        weight: 1
+      - path: WarPlatform_D/WarPlatform_D3
+        weight: 1
+      - path: WarPlatform_D/WarPlatform_D4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

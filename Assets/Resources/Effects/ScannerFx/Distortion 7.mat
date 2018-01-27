@@ -1,0 +1,313 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Distortion 7
+  m_Shader: {fileID: 4800000, guid: 2f5a003eac84cec4d898187f54668d1b, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BackTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 2800000, guid: c37411cf292726648869adaf40011007, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Diffuse
+      second:
+        m_Texture: {fileID: 2800000, guid: 66321cc856b03e245ac41ed8a53e0ecc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DownTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DuDvMap
+      second:
+        m_Texture: {fileID: 2800000, guid: a050fb9900353a44a926c2c869c117d1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _FalloffTex
+      second:
+        m_Texture: {fileID: 2800000, guid: c37411cf292726648869adaf40011007, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _FrontTex
+      second:
+        m_Texture: {fileID: 2800000, guid: ae47e45437e536740a8b663c8123f5ac, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _LeftTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: c37411cf292726648869adaf40011007, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Normal
+      second:
+        m_Texture: {fileID: 2800000, guid: c37411cf292726648869adaf40011007, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Normals
+      second:
+        m_Texture: {fileID: 2800000, guid: c6dfb00dbee6bc044a8a3bb22e56e064, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _RightTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Tex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _UpTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_1659
+      second:
+        m_Texture: {fileID: 2800000, guid: 5cf64831043beb0468788dea6118f127, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_2611
+      second:
+        m_Texture: {fileID: 2800000, guid: f1bd461e5cb2c4048957e49dd9816413, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_2611_copy
+      second:
+        m_Texture: {fileID: 2800000, guid: f1bd461e5cb2c4048957e49dd9816413, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_2792
+      second:
+        m_Texture: {fileID: 2800000, guid: 5507e251e7fe8bd4aba04b26406bdae2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_2969
+      second:
+        m_Texture: {fileID: 2800000, guid: 1a2a58a64f053764ebf96a0e6db6cc3d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_3672
+      second:
+        m_Texture: {fileID: 2800000, guid: 5507e251e7fe8bd4aba04b26406bdae2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_3958
+      second:
+        m_Texture: {fileID: 2800000, guid: 465c6dcb823f95c4e81ffccaabab2891, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_5792_copy
+      second:
+        m_Texture: {fileID: 2800000, guid: 4205e88b563c28d45b64d6f31617883b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_6531
+      second:
+        m_Texture: {fileID: 2800000, guid: 6a17be88183fe0142b337db1398c51f7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_679
+      second:
+        m_Texture: {fileID: 2800000, guid: 1a2a58a64f053764ebf96a0e6db6cc3d, type: 3}
+        m_Scale: {x: 3, y: 3}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_6907
+      second:
+        m_Texture: {fileID: 2800000, guid: 2353258821417ac40b759bcf4043f84c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_7784
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_7894
+      second:
+        m_Texture: {fileID: 2800000, guid: 1a2a58a64f053764ebf96a0e6db6cc3d, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_8218
+      second:
+        m_Texture: {fileID: 2800000, guid: 580ce54ef19e1124facfff65706d5731, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_8334
+      second:
+        m_Texture: {fileID: 2800000, guid: 714b292a136627f4bb8119356cbb626d, type: 3}
+        m_Scale: {x: 3, y: 3}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_835
+      second:
+        m_Texture: {fileID: 2800000, guid: 714b292a136627f4bb8119356cbb626d, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_8463
+      second:
+        m_Texture: {fileID: 2800000, guid: 714b292a136627f4bb8119356cbb626d, type: 3}
+        m_Scale: {x: 3, y: 3}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_9925
+      second:
+        m_Texture: {fileID: 2800000, guid: b7e66fbca4a395146a7a29ca8849d390, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Bands
+      second: 8
+    - first:
+        name: _BumpAmt
+      second: 100
+    - first:
+        name: _ColorStrength
+      second: 1
+    - first:
+        name: _Cutoff
+      second: 0.5
+    - first:
+        name: _Dist
+      second: 10
+    - first:
+        name: _Exposure
+      second: 1
+    - first:
+        name: _Gloss
+      second: 0.433
+    - first:
+        name: _HDRAmount
+      second: 1
+    - first:
+        name: _HoloAlpha
+      second: 0.6
+    - first:
+        name: _HoloLineAlpha
+      second: 0.5
+    - first:
+        name: _HoloLineRotation
+      second: 0
+    - first:
+        name: _HoloLineSeparation
+      second: 1
+    - first:
+        name: _HoloLineThickness
+      second: 2
+    - first:
+        name: _HoloNoise
+      second: 0.2
+    - first:
+        name: _HoloSpeed
+      second: 0.3
+    - first:
+        name: _InvFade
+      second: 1.26
+    - first:
+        name: _InvFade2
+      second: 0
+    - first:
+        name: _Rotation
+      second: 0
+    - first:
+        name: _node_3081
+      second: 1
+    - first:
+        name: _node_4093
+      second: 1.034988
+    - first:
+        name: _node_4131
+      second: 3.11
+    - first:
+        name: _node_4369
+      second: 0.18
+    - first:
+        name: _node_4850
+      second: 1
+    - first:
+        name: _node_5475
+      second: 3.06
+    - first:
+        name: _node_745
+      second: 0.7419262
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _Diffuse
+      second: {r: 0.9117647, g: 0.8760425, b: 0.8179066, a: 1}
+    - first:
+        name: _Direction
+      second: {r: 1, g: 1, b: -1, a: -1}
+    - first:
+        name: _HoloColor
+      second: {r: 0, g: 0.9586205, b: 1, a: 1}
+    - first:
+        name: _LightWrapping
+      second: {r: 0.9058824, g: 0.4941176, b: 0.4901961, a: 1}
+    - first:
+        name: _Tint
+      second: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+    - first:
+        name: _TintColor
+      second: {r: 1, g: 1, b: 1, a: 0.5}
+    - first:
+        name: _node_3745
+      second: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - first:
+        name: _node_8775
+      second: {r: 0.5, g: 0.5, b: 0.5, a: 1}

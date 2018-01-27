@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 4517a75ba187db7409f65cdd11905003
+timeCreated: 1466361584
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SOD_HeadJ_1
+    100004: SOD_HeadJ_2
+    100006: SOD_LAnkleJ_1
+    100008: SOD_LBendJ_1
+    100010: SOD_LForeArmJ_1
+    100012: SOD_LForeArmJ_2
+    100014: SOD_LHeelJ_1
+    100016: SOD_LKneeJ_1
+    100018: SOD_LKneeJ_2
+    100020: SOD_LMidFinBaseJ_1_ctrl
+    100022: SOD_LMidFinBaseJ_1_sd
+    100024: SOD_LMidFinJ_1_ctrl
+    100026: SOD_LMidFinJ_1_sd
+    100028: SOD_LMidFinJ_2_ctrl
+    100030: SOD_LMidFinJ_2_sd
+    100032: SOD_LMidFinJ_3_ctrl
+    100034: SOD_LMidFinJ_3_sd
+    100036: SOD_LMidFinJ_4
+    100038: SOD_LPointyFinBaseJ_1_ctrl
+    100040: SOD_LPointyFinBaseJ_1_sd
+    100042: SOD_LPointyFinJ_1_ctrl
+    100044: SOD_LPointyFinJ_1_sd
+    100046: SOD_LPointyFinJ_2_ctrl
+    100048: SOD_LPointyFinJ_2_sd
+    100050: SOD_LPointyFinJ_3_ctrl
+    100052: SOD_LPointyFinJ_3_sd
+    100054: SOD_LPointyFinJ_4
+    100056: SOD_LShoulderJ_1
+    100058: SOD_LShoulderPlateJ_1
+    100060: SOD_LThumbBaseJ_1_ctrl
+    100062: SOD_LThumbBaseJ_1_sd
+    100064: SOD_LThumbJ_1_ctrl
+    100066: SOD_LThumbJ_1_sd
+    100068: SOD_LThumbJ_2_ctrl
+    100070: SOD_LThumbJ_2_sd
+    100072: SOD_LThumbJ_3
+    100074: SOD_LTightJ_1
+    100076: SOD_LTinyFinBaseJ_1_ctrl
+    100078: SOD_LTinyFinBaseJ_1_sd
+    100080: SOD_LTinyFinJ_1_ctrl
+    100082: SOD_LTinyFinJ_1_sd
+    100084: SOD_LTinyFinJ_2_ctrl
+    100086: SOD_LTinyFinJ_2_sd
+    100088: SOD_LTinyFinJ_3_ctrl
+    100090: SOD_LTinyFinJ_3_sd
+    100092: SOD_LTinyFinJ_4
+    100094: SOD_LToesJ_1
+    100096: SOD_LWedFinBaseJ_1_ctrl
+    100098: SOD_LWedFinBaseJ_1_sd
+    100100: SOD_LWedFinJ_1_ctrl
+    100102: SOD_LWedFinJ_1_sd
+    100104: SOD_LWedFinJ_2_ctrl
+    100106: SOD_LWedFinJ_2_sd
+    100108: SOD_LWedFinJ_3_ctrl
+    100110: SOD_LWedFinJ_3_sd
+    100112: SOD_LWedFinJ_4
+    100114: SOD_LWristJ_1
+    100116: SOD_LWristJ_1_ctrl
+    100118: SOD_NeckJ_1
+    100120: SOD_NeckJ_2
+    100122: SOD_NoseJ_1
+    100124: SOD_RAnkleJ_1
+    100126: SOD_RBendJ_1
+    100128: SOD_RForeArmJ_1
+    100130: SOD_RForeArmJ_2
+    100132: SOD_RHeelJ_1
+    100134: SOD_RKneeJ_1
+    100136: SOD_RKneeJ_2
+    100138: SOD_RMidFinBaseJ_1_ctrl
+    100140: SOD_RMidFinBaseJ_1_sd
+    100142: SOD_RMidFinJ_1_ctrl
+    100144: SOD_RMidFinJ_1_sd
+    100146: SOD_RMidFinJ_2_ctrl
+    100148: SOD_RMidFinJ_2_sd
+    100150: SOD_RMidFinJ_3_ctrl
+    100152: SOD_RMidFinJ_3_sd
+    100154: SOD_RMidFinJ_4
+    100156: SOD_RPointyFinBaseJ_1_ctrl
+    100158: SOD_RPointyFinBaseJ_1_sd
+    100160: SOD_RPointyFinJ_1_ctrl
+    100162: SOD_RPointyFinJ_1_sd
+    100164: SOD_RPointyFinJ_2_ctrl
+    100166: SOD_RPointyFinJ_2_sd
+    100168: SOD_RPointyFinJ_3_ctrl
+    100170: SOD_RPointyFinJ_3_sd
+    100172: SOD_RPointyFinJ_4
+    100174: SOD_RShoulderJ_1
+    100176: SOD_RShoulderPlateJ_1
+    100178: SOD_RThumbBaseJ_1_ctrl
+    100180: SOD_RThumbBaseJ_1_sd
+    100182: SOD_RThumbJ_1_ctrl
+    100184: SOD_RThumbJ_1_sd
+    100186: SOD_RThumbJ_2_ctrl
+    100188: SOD_RThumbJ_2_sd
+    100190: SOD_RThumbJ_3
+    100192: SOD_RTightJ_1
+    100194: SOD_RTinyFinBaseJ_1_ctrl
+    100196: SOD_RTinyFinBaseJ_1_sd
+    100198: SOD_RTinyFinJ_1_ctrl
+    100200: SOD_RTinyFinJ_1_sd
+    100202: SOD_RTinyFinJ_2_ctrl
+    100204: SOD_RTinyFinJ_2_sd
+    100206: SOD_RTinyFinJ_3_ctrl
+    100208: SOD_RTinyFinJ_3_sd
+    100210: SOD_RTinyFinJ_4
+    100212: SOD_RToesJ_1
+    100214: SOD_RWedFinBaseJ_1_ctrl
+    100216: SOD_RWedFinBaseJ_1_sd
+    100218: SOD_RWedFinJ_1_ctrl
+    100220: SOD_RWedFinJ_1_sd
+    100222: SOD_RWedFinJ_2_ctrl
+    100224: SOD_RWedFinJ_2_sd
+    100226: SOD_RWedFinJ_3_ctrl
+    100228: SOD_RWedFinJ_3_sd
+    100230: SOD_RWedFinJ_4
+    100232: SOD_RWristJ_1
+    100234: SOD_RWristJ_1_ctrl
+    100236: SOD_SpineJ_1
+    100238: SOD_SpineJ_2
+    100240: SOD_SpineJ_3
+    100242: SOD_SpineJ_4
+    100244: SOD_SpineJ_5
+    100246: SOD_SpineJ_6
+    100248: SOD_SpineJ_7
+    100250: SOD_SpineJ_8
+    400000: //RootNode
+    400002: SOD_HeadJ_1
+    400004: SOD_HeadJ_2
+    400006: SOD_LAnkleJ_1
+    400008: SOD_LBendJ_1
+    400010: SOD_LForeArmJ_1
+    400012: SOD_LForeArmJ_2
+    400014: SOD_LHeelJ_1
+    400016: SOD_LKneeJ_1
+    400018: SOD_LKneeJ_2
+    400020: SOD_LMidFinBaseJ_1_ctrl
+    400022: SOD_LMidFinBaseJ_1_sd
+    400024: SOD_LMidFinJ_1_ctrl
+    400026: SOD_LMidFinJ_1_sd
+    400028: SOD_LMidFinJ_2_ctrl
+    400030: SOD_LMidFinJ_2_sd
+    400032: SOD_LMidFinJ_3_ctrl
+    400034: SOD_LMidFinJ_3_sd
+    400036: SOD_LMidFinJ_4
+    400038: SOD_LPointyFinBaseJ_1_ctrl
+    400040: SOD_LPointyFinBaseJ_1_sd
+    400042: SOD_LPointyFinJ_1_ctrl
+    400044: SOD_LPointyFinJ_1_sd
+    400046: SOD_LPointyFinJ_2_ctrl
+    400048: SOD_LPointyFinJ_2_sd
+    400050: SOD_LPointyFinJ_3_ctrl
+    400052: SOD_LPointyFinJ_3_sd
+    400054: SOD_LPointyFinJ_4
+    400056: SOD_LShoulderJ_1
+    400058: SOD_LShoulderPlateJ_1
+    400060: SOD_LThumbBaseJ_1_ctrl
+    400062: SOD_LThumbBaseJ_1_sd
+    400064: SOD_LThumbJ_1_ctrl
+    400066: SOD_LThumbJ_1_sd
+    400068: SOD_LThumbJ_2_ctrl
+    400070: SOD_LThumbJ_2_sd
+    400072: SOD_LThumbJ_3
+    400074: SOD_LTightJ_1
+    400076: SOD_LTinyFinBaseJ_1_ctrl
+    400078: SOD_LTinyFinBaseJ_1_sd
+    400080: SOD_LTinyFinJ_1_ctrl
+    400082: SOD_LTinyFinJ_1_sd
+    400084: SOD_LTinyFinJ_2_ctrl
+    400086: SOD_LTinyFinJ_2_sd
+    400088: SOD_LTinyFinJ_3_ctrl
+    400090: SOD_LTinyFinJ_3_sd
+    400092: SOD_LTinyFinJ_4
+    400094: SOD_LToesJ_1
+    400096: SOD_LWedFinBaseJ_1_ctrl
+    400098: SOD_LWedFinBaseJ_1_sd
+    400100: SOD_LWedFinJ_1_ctrl
+    400102: SOD_LWedFinJ_1_sd
+    400104: SOD_LWedFinJ_2_ctrl
+    400106: SOD_LWedFinJ_2_sd
+    400108: SOD_LWedFinJ_3_ctrl
+    400110: SOD_LWedFinJ_3_sd
+    400112: SOD_LWedFinJ_4
+    400114: SOD_LWristJ_1
+    400116: SOD_LWristJ_1_ctrl
+    400118: SOD_NeckJ_1
+    400120: SOD_NeckJ_2
+    400122: SOD_NoseJ_1
+    400124: SOD_RAnkleJ_1
+    400126: SOD_RBendJ_1
+    400128: SOD_RForeArmJ_1
+    400130: SOD_RForeArmJ_2
+    400132: SOD_RHeelJ_1
+    400134: SOD_RKneeJ_1
+    400136: SOD_RKneeJ_2
+    400138: SOD_RMidFinBaseJ_1_ctrl
+    400140: SOD_RMidFinBaseJ_1_sd
+    400142: SOD_RMidFinJ_1_ctrl
+    400144: SOD_RMidFinJ_1_sd
+    400146: SOD_RMidFinJ_2_ctrl
+    400148: SOD_RMidFinJ_2_sd
+    400150: SOD_RMidFinJ_3_ctrl
+    400152: SOD_RMidFinJ_3_sd
+    400154: SOD_RMidFinJ_4
+    400156: SOD_RPointyFinBaseJ_1_ctrl
+    400158: SOD_RPointyFinBaseJ_1_sd
+    400160: SOD_RPointyFinJ_1_ctrl
+    400162: SOD_RPointyFinJ_1_sd
+    400164: SOD_RPointyFinJ_2_ctrl
+    400166: SOD_RPointyFinJ_2_sd
+    400168: SOD_RPointyFinJ_3_ctrl
+    400170: SOD_RPointyFinJ_3_sd
+    400172: SOD_RPointyFinJ_4
+    400174: SOD_RShoulderJ_1
+    400176: SOD_RShoulderPlateJ_1
+    400178: SOD_RThumbBaseJ_1_ctrl
+    400180: SOD_RThumbBaseJ_1_sd
+    400182: SOD_RThumbJ_1_ctrl
+    400184: SOD_RThumbJ_1_sd
+    400186: SOD_RThumbJ_2_ctrl
+    400188: SOD_RThumbJ_2_sd
+    400190: SOD_RThumbJ_3
+    400192: SOD_RTightJ_1
+    400194: SOD_RTinyFinBaseJ_1_ctrl
+    400196: SOD_RTinyFinBaseJ_1_sd
+    400198: SOD_RTinyFinJ_1_ctrl
+    400200: SOD_RTinyFinJ_1_sd
+    400202: SOD_RTinyFinJ_2_ctrl
+    400204: SOD_RTinyFinJ_2_sd
+    400206: SOD_RTinyFinJ_3_ctrl
+    400208: SOD_RTinyFinJ_3_sd
+    400210: SOD_RTinyFinJ_4
+    400212: SOD_RToesJ_1
+    400214: SOD_RWedFinBaseJ_1_ctrl
+    400216: SOD_RWedFinBaseJ_1_sd
+    400218: SOD_RWedFinJ_1_ctrl
+    400220: SOD_RWedFinJ_1_sd
+    400222: SOD_RWedFinJ_2_ctrl
+    400224: SOD_RWedFinJ_2_sd
+    400226: SOD_RWedFinJ_3_ctrl
+    400228: SOD_RWedFinJ_3_sd
+    400230: SOD_RWedFinJ_4
+    400232: SOD_RWristJ_1
+    400234: SOD_RWristJ_1_ctrl
+    400236: SOD_SpineJ_1
+    400238: SOD_SpineJ_2
+    400240: SOD_SpineJ_3
+    400242: SOD_SpineJ_4
+    400244: SOD_SpineJ_5
+    400246: SOD_SpineJ_6
+    400248: SOD_SpineJ_7
+    400250: SOD_SpineJ_8
+    7400000: gripR
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: gripR
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SOD_SpineJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_LTightJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_LTightJ_1/SOD_LKneeJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_LTightJ_1/SOD_LKneeJ_1/SOD_LKneeJ_2
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_LTightJ_1/SOD_LKneeJ_1/SOD_LKneeJ_2/SOD_LAnkleJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_LTightJ_1/SOD_LKneeJ_1/SOD_LKneeJ_2/SOD_LAnkleJ_1/SOD_LBendJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_LTightJ_1/SOD_LKneeJ_1/SOD_LKneeJ_2/SOD_LAnkleJ_1/SOD_LBendJ_1/SOD_LToesJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_LTightJ_1/SOD_LKneeJ_1/SOD_LKneeJ_2/SOD_LAnkleJ_1/SOD_LHeelJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_RTightJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_RTightJ_1/SOD_RKneeJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_RTightJ_1/SOD_RKneeJ_1/SOD_RKneeJ_2
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_RTightJ_1/SOD_RKneeJ_1/SOD_RKneeJ_2/SOD_RAnkleJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_RTightJ_1/SOD_RKneeJ_1/SOD_RKneeJ_2/SOD_RAnkleJ_1/SOD_RBendJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_RTightJ_1/SOD_RKneeJ_1/SOD_RKneeJ_2/SOD_RAnkleJ_1/SOD_RBendJ_1/SOD_RToesJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_RTightJ_1/SOD_RKneeJ_1/SOD_RKneeJ_2/SOD_RAnkleJ_1/SOD_RHeelJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LMidFinBaseJ_1_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LMidFinBaseJ_1_sd/SOD_LMidFinBaseJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LMidFinBaseJ_1_sd/SOD_LMidFinBaseJ_1_ctrl/SOD_LMidFinJ_1_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LMidFinBaseJ_1_sd/SOD_LMidFinBaseJ_1_ctrl/SOD_LMidFinJ_1_sd/SOD_LMidFinJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LMidFinBaseJ_1_sd/SOD_LMidFinBaseJ_1_ctrl/SOD_LMidFinJ_1_sd/SOD_LMidFinJ_1_ctrl/SOD_LMidFinJ_2_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LMidFinBaseJ_1_sd/SOD_LMidFinBaseJ_1_ctrl/SOD_LMidFinJ_1_sd/SOD_LMidFinJ_1_ctrl/SOD_LMidFinJ_2_sd/SOD_LMidFinJ_2_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LMidFinBaseJ_1_sd/SOD_LMidFinBaseJ_1_ctrl/SOD_LMidFinJ_1_sd/SOD_LMidFinJ_1_ctrl/SOD_LMidFinJ_2_sd/SOD_LMidFinJ_2_ctrl/SOD_LMidFinJ_3_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LMidFinBaseJ_1_sd/SOD_LMidFinBaseJ_1_ctrl/SOD_LMidFinJ_1_sd/SOD_LMidFinJ_1_ctrl/SOD_LMidFinJ_2_sd/SOD_LMidFinJ_2_ctrl/SOD_LMidFinJ_3_sd/SOD_LMidFinJ_3_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LMidFinBaseJ_1_sd/SOD_LMidFinBaseJ_1_ctrl/SOD_LMidFinJ_1_sd/SOD_LMidFinJ_1_ctrl/SOD_LMidFinJ_2_sd/SOD_LMidFinJ_2_ctrl/SOD_LMidFinJ_3_sd/SOD_LMidFinJ_3_ctrl/SOD_LMidFinJ_4
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LPointyFinBaseJ_1_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LPointyFinBaseJ_1_sd/SOD_LPointyFinBaseJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LPointyFinBaseJ_1_sd/SOD_LPointyFinBaseJ_1_ctrl/SOD_LPointyFinJ_1_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LPointyFinBaseJ_1_sd/SOD_LPointyFinBaseJ_1_ctrl/SOD_LPointyFinJ_1_sd/SOD_LPointyFinJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LPointyFinBaseJ_1_sd/SOD_LPointyFinBaseJ_1_ctrl/SOD_LPointyFinJ_1_sd/SOD_LPointyFinJ_1_ctrl/SOD_LPointyFinJ_2_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LPointyFinBaseJ_1_sd/SOD_LPointyFinBaseJ_1_ctrl/SOD_LPointyFinJ_1_sd/SOD_LPointyFinJ_1_ctrl/SOD_LPointyFinJ_2_sd/SOD_LPointyFinJ_2_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LPointyFinBaseJ_1_sd/SOD_LPointyFinBaseJ_1_ctrl/SOD_LPointyFinJ_1_sd/SOD_LPointyFinJ_1_ctrl/SOD_LPointyFinJ_2_sd/SOD_LPointyFinJ_2_ctrl/SOD_LPointyFinJ_3_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LPointyFinBaseJ_1_sd/SOD_LPointyFinBaseJ_1_ctrl/SOD_LPointyFinJ_1_sd/SOD_LPointyFinJ_1_ctrl/SOD_LPointyFinJ_2_sd/SOD_LPointyFinJ_2_ctrl/SOD_LPointyFinJ_3_sd/SOD_LPointyFinJ_3_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LPointyFinBaseJ_1_sd/SOD_LPointyFinBaseJ_1_ctrl/SOD_LPointyFinJ_1_sd/SOD_LPointyFinJ_1_ctrl/SOD_LPointyFinJ_2_sd/SOD_LPointyFinJ_2_ctrl/SOD_LPointyFinJ_3_sd/SOD_LPointyFinJ_3_ctrl/SOD_LPointyFinJ_4
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LThumbBaseJ_1_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LThumbBaseJ_1_sd/SOD_LThumbBaseJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LThumbBaseJ_1_sd/SOD_LThumbBaseJ_1_ctrl/SOD_LThumbJ_1_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LThumbBaseJ_1_sd/SOD_LThumbBaseJ_1_ctrl/SOD_LThumbJ_1_sd/SOD_LThumbJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LThumbBaseJ_1_sd/SOD_LThumbBaseJ_1_ctrl/SOD_LThumbJ_1_sd/SOD_LThumbJ_1_ctrl/SOD_LThumbJ_2_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LThumbBaseJ_1_sd/SOD_LThumbBaseJ_1_ctrl/SOD_LThumbJ_1_sd/SOD_LThumbJ_1_ctrl/SOD_LThumbJ_2_sd/SOD_LThumbJ_2_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LThumbBaseJ_1_sd/SOD_LThumbBaseJ_1_ctrl/SOD_LThumbJ_1_sd/SOD_LThumbJ_1_ctrl/SOD_LThumbJ_2_sd/SOD_LThumbJ_2_ctrl/SOD_LThumbJ_3
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LTinyFinBaseJ_1_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LTinyFinBaseJ_1_sd/SOD_LTinyFinBaseJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LTinyFinBaseJ_1_sd/SOD_LTinyFinBaseJ_1_ctrl/SOD_LTinyFinJ_1_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LTinyFinBaseJ_1_sd/SOD_LTinyFinBaseJ_1_ctrl/SOD_LTinyFinJ_1_sd/SOD_LTinyFinJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LTinyFinBaseJ_1_sd/SOD_LTinyFinBaseJ_1_ctrl/SOD_LTinyFinJ_1_sd/SOD_LTinyFinJ_1_ctrl/SOD_LTinyFinJ_2_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LTinyFinBaseJ_1_sd/SOD_LTinyFinBaseJ_1_ctrl/SOD_LTinyFinJ_1_sd/SOD_LTinyFinJ_1_ctrl/SOD_LTinyFinJ_2_sd/SOD_LTinyFinJ_2_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LTinyFinBaseJ_1_sd/SOD_LTinyFinBaseJ_1_ctrl/SOD_LTinyFinJ_1_sd/SOD_LTinyFinJ_1_ctrl/SOD_LTinyFinJ_2_sd/SOD_LTinyFinJ_2_ctrl/SOD_LTinyFinJ_3_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LTinyFinBaseJ_1_sd/SOD_LTinyFinBaseJ_1_ctrl/SOD_LTinyFinJ_1_sd/SOD_LTinyFinJ_1_ctrl/SOD_LTinyFinJ_2_sd/SOD_LTinyFinJ_2_ctrl/SOD_LTinyFinJ_3_sd/SOD_LTinyFinJ_3_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LTinyFinBaseJ_1_sd/SOD_LTinyFinBaseJ_1_ctrl/SOD_LTinyFinJ_1_sd/SOD_LTinyFinJ_1_ctrl/SOD_LTinyFinJ_2_sd/SOD_LTinyFinJ_2_ctrl/SOD_LTinyFinJ_3_sd/SOD_LTinyFinJ_3_ctrl/SOD_LTinyFinJ_4
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LWedFinBaseJ_1_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LWedFinBaseJ_1_sd/SOD_LWedFinBaseJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LWedFinBaseJ_1_sd/SOD_LWedFinBaseJ_1_ctrl/SOD_LWedFinJ_1_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LWedFinBaseJ_1_sd/SOD_LWedFinBaseJ_1_ctrl/SOD_LWedFinJ_1_sd/SOD_LWedFinJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LWedFinBaseJ_1_sd/SOD_LWedFinBaseJ_1_ctrl/SOD_LWedFinJ_1_sd/SOD_LWedFinJ_1_ctrl/SOD_LWedFinJ_2_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LWedFinBaseJ_1_sd/SOD_LWedFinBaseJ_1_ctrl/SOD_LWedFinJ_1_sd/SOD_LWedFinJ_1_ctrl/SOD_LWedFinJ_2_sd/SOD_LWedFinJ_2_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LWedFinBaseJ_1_sd/SOD_LWedFinBaseJ_1_ctrl/SOD_LWedFinJ_1_sd/SOD_LWedFinJ_1_ctrl/SOD_LWedFinJ_2_sd/SOD_LWedFinJ_2_ctrl/SOD_LWedFinJ_3_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LWedFinBaseJ_1_sd/SOD_LWedFinBaseJ_1_ctrl/SOD_LWedFinJ_1_sd/SOD_LWedFinJ_1_ctrl/SOD_LWedFinJ_2_sd/SOD_LWedFinJ_2_ctrl/SOD_LWedFinJ_3_sd/SOD_LWedFinJ_3_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_LShoulderPlateJ_1/SOD_LShoulderJ_1/SOD_LForeArmJ_1/SOD_LForeArmJ_2/SOD_LWristJ_1/SOD_LWristJ_1_ctrl/SOD_LWedFinBaseJ_1_sd/SOD_LWedFinBaseJ_1_ctrl/SOD_LWedFinJ_1_sd/SOD_LWedFinJ_1_ctrl/SOD_LWedFinJ_2_sd/SOD_LWedFinJ_2_ctrl/SOD_LWedFinJ_3_sd/SOD_LWedFinJ_3_ctrl/SOD_LWedFinJ_4
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_NeckJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_NeckJ_1/SOD_NeckJ_2
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_NeckJ_1/SOD_NeckJ_2/SOD_HeadJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_NeckJ_1/SOD_NeckJ_2/SOD_HeadJ_1/SOD_HeadJ_2
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_NeckJ_1/SOD_NeckJ_2/SOD_HeadJ_1/SOD_NoseJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RMidFinBaseJ_1_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RMidFinBaseJ_1_sd/SOD_RMidFinBaseJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RMidFinBaseJ_1_sd/SOD_RMidFinBaseJ_1_ctrl/SOD_RMidFinJ_1_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RMidFinBaseJ_1_sd/SOD_RMidFinBaseJ_1_ctrl/SOD_RMidFinJ_1_sd/SOD_RMidFinJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RMidFinBaseJ_1_sd/SOD_RMidFinBaseJ_1_ctrl/SOD_RMidFinJ_1_sd/SOD_RMidFinJ_1_ctrl/SOD_RMidFinJ_2_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RMidFinBaseJ_1_sd/SOD_RMidFinBaseJ_1_ctrl/SOD_RMidFinJ_1_sd/SOD_RMidFinJ_1_ctrl/SOD_RMidFinJ_2_sd/SOD_RMidFinJ_2_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RMidFinBaseJ_1_sd/SOD_RMidFinBaseJ_1_ctrl/SOD_RMidFinJ_1_sd/SOD_RMidFinJ_1_ctrl/SOD_RMidFinJ_2_sd/SOD_RMidFinJ_2_ctrl/SOD_RMidFinJ_3_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RMidFinBaseJ_1_sd/SOD_RMidFinBaseJ_1_ctrl/SOD_RMidFinJ_1_sd/SOD_RMidFinJ_1_ctrl/SOD_RMidFinJ_2_sd/SOD_RMidFinJ_2_ctrl/SOD_RMidFinJ_3_sd/SOD_RMidFinJ_3_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RMidFinBaseJ_1_sd/SOD_RMidFinBaseJ_1_ctrl/SOD_RMidFinJ_1_sd/SOD_RMidFinJ_1_ctrl/SOD_RMidFinJ_2_sd/SOD_RMidFinJ_2_ctrl/SOD_RMidFinJ_3_sd/SOD_RMidFinJ_3_ctrl/SOD_RMidFinJ_4
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RPointyFinBaseJ_1_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RPointyFinBaseJ_1_sd/SOD_RPointyFinBaseJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RPointyFinBaseJ_1_sd/SOD_RPointyFinBaseJ_1_ctrl/SOD_RPointyFinJ_1_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RPointyFinBaseJ_1_sd/SOD_RPointyFinBaseJ_1_ctrl/SOD_RPointyFinJ_1_sd/SOD_RPointyFinJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RPointyFinBaseJ_1_sd/SOD_RPointyFinBaseJ_1_ctrl/SOD_RPointyFinJ_1_sd/SOD_RPointyFinJ_1_ctrl/SOD_RPointyFinJ_2_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RPointyFinBaseJ_1_sd/SOD_RPointyFinBaseJ_1_ctrl/SOD_RPointyFinJ_1_sd/SOD_RPointyFinJ_1_ctrl/SOD_RPointyFinJ_2_sd/SOD_RPointyFinJ_2_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RPointyFinBaseJ_1_sd/SOD_RPointyFinBaseJ_1_ctrl/SOD_RPointyFinJ_1_sd/SOD_RPointyFinJ_1_ctrl/SOD_RPointyFinJ_2_sd/SOD_RPointyFinJ_2_ctrl/SOD_RPointyFinJ_3_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RPointyFinBaseJ_1_sd/SOD_RPointyFinBaseJ_1_ctrl/SOD_RPointyFinJ_1_sd/SOD_RPointyFinJ_1_ctrl/SOD_RPointyFinJ_2_sd/SOD_RPointyFinJ_2_ctrl/SOD_RPointyFinJ_3_sd/SOD_RPointyFinJ_3_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RPointyFinBaseJ_1_sd/SOD_RPointyFinBaseJ_1_ctrl/SOD_RPointyFinJ_1_sd/SOD_RPointyFinJ_1_ctrl/SOD_RPointyFinJ_2_sd/SOD_RPointyFinJ_2_ctrl/SOD_RPointyFinJ_3_sd/SOD_RPointyFinJ_3_ctrl/SOD_RPointyFinJ_4
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RThumbBaseJ_1_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RThumbBaseJ_1_sd/SOD_RThumbBaseJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RThumbBaseJ_1_sd/SOD_RThumbBaseJ_1_ctrl/SOD_RThumbJ_1_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RThumbBaseJ_1_sd/SOD_RThumbBaseJ_1_ctrl/SOD_RThumbJ_1_sd/SOD_RThumbJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RThumbBaseJ_1_sd/SOD_RThumbBaseJ_1_ctrl/SOD_RThumbJ_1_sd/SOD_RThumbJ_1_ctrl/SOD_RThumbJ_2_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RThumbBaseJ_1_sd/SOD_RThumbBaseJ_1_ctrl/SOD_RThumbJ_1_sd/SOD_RThumbJ_1_ctrl/SOD_RThumbJ_2_sd/SOD_RThumbJ_2_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RThumbBaseJ_1_sd/SOD_RThumbBaseJ_1_ctrl/SOD_RThumbJ_1_sd/SOD_RThumbJ_1_ctrl/SOD_RThumbJ_2_sd/SOD_RThumbJ_2_ctrl/SOD_RThumbJ_3
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RTinyFinBaseJ_1_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RTinyFinBaseJ_1_sd/SOD_RTinyFinBaseJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RTinyFinBaseJ_1_sd/SOD_RTinyFinBaseJ_1_ctrl/SOD_RTinyFinJ_1_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RTinyFinBaseJ_1_sd/SOD_RTinyFinBaseJ_1_ctrl/SOD_RTinyFinJ_1_sd/SOD_RTinyFinJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RTinyFinBaseJ_1_sd/SOD_RTinyFinBaseJ_1_ctrl/SOD_RTinyFinJ_1_sd/SOD_RTinyFinJ_1_ctrl/SOD_RTinyFinJ_2_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RTinyFinBaseJ_1_sd/SOD_RTinyFinBaseJ_1_ctrl/SOD_RTinyFinJ_1_sd/SOD_RTinyFinJ_1_ctrl/SOD_RTinyFinJ_2_sd/SOD_RTinyFinJ_2_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RTinyFinBaseJ_1_sd/SOD_RTinyFinBaseJ_1_ctrl/SOD_RTinyFinJ_1_sd/SOD_RTinyFinJ_1_ctrl/SOD_RTinyFinJ_2_sd/SOD_RTinyFinJ_2_ctrl/SOD_RTinyFinJ_3_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RTinyFinBaseJ_1_sd/SOD_RTinyFinBaseJ_1_ctrl/SOD_RTinyFinJ_1_sd/SOD_RTinyFinJ_1_ctrl/SOD_RTinyFinJ_2_sd/SOD_RTinyFinJ_2_ctrl/SOD_RTinyFinJ_3_sd/SOD_RTinyFinJ_3_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RTinyFinBaseJ_1_sd/SOD_RTinyFinBaseJ_1_ctrl/SOD_RTinyFinJ_1_sd/SOD_RTinyFinJ_1_ctrl/SOD_RTinyFinJ_2_sd/SOD_RTinyFinJ_2_ctrl/SOD_RTinyFinJ_3_sd/SOD_RTinyFinJ_3_ctrl/SOD_RTinyFinJ_4
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RWedFinBaseJ_1_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RWedFinBaseJ_1_sd/SOD_RWedFinBaseJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RWedFinBaseJ_1_sd/SOD_RWedFinBaseJ_1_ctrl/SOD_RWedFinJ_1_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RWedFinBaseJ_1_sd/SOD_RWedFinBaseJ_1_ctrl/SOD_RWedFinJ_1_sd/SOD_RWedFinJ_1_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RWedFinBaseJ_1_sd/SOD_RWedFinBaseJ_1_ctrl/SOD_RWedFinJ_1_sd/SOD_RWedFinJ_1_ctrl/SOD_RWedFinJ_2_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RWedFinBaseJ_1_sd/SOD_RWedFinBaseJ_1_ctrl/SOD_RWedFinJ_1_sd/SOD_RWedFinJ_1_ctrl/SOD_RWedFinJ_2_sd/SOD_RWedFinJ_2_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RWedFinBaseJ_1_sd/SOD_RWedFinBaseJ_1_ctrl/SOD_RWedFinJ_1_sd/SOD_RWedFinJ_1_ctrl/SOD_RWedFinJ_2_sd/SOD_RWedFinJ_2_ctrl/SOD_RWedFinJ_3_sd
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RWedFinBaseJ_1_sd/SOD_RWedFinBaseJ_1_ctrl/SOD_RWedFinJ_1_sd/SOD_RWedFinJ_1_ctrl/SOD_RWedFinJ_2_sd/SOD_RWedFinJ_2_ctrl/SOD_RWedFinJ_3_sd/SOD_RWedFinJ_3_ctrl
+        weight: 1
+      - path: SOD_SpineJ_1/SOD_SpineJ_2/SOD_SpineJ_3/SOD_SpineJ_4/SOD_SpineJ_5/SOD_SpineJ_6/SOD_SpineJ_7/SOD_SpineJ_8/SOD_RShoulderPlateJ_1/SOD_RShoulderJ_1/SOD_RForeArmJ_1/SOD_RForeArmJ_2/SOD_RWristJ_1/SOD_RWristJ_1_ctrl/SOD_RWedFinBaseJ_1_sd/SOD_RWedFinBaseJ_1_ctrl/SOD_RWedFinJ_1_sd/SOD_RWedFinJ_1_ctrl/SOD_RWedFinJ_2_sd/SOD_RWedFinJ_2_ctrl/SOD_RWedFinJ_3_sd/SOD_RWedFinJ_3_ctrl/SOD_RWedFinJ_4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
